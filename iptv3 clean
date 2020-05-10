@@ -1,6 +1,3 @@
-
-
-
 #EXTM3U
 #EXTINF:-1 ,ABC News 2
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
@@ -2140,10 +2137,6 @@ https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.00
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 ,United States: WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -2182,14 +2175,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12448
 http://41.226.0.142:8000/ajude3046/p5h4yy/12449
 #EXTINF:-1 ,US_Fox Oakland
 http://41.226.0.142:8000/ajude3046/p5h4yy/12450
-#EXTINF:-1 ,US_Fox Sports SUN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12455
-#EXTINF:-1 ,US_Fox Sports Detroit
-http://41.226.0.142:8000/ajude3046/p5h4yy/12459
-#EXTINF:-1 ,US_Fox Sports Indiana
-http://41.226.0.142:8000/ajude3046/p5h4yy/12463
-#EXTINF:-1 ,US_Fox Sports Southwest HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12471
 #EXTINF:-1 ,US_FYI HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12484
 #EXTINF:-1 ,US_Gol TV HD
@@ -2206,14 +2191,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12503
 http://41.226.0.142:8000/ajude3046/p5h4yy/12554
 #EXTINF:-1 ,US_NESN Plus
 http://41.226.0.142:8000/ajude3046/p5h4yy/12555
-#EXTINF:-1 ,US_Nicktoons
-http://41.226.0.142:8000/ajude3046/p5h4yy/12560
-#EXTINF:-1 ,US_Olympic Channel HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12561
-#EXTINF:-1 ,US_Outdoor HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12562
-#EXTINF:-1 ,US_POP HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12573
 #EXTINF:-1 ,US_Starz HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12596
 #EXTINF:-1 ,US_WE TV HD
@@ -2230,8 +2207,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12618
 http://41.226.0.142:8000/ajude3046/p5h4yy/12628
 #EXTINF:-1 ,US_AMC
 http://41.226.0.142:8000/ajude3046/p5h4yy/12634
-#EXTINF:-1 ,US_Starz Encore Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12642
 #EXTINF:-1 ,US_Starz Cinema East HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12653
 #EXTINF:-1 ,US_OuterMax HD_1080P
@@ -2424,8 +2399,6 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/4175.mpegts
 http://streamxcode.ddns.net:25461/load/desiboyz150/3929.mpegts
 #EXTINF:-1 ,BBC 1 HD
 http://dimapro.cz:8080/695010113060214/695010113060214/38561
-#EXTINF:-1 ,BBC 2 HD
-http://dimapro.cz:8080/695010113060214/695010113060214/38562
 #EXTINF:-1 ,BBC 4 HD / CBEEBIES HD
 http://dimapro.cz:8080/695010113060214/695010113060214/38563
 #EXTINF:-1 ,BBC ONE WALES HD
@@ -2438,8 +2411,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/38569
 http://dimapro.cz:8080/695010113060214/695010113060214/38571
 #EXTINF:-1 ,NICKELODEON EUROPE
 http://dimapro.cz:8080/695010113060214/695010113060214/38583
-#EXTINF:-1 ,SKY ATLANTIC HD
-http://dimapro.cz:8080/695010113060214/695010113060214/38586
 #EXTINF:-1 ,SKY CINEMA COMEDY FHD
 http://dimapro.cz:8080/695010113060214/695010113060214/38588
 #EXTINF:-1 ,SKY CINEMA DISNEY FHD
@@ -2564,8 +2535,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39123
 http://dimapro.cz:8080/695010113060214/695010113060214/39120
 #EXTINF:-1 ,E!
 http://dimapro.cz:8080/695010113060214/695010113060214/39128
-#EXTINF:-1 ,Syfy HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39129
 #EXTINF:-1 ,DIY Network
 http://dimapro.cz:8080/695010113060214/695010113060214/39131
 #EXTINF:-1 ,Fox HD
@@ -2594,8 +2563,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39145
 http://dimapro.cz:8080/695010113060214/695010113060214/39146
 #EXTINF:-1 ,CRIME INVESTIGATION HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39147
-#EXTINF:-1 ,DISCOVERY SC HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39148
 #EXTINF:-1 ,H2 HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39149
 #EXTINF:-1 ,HISTORY HD
@@ -3022,14 +2989,6 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 #EXTINF:-1 ,ES014:M Deportes 2
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2590
-#EXTINF:-1 ,ES132:Vamos FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29260
-#EXTINF:-1 ,ES082:CANAL COCINA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29310
-#EXTINF:-1 ,ES104:TAQUILLA 6
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29288
-#EXTINF:-1 ,ES116:Alquiler 7 HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29276
 #EXTINF:-1 ,ES124:Syfy HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29268
 #EXTINF:-1 ,ES167:SUNDANCE FHD
@@ -3048,18 +3007,10 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52358
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52353
 #EXTINF:-1 ,ES262:CANAL Formula One
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52345
-#EXTINF:-1 ,ES057:NAT GEO ES
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2547
 #EXTINF:-1 ,ES071:Viajar
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2533
 #EXTINF:-1 ,ES083:VIAJAR HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29309
-#EXTINF:-1 ,ES149:CRIMEN & INVESTIGACION
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29243
-#EXTINF:-1 ,ES228:National Geographic
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52379
-#EXTINF:-1 ,ES060:Nickelodeon ES
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2544
 #EXTINF:-1 ,ES143:CANAL PANDA
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29249
 #EXTINF:-1 ,ES200:Baby TV
@@ -3078,8 +3029,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29233
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52372
 #EXTINF:-1 ,ES237:Cosmo FHD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52370
-#EXTINF:-1 ,ES253:24-Horas °
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/52354
 #EXTINF:-1 ,HOLLYWOOD
 http://37.187.128.169:8000/live/iOS/toso/68.ts
 #EXTINF:-1 ,TCM HD
@@ -5306,8 +5255,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 ,United States: WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -5348,28 +5295,14 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12628
 http://41.226.0.142:8000/ajude3046/p5h4yy/12698
 #EXTINF:-1 ,USA_Al:jazeera
 http://41.226.0.142:8000/ajude3046/p5h4yy/1536
-#EXTINF:-1 ,US031:ESPN-2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3137
 #EXTINF:-1 ,US032:ESPN-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3136
-#EXTINF:-1 ,US034:ESPN-U
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3134
 #EXTINF:-1 ,US084:UFC Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3084
 #EXTINF:-1 ,US085:WWE-Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3083
-#EXTINF:-1 ,US091:Sec Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3077
 #EXTINF:-1 ,US092:Big Ten Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3076
-#EXTINF:-1 ,US155:Eleven_Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30035
-#EXTINF:-1 ,US036:FOX-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3132
-#EXTINF:-1 ,US037:FOX-News
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3131
-#EXTINF:-1 ,US039:FOX-Sports2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3129
 #EXTINF:-1 group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -6104,7 +6037,6 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/3900.mpegts
 http://streamxcode.ddns.net:25461/load/desiboyz150/4175.mpegts
 #EXTINF:-1 group-title="UK CH",2-UK: YESTERDAY
 http://streamxcode.ddns.net:25461/load/desiboyz150/3929.mpegts
-#EXTM3U
 #EXTINF:-1 ,CA001:ABC-SPARK
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3068
 #EXTINF:-1 ,CA011:CHCH
@@ -6113,8 +6045,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3058
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3057
 #EXTINF:-1 ,CA127:ENCORE 1 EAST
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30187
-#EXTINF:-1 ,CA136:FYI
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30178
 #EXTINF:-1 ,CA148:KTLA
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30166
 #EXTINF:-1 ,CA032:NBA CA
@@ -6127,26 +6057,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3001
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30182
 #EXTINF:-1 ,CA189:SUPER ECRAN 1
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30125
-#EXTINF:-1 ,CA203:MLB NETWORK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30111
-#EXTINF:-1 ,CA009:CBC-EAST
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3060
-#EXTINF:-1 ,CA010:CBC-NEWS-NETWORK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3059
-#EXTINF:-1 ,CA057:SMITHSONIAN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3012
-#EXTINF:-1 ,CA095:CANAL SAVOIR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30219
-#EXTINF:-1 ,CA115:CRIME INVEST
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30199
-#EXTINF:-1 ,CA124:DISCOVERY SCIENCE CANADA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30190
-#EXTINF:-1 ,24/7: Two Pints Of Lager And A Packet Of Crisps
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60003
-#EXTINF:-1 ,24/7: Two And A Half Men
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60004
-#EXTINF:-1 ,24/7: The King Of Queens
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60026
 #EXTINF:-1 ,24/7: The A Team
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60039
 #EXTINF:-1 ,24/7: Superhero Movies
@@ -6159,18 +6069,10 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60063
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60115
 #EXTINF:-1 ,24/7: How I Met Your Mother
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60118
-#EXTINF:-1 ,24/7:On My Block Show
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60206
 #EXTINF:-1 ,24/7:Titanic
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60219
-#EXTINF:-1 ,PAC 12 Los Angeles HD US
-http://tv.refundoiptv.iptv.uno:80/8TmyekH747/L1UcuW122/18856
 #EXTINF:-1 ,NBC 4 KNBC Los Angeles HD US
 http://tv.refundoiptv.iptv.uno:80/8TmyekH747/L1UcuW122/23229
-#EXTINF:-1 ,Boomerang HD US
-http://tv.refundoiptv.iptv.uno:80/8TmyekH747/L1UcuW122/27466
-#EXTINF:-1 ,One Piece [Anime-English] 24/7
-http://tv.refundoiptv.iptv.uno:80/8TmyekH747/L1UcuW122/30213
 #EXTINF:-1 ,24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 ,7 Murcia
@@ -6405,38 +6307,18 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28842
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2930
 #EXTINF:-1 ,UK044:FOX UK
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2913
-#EXTINF:-1 ,UK046:HBO UK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2911
 #EXTINF:-1 ,UK056:RTE One
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2901
 #EXTINF:-1 ,UK093:Sky Movies Modern
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28966
 #EXTINF:-1 ,UK100:Sky Two
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28959
-#EXTINF:-1 ,UK102:Sky Movies Select HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28957
-#EXTINF:-1 ,UK163:ZEE CINEMA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28896
-#EXTINF:-1 ,UK302:Sky Cinema Hits
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28757
 #EXTINF:-1 ,UK315:Sky Cinema Select FHD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28744
 #EXTINF:-1 ,UK130:FOX News
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28929
-#EXTINF:-1 ,UK107:Nickelodeon
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28952
 #EXTINF:-1 ,UK108:Nick Jr Too
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28951
-#EXTINF:-1 ,UK175:DMax
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28884
-#EXTINF:-1 ,UK060:MTV Base
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2897
-#EXTINF:-1 ,UK061:MTV Class
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2896
-#EXTINF:-1 ,UK138:VICELAND
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28921
-#EXTINF:-1 ,UK165:Syfy
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/28894
 #EXTINF:-1 ,BBC ONE WALES HD
 http://dimapro.cz:8080/695010113060214/695010113060214/38566
 #EXTINF:-1 ,BABY TV
@@ -6459,8 +6341,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/38595
 http://dimapro.cz:8080/695010113060214/695010113060214/38596
 #EXTINF:-1 ,SKY CINEMA THRILLER FHD
 http://dimapro.cz:8080/695010113060214/695010113060214/38597
-#EXTINF:-1 ,SKY ONE HD
-http://dimapro.cz:8080/695010113060214/695010113060214/38598
 #EXTINF:-1 ,TRUE MOVIES
 http://dimapro.cz:8080/695010113060214/695010113060214/38599
 #EXTINF:-1 ,TRUE MOVIES 2
@@ -6493,8 +6373,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/38642
 http://dimapro.cz:8080/695010113060214/695010113060214/38643
 #EXTINF:-1 ,BT Sports 3 | HD
 http://dimapro.cz:8080/695010113060214/695010113060214/38644
-#EXTINF:-1 ,SKY SPORT NEWS
-http://dimapro.cz:8080/695010113060214/695010113060214/38646
 #EXTINF:-1 ,SKY SPORT F1
 http://dimapro.cz:8080/695010113060214/695010113060214/38649
 #EXTINF:-1 ,SKY SPORT MIX
@@ -8263,8 +8141,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39092
 http://dimapro.cz:8080/695010113060214/695010113060214/39157
 #EXTINF:-1 ,MLB HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39093
-#EXTINF:-1 ,Tennis Channel HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39094
 #EXTINF:-1 ,NBC
 http://dimapro.cz:8080/695010113060214/695010113060214/39097
 #EXTINF:-1 ,NBC GOLF
@@ -8311,8 +8187,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39125
 http://dimapro.cz:8080/695010113060214/695010113060214/39120
 #EXTINF:-1 ,E!
 http://dimapro.cz:8080/695010113060214/695010113060214/39128
-#EXTINF:-1 ,Syfy HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39129
 #EXTINF:-1 ,DAYSTAR TV
 http://dimapro.cz:8080/695010113060214/695010113060214/39130
 #EXTINF:-1 ,DIY Network
@@ -8339,10 +8213,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39143
 http://dimapro.cz:8080/695010113060214/695010113060214/39146
 #EXTINF:-1 ,CRIME INVESTIGATION HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39147
-#EXTINF:-1 ,DISCOVERY SC HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39148
-#EXTINF:-1 ,H2 HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39149
 #EXTINF:-1 ,HISTORY HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39150
 #EXTINF:-1 ,NAT GEO
@@ -8447,8 +8317,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/38124
 http://dimapro.cz:8080/695010113060214/695010113060214/38125
 #EXTINF:-1 ,KURD MOVIS HD
 http://dimapro.cz:8080/695010113060214/695010113060214/38127
-#EXTINF:-1 ,BASK (HD)
-http://dimapro.cz:8080/695010113060214/695010113060214/38129
 #EXTINF:-1 ,DASINYA (HD)
 http://dimapro.cz:8080/695010113060214/695010113060214/38131
 #EXTINF:-1 ,DASINYAMUSIC (HD)
@@ -8507,8 +8375,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12392
 http://41.226.0.142:8000/ajude3046/p5h4yy/12395
 #EXTINF:-1 ,US_CW Chicago HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12398
-#EXTINF:-1 ,US_CW Philadelphia
-http://41.226.0.142:8000/ajude3046/p5h4yy/12399
 #EXTINF:-1 ,US_Discovery Science
 http://41.226.0.142:8000/ajude3046/p5h4yy/12403
 #EXTINF:-1 ,US_E! Entertainment HD
@@ -8527,14 +8393,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12424
 http://41.226.0.142:8000/ajude3046/p5h4yy/12428
 #EXTINF:-1 ,US_Fox Atlanta HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12429
-#EXTINF:-1 ,US_Fox Baltimore
-http://41.226.0.142:8000/ajude3046/p5h4yy/12430
-#EXTINF:-1 ,US_Fox Bufalo
-http://41.226.0.142:8000/ajude3046/p5h4yy/12432
-#EXTINF:-1 ,US_Fox Business Network HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12433
-#EXTINF:-1 ,US_Fox KTVU
-http://41.226.0.142:8000/ajude3046/p5h4yy/12444
 #EXTINF:-1 ,US_Fox New York
 http://41.226.0.142:8000/ajude3046/p5h4yy/12448
 #EXTINF:-1 ,US_Fox Soccer HD
@@ -8593,12 +8451,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12545
 http://41.226.0.142:8000/ajude3046/p5h4yy/12546
 #EXTINF:-1 ,US_NBC WMTV
 http://41.226.0.142:8000/ajude3046/p5h4yy/12549
-#EXTINF:-1 ,US_NECN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12551
-#EXTINF:-1 ,US_NESN Plus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12555
-#EXTINF:-1 ,US_Pac 12 Oregon
-http://41.226.0.142:8000/ajude3046/p5h4yy/12570
 #EXTINF:-1 ,US_Pac 12 Washington
 http://41.226.0.142:8000/ajude3046/p5h4yy/12571
 #EXTINF:-1 ,US_Stadium
@@ -8627,20 +8479,8 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12614
 http://41.226.0.142:8000/ajude3046/p5h4yy/12615
 #EXTINF:-1 ,US_Universal Kids HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12619
-#EXTINF:-1 ,US_Starz Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12637
 #EXTINF:-1 ,US_Starz Encore West HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12638
-#EXTINF:-1 ,US_Starz Encore Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12642
-#EXTINF:-1 ,US_Starz Black HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12654
-#EXTINF:-1 ,US_RetroPlex HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12656
-#EXTINF:-1 ,US_BOSTON 7 NEWS
-http://41.226.0.142:8000/ajude3046/p5h4yy/12673
-#EXTINF:-1 ,US_HBO 2 LATINO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12686
 #EXTINF:-1 ,US_HBO FAMILY USA
 http://41.226.0.142:8000/ajude3046/p5h4yy/12690
 #EXTINF:-1 ,US_HBO LATINO
@@ -8661,7 +8501,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12712
 http://41.226.0.142:8000/ajude3046/p5h4yy/12721
 #EXTINF:-1 ,US_The Weather Channel
 http://41.226.0.142:8000/ajude3046/p5h4yy/12727
-#EXTM3U
 #EXTINF:-1 ,OUTSIDE-F
 http://54.39.105.133:25461/Galaxy/Fubo/94
 #EXTINF:-1 ,TLC-F
@@ -8814,7 +8653,6 @@ http://54.39.105.133:25461/Galaxy/Fubo/201
 http://54.39.105.133:25461/Galaxy/Fubo/205
 #EXTINF:-1 ,LALIGAENG-F
 http://54.39.105.133:25461/Galaxy/Fubo/207
-#EXTM3U
 #EXTINF:-1 ,USA:CNN_Live
 http://41.226.0.142:8000/ajude3046/p5h4yy/2806
 #EXTINF:-1 ,US_Baby TV
@@ -8829,26 +8667,12 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12359
 http://41.226.0.142:8000/ajude3046/p5h4yy/12360
 #EXTINF:-1 ,US_CBS Boston
 http://41.226.0.142:8000/ajude3046/p5h4yy/12364
-#EXTINF:-1 ,US_CBS Columbus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12365
-#EXTINF:-1 ,US_CBS Kansas
-http://41.226.0.142:8000/ajude3046/p5h4yy/12366
-#EXTINF:-1 ,US_CBS KTVT
-http://41.226.0.142:8000/ajude3046/p5h4yy/12367
 #EXTINF:-1 ,US_CBS Los Angeles
 http://41.226.0.142:8000/ajude3046/p5h4yy/12368
 #EXTINF:-1 ,US_CBS Los Angeles HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12369
-#EXTINF:-1 ,US_CBS Miami
-http://41.226.0.142:8000/ajude3046/p5h4yy/12370
-#EXTINF:-1 ,US_CBS New Orleans
-http://41.226.0.142:8000/ajude3046/p5h4yy/12371
 #EXTINF:-1 ,US_CBS New York
 http://41.226.0.142:8000/ajude3046/p5h4yy/12372
-#EXTINF:-1 ,US_CBS New York Area
-http://41.226.0.142:8000/ajude3046/p5h4yy/12373
-#EXTINF:-1 ,US_CBS Philadelphia
-http://41.226.0.142:8000/ajude3046/p5h4yy/12374
 #EXTINF:-1 ,US_CBS San Fransisco
 http://41.226.0.142:8000/ajude3046/p5h4yy/12375
 #EXTINF:-1 ,US_CBS SN HD
@@ -8869,32 +8693,16 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12385
 http://41.226.0.142:8000/ajude3046/p5h4yy/12386
 #EXTINF:-1 ,US_Cinemax West
 http://41.226.0.142:8000/ajude3046/p5h4yy/12387
-#EXTINF:-1 ,US_CNBC HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12388
-#EXTINF:-1 ,US_CNBC World HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12389
 #EXTINF:-1 ,US_CNN
 http://41.226.0.142:8000/ajude3046/p5h4yy/12390
 #EXTINF:-1 ,US_CNN HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12391
 #EXTINF:-1 ,US_Cooking Channel HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12392
-#EXTINF:-1 ,US_Cozi HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12393
 #EXTINF:-1 ,US_Crime & Investigation
 http://41.226.0.142:8000/ajude3046/p5h4yy/12394
-#EXTINF:-1 ,US_CSN SN Boston
-http://41.226.0.142:8000/ajude3046/p5h4yy/12395
-#EXTINF:-1 ,US_CSN SN Cleveland WOIO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12396
 #EXTINF:-1 ,US_CW San Fransisco
 http://41.226.0.142:8000/ajude3046/p5h4yy/12400
-#EXTINF:-1 ,US_CW Tampa
-http://41.226.0.142:8000/ajude3046/p5h4yy/12401
-#EXTINF:-1 ,US_Discovery Channel
-http://41.226.0.142:8000/ajude3046/p5h4yy/12402
-#EXTINF:-1 ,US_Discovery Science
-http://41.226.0.142:8000/ajude3046/p5h4yy/12403
 #EXTINF:-1 ,US_Disney Channel
 http://41.226.0.142:8000/ajude3046/p5h4yy/12404
 #EXTINF:-1 ,US_DIY HD
@@ -8923,18 +8731,8 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12423
 http://41.226.0.142:8000/ajude3046/p5h4yy/12424
 #EXTINF:-1 ,US_Fox 4 Kansas
 http://41.226.0.142:8000/ajude3046/p5h4yy/12425
-#EXTINF:-1 ,US_Fox 47 WMSN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12426
-#EXTINF:-1 ,US_Fox Chicago
-http://41.226.0.142:8000/ajude3046/p5h4yy/12434
 #EXTINF:-1 ,US_Fox Cleveland WJW
 http://41.226.0.142:8000/ajude3046/p5h4yy/12435
-#EXTINF:-1 ,US_Fox College Sports Atlantic
-http://41.226.0.142:8000/ajude3046/p5h4yy/12436
-#EXTINF:-1 ,US_Fox Jacksonville
-http://41.226.0.142:8000/ajude3046/p5h4yy/12442
-#EXTINF:-1 ,US_Fox KDFW
-http://41.226.0.142:8000/ajude3046/p5h4yy/12443
 #EXTINF:-1 ,US_Fox KTVU
 http://41.226.0.142:8000/ajude3046/p5h4yy/12444
 #EXTINF:-1 ,US_Fox Los Angeles
@@ -8947,16 +8745,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12447
 http://41.226.0.142:8000/ajude3046/p5h4yy/12448
 #EXTINF:-1 ,US_Fox News HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12449
-#EXTINF:-1 ,US_Fox Oakland
-http://41.226.0.142:8000/ajude3046/p5h4yy/12450
-#EXTINF:-1 ,US_Fox Portland
-http://41.226.0.142:8000/ajude3046/p5h4yy/12451
-#EXTINF:-1 ,US_Fox Soccer HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12452
-#EXTINF:-1 ,US_Fox Sports 1 HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12453
-#EXTINF:-1 ,US_Fox Sports 2 HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12454
 #EXTINF:-1 ,US_Fox Sports SUN
 http://41.226.0.142:8000/ajude3046/p5h4yy/12455
 #EXTINF:-1 ,US_Fox Sports Carolinas
@@ -8975,10 +8763,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12467
 http://41.226.0.142:8000/ajude3046/p5h4yy/12468
 #EXTINF:-1 ,US_Fox Sports FS1
 http://41.226.0.142:8000/ajude3046/p5h4yy/12469
-#EXTINF:-1 ,US_Fox Sports Southeast
-http://41.226.0.142:8000/ajude3046/p5h4yy/12470
-#EXTINF:-1 ,US_Fox Sports Southwest HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12471
 #EXTINF:-1 ,US_Fox Sports Tampa
 http://41.226.0.142:8000/ajude3046/p5h4yy/12472
 #EXTINF:-1 ,US_Fox Sports West HD
@@ -8997,14 +8781,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12486
 http://41.226.0.142:8000/ajude3046/p5h4yy/12487
 #EXTINF:-1 ,US_Hallmark Drama HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12488
-#EXTINF:-1 ,US_Hallmark HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12489
-#EXTINF:-1 ,US_Hallmark Movies & Mysteries HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12490
-#EXTINF:-1 ,US_HBO Comedy
-http://41.226.0.142:8000/ajude3046/p5h4yy/12492
-#EXTINF:-1 ,US_HBO Family
-http://41.226.0.142:8000/ajude3046/p5h4yy/12494
 #EXTINF:-1 ,US_HBO Signature East
 http://41.226.0.142:8000/ajude3046/p5h4yy/12495
 #EXTINF:-1 ,US_HBO Zone
@@ -9015,78 +8791,40 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12497
 http://41.226.0.142:8000/ajude3046/p5h4yy/12498
 #EXTINF:-1 ,US_IFC HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12499
-#EXTINF:-1 ,US_Inspirational
-http://41.226.0.142:8000/ajude3046/p5h4yy/12500
-#EXTINF:-1 ,US_Investigation Discovery
-http://41.226.0.142:8000/ajude3046/p5h4yy/12501
-#EXTINF:-1 ,US_KICU HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12502
 #EXTINF:-1 ,US_MSG 2
 http://41.226.0.142:8000/ajude3046/p5h4yy/12511
 #EXTINF:-1 ,US_MSG 2 Plus
 http://41.226.0.142:8000/ajude3046/p5h4yy/12512
 #EXTINF:-1 ,US_MSG Plus
 http://41.226.0.142:8000/ajude3046/p5h4yy/12513
-#EXTINF:-1 ,US_Nat Geo Wild HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12516
 #EXTINF:-1 ,US_NBA TV HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12517
 #EXTINF:-1 ,US_NBC 10 Philadelphia
 http://41.226.0.142:8000/ajude3046/p5h4yy/12518
 #EXTINF:-1 ,US_NBC 12 KPNX
 http://41.226.0.142:8000/ajude3046/p5h4yy/12519
-#EXTINF:-1 ,US_NBC Baltimore
-http://41.226.0.142:8000/ajude3046/p5h4yy/12520
-#EXTINF:-1 ,US_NBC Bufalo
-http://41.226.0.142:8000/ajude3046/p5h4yy/12521
-#EXTINF:-1 ,US_NBC Carolinas
-http://41.226.0.142:8000/ajude3046/p5h4yy/12522
 #EXTINF:-1 ,US_NBC Chicago
 http://41.226.0.142:8000/ajude3046/p5h4yy/12523
 #EXTINF:-1 ,US_NBC Kansas
 http://41.226.0.142:8000/ajude3046/p5h4yy/12524
-#EXTINF:-1 ,US_NBC KSL
-http://41.226.0.142:8000/ajude3046/p5h4yy/12525
-#EXTINF:-1 ,US_NBC KXAS
-http://41.226.0.142:8000/ajude3046/p5h4yy/12526
-#EXTINF:-1 ,US_NBC Los Angeles
-http://41.226.0.142:8000/ajude3046/p5h4yy/12527
-#EXTINF:-1 ,US_NBC Michigan
-http://41.226.0.142:8000/ajude3046/p5h4yy/12528
-#EXTINF:-1 ,US_NBC New Orleans
-http://41.226.0.142:8000/ajude3046/p5h4yy/12529
 #EXTINF:-1 ,US_NBC New York
 http://41.226.0.142:8000/ajude3046/p5h4yy/12530
 #EXTINF:-1 ,US_NBC Portland
 http://41.226.0.142:8000/ajude3046/p5h4yy/12531
 #EXTINF:-1 ,US_NBC San Fransisco
 http://41.226.0.142:8000/ajude3046/p5h4yy/12532
-#EXTINF:-1 ,US_NBC SN Bay Area
-http://41.226.0.142:8000/ajude3046/p5h4yy/12533
 #EXTINF:-1 ,US_NBC SN Bay Area Plus
 http://41.226.0.142:8000/ajude3046/p5h4yy/12534
 #EXTINF:-1 ,US_NBC SN Chicago HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12537
 #EXTINF:-1 ,US_NBC SN Chicago Plus HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12538
-#EXTINF:-1 ,US_NBC SN HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12539
-#EXTINF:-1 ,US_NBC SN Northwest
-http://41.226.0.142:8000/ajude3046/p5h4yy/12540
-#EXTINF:-1 ,US_NBC SN Philadelphia HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12541
-#EXTINF:-1 ,US_NBC SN Philadelphia Plus HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12542
-#EXTINF:-1 ,US_NBC SN Washington HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12543
 #EXTINF:-1 ,US_NBC SN Washington Plus HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12544
 #EXTINF:-1 ,US_NBC Universo HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12545
 #EXTINF:-1 ,US_NBC Washington
 http://41.226.0.142:8000/ajude3046/p5h4yy/12546
-#EXTINF:-1 ,US_NBC WESH Orlando
-http://41.226.0.142:8000/ajude3046/p5h4yy/12547
 #EXTINF:-1 ,US_NBC WLBT
 http://41.226.0.142:8000/ajude3046/p5h4yy/12548
 #EXTINF:-1 ,US_NBC WMTV
@@ -9095,8 +8833,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12549
 http://41.226.0.142:8000/ajude3046/p5h4yy/12550
 #EXTINF:-1 ,US_NESN Boston
 http://41.226.0.142:8000/ajude3046/p5h4yy/12552
-#EXTINF:-1 ,US_NESN Maine Plus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12554
 #EXTINF:-1 ,US_NESN Plus
 http://41.226.0.142:8000/ajude3046/p5h4yy/12555
 #EXTINF:-1 ,US_NFL Network HD
@@ -9105,20 +8841,12 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12556
 http://41.226.0.142:8000/ajude3046/p5h4yy/12557
 #EXTINF:-1 ,US_Outdoor HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12562
-#EXTINF:-1 ,US_Outside HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12563
-#EXTINF:-1 ,US_OWN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12564
 #EXTINF:-1 ,US_Pac 12 Arizona
 http://41.226.0.142:8000/ajude3046/p5h4yy/12565
 #EXTINF:-1 ,US_Pac 12 Bay Area
 http://41.226.0.142:8000/ajude3046/p5h4yy/12566
 #EXTINF:-1 ,US_Pac 12 HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12567
-#EXTINF:-1 ,US_Pac 12 Los Angeles
-http://41.226.0.142:8000/ajude3046/p5h4yy/12568
-#EXTINF:-1 ,US_Pac 12 Mountain
-http://41.226.0.142:8000/ajude3046/p5h4yy/12569
 #EXTINF:-1 ,US_Pac 12 Washington
 http://41.226.0.142:8000/ajude3046/p5h4yy/12571
 #EXTINF:-1 ,US_POP HD
@@ -9131,10 +8859,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12575
 http://41.226.0.142:8000/ajude3046/p5h4yy/12576
 #EXTINF:-1 ,US_Showtime Beyond
 http://41.226.0.142:8000/ajude3046/p5h4yy/12578
-#EXTINF:-1 ,US_Showtime Extreme
-http://41.226.0.142:8000/ajude3046/p5h4yy/12579
-#EXTINF:-1 ,US_Showtime Showcase
-http://41.226.0.142:8000/ajude3046/p5h4yy/12580
 #EXTINF:-1 ,US_Showtime WEST
 http://41.226.0.142:8000/ajude3046/p5h4yy/12581
 #EXTINF:-1 ,US_Starz Encore Westerns
@@ -9161,14 +8885,8 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12609
 http://41.226.0.142:8000/ajude3046/p5h4yy/12610
 #EXTINF:-1 ,US_Willow Cricket
 http://41.226.0.142:8000/ajude3046/p5h4yy/12611
-#EXTINF:-1 ,US_WGN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12612
-#EXTINF:-1 ,US_Weather Channel
-http://41.226.0.142:8000/ajude3046/p5h4yy/12613
 #EXTINF:-1 ,US_WE TV HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12614
-#EXTINF:-1 ,US_WBFS Miami
-http://41.226.0.142:8000/ajude3046/p5h4yy/12615
 #EXTINF:-1 ,US_Viceland HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12616
 #EXTINF:-1 ,US_Velocity
@@ -9193,38 +8911,10 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12625
 http://41.226.0.142:8000/ajude3046/p5h4yy/12627
 #EXTINF:-1 ,US_TLC
 http://41.226.0.142:8000/ajude3046/p5h4yy/12628
-#EXTINF:-1 ,US_5 Star Max
-http://41.226.0.142:8000/ajude3046/p5h4yy/12630
-#EXTINF:-1 ,US_A&E HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12631
-#EXTINF:-1 ,US_AMC
-http://41.226.0.142:8000/ajude3046/p5h4yy/12634
-#EXTINF:-1 ,US_Starz Encore West HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12638
-#EXTINF:-1 ,US_Starz Kids & Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12639
-#EXTINF:-1 ,US_Starz Encore Suspense HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12640
 #EXTINF:-1 ,US_Starz Encore HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12641
-#EXTINF:-1 ,US_Starz Encore Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12642
-#EXTINF:-1 ,US_Starz Encore East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12643
 #EXTINF:-1 ,US_Starz Encore 2 East HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12647
-#EXTINF:-1 ,US_Starz East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12649
-#EXTINF:-1 ,US_Starz Cinema West HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12651
-#EXTINF:-1 ,US_Starz Cinema East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12653
-#EXTINF:-1 ,US_Starz Black HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12654
-#EXTINF:-1 ,US_RetroPlex HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12656
-#EXTINF:-1 ,US_OuterMax HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12657
 #EXTINF:-1 ,US_MoviePlex HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12658
 #EXTINF:-1 ,US_MovieMax HD_1080P
@@ -9233,18 +8923,12 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12659
 http://41.226.0.142:8000/ajude3046/p5h4yy/12660
 #EXTINF:-1 ,US_IndiePlex HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12661
-#EXTINF:-1 ,US_HBO Signature HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12662
 #EXTINF:-1 ,US_HBO 2 HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12664
 #EXTINF:-1 ,US_HBO Plus West HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12665
-#EXTINF:-1 ,US_Cinemax West HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12666
 #EXTINF:-1 ,US_WWE NETWORK
 http://41.226.0.142:8000/ajude3046/p5h4yy/12669
-#EXTINF:-1 ,US_AMC USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12671
 #EXTINF:-1 ,US_Antena Latina 7
 http://41.226.0.142:8000/ajude3046/p5h4yy/12672
 #EXTINF:-1 ,US_BOSTON 7 NEWS
@@ -9255,12 +8939,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12677
 http://41.226.0.142:8000/ajude3046/p5h4yy/12678
 #EXTINF:-1 ,US_DISCOVERY FAMILIA
 http://41.226.0.142:8000/ajude3046/p5h4yy/12679
-#EXTINF:-1 ,US_DISNEY xD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12682
-#EXTINF:-1 ,US_ESPN Deportes
-http://41.226.0.142:8000/ajude3046/p5h4yy/12683
-#EXTINF:-1 ,US_FOX 25
-http://41.226.0.142:8000/ajude3046/p5h4yy/12684
 #EXTINF:-1 ,US_FOX ACTION Latino
 http://41.226.0.142:8000/ajude3046/p5h4yy/12685
 #EXTINF:-1 ,US_HBO 2 LATINO
@@ -9277,10 +8955,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12690
 http://41.226.0.142:8000/ajude3046/p5h4yy/12691
 #EXTINF:-1 ,US_HBO SIGNATURE LATINO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12692
-#EXTINF:-1 ,US_HBO SIGNATURE USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12693
-#EXTINF:-1 ,US_HBO USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12694
 #EXTINF:-1 ,US_Hgtv
 http://41.226.0.142:8000/ajude3046/p5h4yy/12695
 #EXTINF:-1 ,US_Home And Health
@@ -9289,10 +8963,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12696
 http://41.226.0.142:8000/ajude3046/p5h4yy/12697
 #EXTINF:-1 ,US_MY38
 http://41.226.0.142:8000/ajude3046/p5h4yy/12698
-#EXTINF:-1 ,US_NBC
-http://41.226.0.142:8000/ajude3046/p5h4yy/12699
-#EXTINF:-1 ,US_NESN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12701
 #EXTINF:-1 ,US_NICKELODEON
 http://41.226.0.142:8000/ajude3046/p5h4yy/12702
 #EXTINF:-1 ,US_PPV EVENTS
@@ -9311,8 +8981,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12712
 http://41.226.0.142:8000/ajude3046/p5h4yy/12713
 #EXTINF:-1 ,US_STARZ EDGE LATINO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12715
-#EXTINF:-1 ,US_Super Canal 33
-http://41.226.0.142:8000/ajude3046/p5h4yy/12720
 #EXTINF:-1 ,US_TELEMICRO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12721
 #EXTINF:-1 ,US_TELEMUNDO
@@ -9321,8 +8989,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12722
 http://41.226.0.142:8000/ajude3046/p5h4yy/12723
 #EXTINF:-1 ,US_Telesistema Canal 11
 http://41.226.0.142:8000/ajude3046/p5h4yy/12724
-#EXTINF:-1 ,US_TELEVISION DOMUNICANA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12725
 #EXTINF:-1 ,US_THE CW
 http://41.226.0.142:8000/ajude3046/p5h4yy/12726
 #EXTINF:-1 ,US_The Weather Channel
@@ -9333,11 +8999,8 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12730
 http://41.226.0.142:8000/ajude3046/p5h4yy/12731
 #EXTINF:-1 ,US_VH1
 http://41.226.0.142:8000/ajude3046/p5h4yy/12732
-#EXTINF:-1 ,US_Wapa
-http://41.226.0.142:8000/ajude3046/p5h4yy/12733
 #EXTINF:-1 ,USA_Al:jazeera
 http://41.226.0.142:8000/ajude3046/p5h4yy/1536
-#EXTM3U
 #EXTINF:-1 ,ABC
 http://dimapro.cz:8080/695010113060214/695010113060214/39061
 #EXTINF:-1 ,CW HD
@@ -9370,12 +9033,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39076
 http://dimapro.cz:8080/695010113060214/695010113060214/39089
 #EXTINF:-1 ,ESPN 2 HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39091
-#EXTINF:-1 ,ESPN 3HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39079
-#EXTINF:-1 ,ESPN U HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39081
-#EXTINF:-1 ,ESPNEWS
-http://dimapro.cz:8080/695010113060214/695010113060214/39082
 #EXTINF:-1 ,ESPN DEPORTES HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39080
 #EXTINF:-1 ,FOX DEPORTES
@@ -9460,8 +9117,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39131
 http://dimapro.cz:8080/695010113060214/695010113060214/39132
 #EXTINF:-1 ,TLC HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39135
-#EXTINF:-1 ,Viceland
-http://dimapro.cz:8080/695010113060214/695010113060214/39136
 #EXTINF:-1 ,FREEFROM
 http://dimapro.cz:8080/695010113060214/695010113060214/39138
 #EXTINF:-1 ,NICKTOONS
@@ -9478,10 +9133,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39145
 http://dimapro.cz:8080/695010113060214/695010113060214/39146
 #EXTINF:-1 ,CRIME INVESTIGATION HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39147
-#EXTINF:-1 ,DISCOVERY SC HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39148
-#EXTINF:-1 ,H2 HD
-http://dimapro.cz:8080/695010113060214/695010113060214/39149
 #EXTINF:-1 ,HISTORY HD
 http://dimapro.cz:8080/695010113060214/695010113060214/39150
 #EXTINF:-1 ,NAT GEO
@@ -9490,26 +9141,6 @@ http://dimapro.cz:8080/695010113060214/695010113060214/39151
 http://dimapro.cz:8080/695010113060214/695010113060214/39153
 #EXTINF:-1 ,MTV
 http://dimapro.cz:8080/695010113060214/695010113060214/39155
-#EXTM3U
-#EXTINF:-1 ,USA/UK: Al Jazeera
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/68
-#EXTINF:-1 ,USA/UK: TV One
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/115
-#EXTINF:-1 ,USA/UK: Bloomberg
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/111
-#EXTINF:-1 ,USA/UK: CNN
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/58
-#EXTINF:-1 ,USA/UK: ESPN
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/99
-#EXTINF:-1 ,USA/UK: Sky Cinema Family
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/86
-#EXTINF:-1 ,USA/UK: Nat Geo People HD
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/83
-#EXTINF:-1 ,USA/UK: Nick Jr.
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/80
-#EXTINF:-1 ,USA/UK: Nickelodeon
-http://195.181.161.111:80/dBARFycSW8/03PqqO6AJV/79
-#EXTM3U
 #EXTINF:-1 ,OUTSIDE-F
 http://54.39.105.133:25461/Galaxy/Fubo/94
 #EXTINF:-1 ,TLC-F
@@ -9663,19 +9294,13 @@ http://54.39.105.133:25461/Galaxy/Fubo/201
 #EXTINF:-1 ,NBCSN-F
 http://54.39.105.133:25461/Galaxy/Fubo/205
 #EXTINF:-1 ,LALIGAENG-F
-http://54.39.105.133:25461/Galaxy/Fubo/207#EXTM3U
+http://54.39.105.133:25461/Galaxy/Fubo/207
 #EXTINF:-1 ,USA/UK: Al Jazeera
 http://195.181.161.111:80/martin/martin/68
 #EXTINF:-1 ,USA/UK: TV One
 http://195.181.161.111:80/martin/martin/115
-#EXTINF:-1 ,USA/UK: Baby TV
-http://195.181.161.111:80/martin/martin/113
 #EXTINF:-1 ,USA/UK: BT Sport 3
 http://195.181.161.111:80/martin/martin/34
-#EXTINF:-1 ,USA/UK: Bloomberg
-http://195.181.161.111:80/martin/martin/111
-#EXTINF:-1 ,USA/UK: TBN
-http://195.181.161.111:80/martin/martin/110
 #EXTINF:-1 ,USA/UK: CBS Reality
 http://195.181.161.111:80/martin/martin/59
 #EXTINF:-1 ,USA/UK: Channel 5
@@ -9686,10 +9311,6 @@ http://195.181.161.111:80/martin/martin/58
 http://195.181.161.111:80/martin/martin/102
 #EXTINF:-1 ,USA/UK: ESPN
 http://195.181.161.111:80/martin/martin/99
-#EXTINF:-1 ,USA/UK: EUROSPORT 1
-http://195.181.161.111:80/martin/martin/97
-#EXTINF:-1 ,USA/UK: iTV 3
-http://195.181.161.111:80/martin/martin/51
 #EXTINF:-1 ,USA/UK: Sky Cinema Family
 http://195.181.161.111:80/martin/martin/86
 #EXTINF:-1 ,USA/UK: Fox HD
@@ -9700,9 +9321,6 @@ http://195.181.161.111:80/martin/martin/84
 http://195.181.161.111:80/martin/martin/80
 #EXTINF:-1 ,USA/UK: Nickelodeon
 http://195.181.161.111:80/martin/martin/79
-#EXTINF:-1 ,USA/UK: TLC
-http://195.181.161.111:80/martin/martin/72
-#EXTM3U
 #EXTINF:-1 group-title="Local",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="Movies",24/7 Retro TV
@@ -10445,10 +10063,6 @@ https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.00
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 ,WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 group-title="Local",WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,WSJ
@@ -10459,7 +10073,6 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 ,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTM3U
 #EXTINF:-1 ,USA:CNN_Live
 http://41.226.0.142:8000/ajude3046/p5h4yy/2806
 #EXTINF:-1 ,US_Baby TV
@@ -10506,8 +10119,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12369
 http://41.226.0.142:8000/ajude3046/p5h4yy/12370
 #EXTINF:-1 ,US_CBS New Orleans
 http://41.226.0.142:8000/ajude3046/p5h4yy/12371
-#EXTINF:-1 ,US_CBS New York
-http://41.226.0.142:8000/ajude3046/p5h4yy/12372
 #EXTINF:-1 ,US_CBS New York Area
 http://41.226.0.142:8000/ajude3046/p5h4yy/12373
 #EXTINF:-1 ,US_CBS San Fransisco
@@ -10528,32 +10139,10 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12385
 http://41.226.0.142:8000/ajude3046/p5h4yy/12386
 #EXTINF:-1 ,US_Cinemax West
 http://41.226.0.142:8000/ajude3046/p5h4yy/12387
-#EXTINF:-1 ,US_CNBC HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12388
-#EXTINF:-1 ,US_CNBC World HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12389
-#EXTINF:-1 ,US_CNN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12390
 #EXTINF:-1 ,US_CNN HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12391
 #EXTINF:-1 ,US_Cooking Channel HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12392
-#EXTINF:-1 ,US_Cozi HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12393
-#EXTINF:-1 ,US_Crime & Investigation
-http://41.226.0.142:8000/ajude3046/p5h4yy/12394
-#EXTINF:-1 ,US_CSN SN Cleveland WOIO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12396
-#EXTINF:-1 ,US_CW Philadelphia
-http://41.226.0.142:8000/ajude3046/p5h4yy/12399
-#EXTINF:-1 ,US_CW Tampa
-http://41.226.0.142:8000/ajude3046/p5h4yy/12401
-#EXTINF:-1 ,US_Discovery Channel
-http://41.226.0.142:8000/ajude3046/p5h4yy/12402
-#EXTINF:-1 ,US_Discovery Science
-http://41.226.0.142:8000/ajude3046/p5h4yy/12403
-#EXTINF:-1 ,US_Disney Channel
-http://41.226.0.142:8000/ajude3046/p5h4yy/12404
 #EXTINF:-1 ,US_Disney XD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12406
 #EXTINF:-1 ,US_E! Entertainment HD
@@ -10574,24 +10163,10 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12430
 http://41.226.0.142:8000/ajude3046/p5h4yy/12432
 #EXTINF:-1 ,US_Fox Business Network HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12433
-#EXTINF:-1 ,US_Fox Chicago
-http://41.226.0.142:8000/ajude3046/p5h4yy/12434
-#EXTINF:-1 ,US_Fox Cleveland WJW
-http://41.226.0.142:8000/ajude3046/p5h4yy/12435
-#EXTINF:-1 ,US_Fox College Sports Atlantic
-http://41.226.0.142:8000/ajude3046/p5h4yy/12436
-#EXTINF:-1 ,US_Fox KTVU
-http://41.226.0.142:8000/ajude3046/p5h4yy/12444
 #EXTINF:-1 ,US_Fox Los Angeles
 http://41.226.0.142:8000/ajude3046/p5h4yy/12445
 #EXTINF:-1 ,US_Fox Miami
 http://41.226.0.142:8000/ajude3046/p5h4yy/12446
-#EXTINF:-1 ,US_Fox New Orleans
-http://41.226.0.142:8000/ajude3046/p5h4yy/12447
-#EXTINF:-1 ,US_Fox Portland
-http://41.226.0.142:8000/ajude3046/p5h4yy/12451
-#EXTINF:-1 ,US_Fox Soccer HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12452
 #EXTINF:-1 ,US_Fox Sports 1 HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12453
 #EXTINF:-1 ,US_Fox Sports 2 HD
@@ -10600,10 +10175,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12454
 http://41.226.0.142:8000/ajude3046/p5h4yy/12456
 #EXTINF:-1 ,US_Fox Sports Ohaio
 http://41.226.0.142:8000/ajude3046/p5h4yy/12458
-#EXTINF:-1 ,US_Fox Sports Detroit
-http://41.226.0.142:8000/ajude3046/p5h4yy/12459
-#EXTINF:-1 ,US_Fox Sports indiana plus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12460
 #EXTINF:-1 ,US_Fox Sports FS2
 http://41.226.0.142:8000/ajude3046/p5h4yy/12461
 #EXTINF:-1 ,US_Fox Sports Florida HD
@@ -10618,12 +10189,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12470
 http://41.226.0.142:8000/ajude3046/p5h4yy/12472
 #EXTINF:-1 ,US_Fox Sports West HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12473
-#EXTINF:-1 ,US_FreeForm
-http://41.226.0.142:8000/ajude3046/p5h4yy/12477
-#EXTINF:-1 ,US_FYI HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12484
-#EXTINF:-1 ,US_Gol TV HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12485
 #EXTINF:-1 ,US_Golf Channel HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12486
 #EXTINF:-1 ,US_GSN HD
@@ -10646,30 +10211,16 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12508
 http://41.226.0.142:8000/ajude3046/p5h4yy/12509
 #EXTINF:-1 ,US_MSG
 http://41.226.0.142:8000/ajude3046/p5h4yy/12510
-#EXTINF:-1 ,US_MSG 2
-http://41.226.0.142:8000/ajude3046/p5h4yy/12511
-#EXTINF:-1 ,US_MSG 2 Plus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12512
-#EXTINF:-1 ,US_MSG Plus
-http://41.226.0.142:8000/ajude3046/p5h4yy/12513
 #EXTINF:-1 ,US_MSNBC HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12514
 #EXTINF:-1 ,US_Nat Geo HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12515
-#EXTINF:-1 ,US_Nat Geo Wild HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12516
-#EXTINF:-1 ,US_NBA TV HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12517
 #EXTINF:-1 ,US_NBC 10 Philadelphia
 http://41.226.0.142:8000/ajude3046/p5h4yy/12518
 #EXTINF:-1 ,US_NBC 12 KPNX
 http://41.226.0.142:8000/ajude3046/p5h4yy/12519
 #EXTINF:-1 ,US_NBC Baltimore
 http://41.226.0.142:8000/ajude3046/p5h4yy/12520
-#EXTINF:-1 ,US_NBC Bufalo
-http://41.226.0.142:8000/ajude3046/p5h4yy/12521
-#EXTINF:-1 ,US_NBC Carolinas
-http://41.226.0.142:8000/ajude3046/p5h4yy/12522
 #EXTINF:-1 ,US_NBC Chicago
 http://41.226.0.142:8000/ajude3046/p5h4yy/12523
 #EXTINF:-1 ,US_NBC Kansas
@@ -10678,16 +10229,10 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12524
 http://41.226.0.142:8000/ajude3046/p5h4yy/12525
 #EXTINF:-1 ,US_NBC KXAS
 http://41.226.0.142:8000/ajude3046/p5h4yy/12526
-#EXTINF:-1 ,US_NBC New York
-http://41.226.0.142:8000/ajude3046/p5h4yy/12530
 #EXTINF:-1 ,US_NBC Portland
 http://41.226.0.142:8000/ajude3046/p5h4yy/12531
 #EXTINF:-1 ,US_NBC San Fransisco
 http://41.226.0.142:8000/ajude3046/p5h4yy/12532
-#EXTINF:-1 ,US_NBC SN Bay Area
-http://41.226.0.142:8000/ajude3046/p5h4yy/12533
-#EXTINF:-1 ,US_NBC SN Chicago
-http://41.226.0.142:8000/ajude3046/p5h4yy/12536
 #EXTINF:-1 ,US_NBC SN Chicago HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12537
 #EXTINF:-1 ,US_NBC SN Chicago Plus HD
@@ -10708,10 +10253,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12544
 http://41.226.0.142:8000/ajude3046/p5h4yy/12545
 #EXTINF:-1 ,US_NBC Washington
 http://41.226.0.142:8000/ajude3046/p5h4yy/12546
-#EXTINF:-1 ,US_NBC WESH Orlando
-http://41.226.0.142:8000/ajude3046/p5h4yy/12547
-#EXTINF:-1 ,US_NBC WLBT
-http://41.226.0.142:8000/ajude3046/p5h4yy/12548
 #EXTINF:-1 ,US_NBC WMTV
 http://41.226.0.142:8000/ajude3046/p5h4yy/12549
 #EXTINF:-1 ,US_NCB Jacksonville
@@ -10730,8 +10271,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12555
 http://41.226.0.142:8000/ajude3046/p5h4yy/12556
 #EXTINF:-1 ,US_NFL Redzone HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12557
-#EXTINF:-1 ,US_Outdoor HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12562
 #EXTINF:-1 ,US_Outside HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12563
 #EXTINF:-1 ,US_OWN
@@ -10758,10 +10297,6 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12586
 http://41.226.0.142:8000/ajude3046/p5h4yy/12587
 #EXTINF:-1 ,US_Stadium 4
 http://41.226.0.142:8000/ajude3046/p5h4yy/12588
-#EXTINF:-1 ,US_Starz Cinema
-http://41.226.0.142:8000/ajude3046/p5h4yy/12590
-#EXTINF:-1 ,US_Starz Encore
-http://41.226.0.142:8000/ajude3046/p5h4yy/12593
 #EXTINF:-1 ,US_Starz Encore Action
 http://41.226.0.142:8000/ajude3046/p5h4yy/12594
 #EXTINF:-1 ,US_Starz Encore Westerns
@@ -10776,24 +10311,10 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12598
 http://41.226.0.142:8000/ajude3046/p5h4yy/12599
 #EXTINF:-1 ,US_SYFY HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12600
-#EXTINF:-1 ,US_Yes Network
-http://41.226.0.142:8000/ajude3046/p5h4yy/12606
-#EXTINF:-1 ,US_WMFP Boston
-http://41.226.0.142:8000/ajude3046/p5h4yy/12610
-#EXTINF:-1 ,US_WGN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12612
-#EXTINF:-1 ,US_Weather Channel
-http://41.226.0.142:8000/ajude3046/p5h4yy/12613
-#EXTINF:-1 ,US_WE TV HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12614
 #EXTINF:-1 ,US_WBFS Miami
 http://41.226.0.142:8000/ajude3046/p5h4yy/12615
 #EXTINF:-1 ,US_Viceland HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12616
-#EXTINF:-1 ,US_Velocity
-http://41.226.0.142:8000/ajude3046/p5h4yy/12617
-#EXTINF:-1 ,US_USA Network HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12618
 #EXTINF:-1 ,US_Universal Kids HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12619
 #EXTINF:-1 ,US_UFC Live HD
@@ -10808,40 +10329,16 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12623
 http://41.226.0.142:8000/ajude3046/p5h4yy/12624
 #EXTINF:-1 ,US_Travel Channel HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12625
-#EXTINF:-1 ,US_TNT HD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12626
-#EXTINF:-1 ,US_TNT
-http://41.226.0.142:8000/ajude3046/p5h4yy/12627
 #EXTINF:-1 ,US_TLC
 http://41.226.0.142:8000/ajude3046/p5h4yy/12628
-#EXTINF:-1 ,US_MLB Network
-http://41.226.0.142:8000/ajude3046/p5h4yy/12629
-#EXTINF:-1 ,US_5 Star Max
-http://41.226.0.142:8000/ajude3046/p5h4yy/12630
 #EXTINF:-1 ,US_A&E HD
 http://41.226.0.142:8000/ajude3046/p5h4yy/12631
-#EXTINF:-1 ,US_Action Max
-http://41.226.0.142:8000/ajude3046/p5h4yy/12633
 #EXTINF:-1 ,US_AMC
 http://41.226.0.142:8000/ajude3046/p5h4yy/12634
 #EXTINF:-1 ,US_Starz Encore West HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12638
-#EXTINF:-1 ,US_Starz Kids & Family HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12639
-#EXTINF:-1 ,US_Starz Encore Suspense HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12640
-#EXTINF:-1 ,US_Starz Encore East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12643
 #EXTINF:-1 ,US_Starz Encore Action 1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12645
-#EXTINF:-1 ,US_Starz East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12649
-#EXTINF:-1 ,US_Starz Cinema East HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12653
-#EXTINF:-1 ,US_Starz Black HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12654
-#EXTINF:-1 ,US_Showtime West HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12655
 #EXTINF:-1 ,US_RetroPlex HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12656
 #EXTINF:-1 ,US_MovieMax HD_1080P
@@ -10850,44 +10347,22 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12659
 http://41.226.0.142:8000/ajude3046/p5h4yy/12660
 #EXTINF:-1 ,US_IndiePlex HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12661
-#EXTINF:-1 ,US_HBO Signature HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12662
-#EXTINF:-1 ,US_HBO 2 HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12664
-#EXTINF:-1 ,US_HBO Plus West HD_1080P
-http://41.226.0.142:8000/ajude3046/p5h4yy/12665
 #EXTINF:-1 ,US_Cinemax West HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12666
 #EXTINF:-1 ,US_Cinemax East HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12667
 #EXTINF:-1 ,US_Cinemax Action 2 HD_1080P
 http://41.226.0.142:8000/ajude3046/p5h4yy/12668
-#EXTINF:-1 ,US_WWE NETWORK
-http://41.226.0.142:8000/ajude3046/p5h4yy/12669
 #EXTINF:-1 ,US_Antena Latina 7
 http://41.226.0.142:8000/ajude3046/p5h4yy/12672
 #EXTINF:-1 ,US_BOSTON 7 NEWS
 http://41.226.0.142:8000/ajude3046/p5h4yy/12673
 #EXTINF:-1 ,US_DISCOVERY FAMILIA
 http://41.226.0.142:8000/ajude3046/p5h4yy/12679
-#EXTINF:-1 ,US_DISNEY xD
-http://41.226.0.142:8000/ajude3046/p5h4yy/12682
-#EXTINF:-1 ,US_ESPN Deportes
-http://41.226.0.142:8000/ajude3046/p5h4yy/12683
-#EXTINF:-1 ,US_FOX 25
-http://41.226.0.142:8000/ajude3046/p5h4yy/12684
-#EXTINF:-1 ,US_HBO 2 LATINO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12686
-#EXTINF:-1 ,US_HBO 2 USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12687
-#EXTINF:-1 ,US_HBO COMEDY USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12688
 #EXTINF:-1 ,US_HBO FAMILY LATINO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12689
 #EXTINF:-1 ,US_HBO FAMILY USA
 http://41.226.0.142:8000/ajude3046/p5h4yy/12690
-#EXTINF:-1 ,US_HBO LATINO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12691
 #EXTINF:-1 ,US_HBO SIGNATURE LATINO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12692
 #EXTINF:-1 ,US_HBO SIGNATURE USA
@@ -10904,22 +10379,12 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12698
 http://41.226.0.142:8000/ajude3046/p5h4yy/12699
 #EXTINF:-1 ,US_NESN
 http://41.226.0.142:8000/ajude3046/p5h4yy/12701
-#EXTINF:-1 ,US_PPV EVENTS
-http://41.226.0.142:8000/ajude3046/p5h4yy/12704
-#EXTINF:-1 ,US_RD:CDN
-http://41.226.0.142:8000/ajude3046/p5h4yy/12705
-#EXTINF:-1 ,US_RD:COLOR VISION
-http://41.226.0.142:8000/ajude3046/p5h4yy/12706
-#EXTINF:-1 ,US_RD:DIGITAL 15
-http://41.226.0.142:8000/ajude3046/p5h4yy/12707
 #EXTINF:-1 ,US_Showtime Extreme latino
 http://41.226.0.142:8000/ajude3046/p5h4yy/12710
 #EXTINF:-1 ,US_Showtime Latino
 http://41.226.0.142:8000/ajude3046/p5h4yy/12711
 #EXTINF:-1 ,US_STARZ EDGE LATINO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12715
-#EXTINF:-1 ,US_TELEMICRO
-http://41.226.0.142:8000/ajude3046/p5h4yy/12721
 #EXTINF:-1 ,US_TELEMUNDO
 http://41.226.0.142:8000/ajude3046/p5h4yy/12722
 #EXTINF:-1 ,US_Telemundo International
@@ -10932,21 +10397,8 @@ http://41.226.0.142:8000/ajude3046/p5h4yy/12725
 http://41.226.0.142:8000/ajude3046/p5h4yy/12726
 #EXTINF:-1 ,US_The Weather Channel
 http://41.226.0.142:8000/ajude3046/p5h4yy/12727
-#EXTINF:-1 ,US_TNT USA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12728
-#EXTINF:-1 ,US_UNIMAS
-http://41.226.0.142:8000/ajude3046/p5h4yy/12729
-#EXTINF:-1 ,US_UNIVISION
-http://41.226.0.142:8000/ajude3046/p5h4yy/12730
-#EXTINF:-1 ,US_USA NETWORK
-http://41.226.0.142:8000/ajude3046/p5h4yy/12731
 #EXTINF:-1 ,US_VH1
 http://41.226.0.142:8000/ajude3046/p5h4yy/12732
-#EXTINF:-1 ,US_Wapa
-http://41.226.0.142:8000/ajude3046/p5h4yy/12733
-#EXTINF:-1 ,US_WAPA AMERICA
-http://41.226.0.142:8000/ajude3046/p5h4yy/12734
-#EXTM3U
 #EXTINF:-1 ,US001:A&E-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3167
 #EXTINF:-1 ,US007:ANIMAL-PLANET
@@ -10961,22 +10413,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3157
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3153
 #EXTINF:-1 ,US016:CARTOON-NETWORK
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3152
-#EXTINF:-1 ,US018:CBSN-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3150
-#EXTINF:-1 ,US020:CNBC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3148
-#EXTINF:-1 ,US021:CNN-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3147
-#EXTINF:-1 ,US022:COMEDY-CENTRAL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3146
-#EXTINF:-1 ,US023:CW-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3145
-#EXTINF:-1 ,US024:DESTINATION-AMERICA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3144
-#EXTINF:-1 ,US029:DIY Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3139
-#EXTINF:-1 ,US030:E!
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3138
 #EXTINF:-1 ,US033:ESPN-News
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3135
 #EXTINF:-1 ,US035:Food-Network
@@ -11003,46 +10439,20 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3115
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3111
 #EXTINF:-1 ,US058:MTV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3110
-#EXTINF:-1 ,US059:NAT-GEO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3109
-#EXTINF:-1 ,US063:NBCSN-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3105
-#EXTINF:-1 ,US066:INSP
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3102
-#EXTINF:-1 ,US067:OWN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3101
-#EXTINF:-1 ,US068:Science
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3100
 #EXTINF:-1 ,US073:TBS-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3095
 #EXTINF:-1 ,US075:TLC-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3093
-#EXTINF:-1 ,US076:TNT-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3092
-#EXTINF:-1 ,US077:Travel-channel
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3091
-#EXTINF:-1 ,US095:PBS Kids
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3073
-#EXTINF:-1 ,US097:GOD TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3071
 #EXTINF:-1 ,US098:Peace TV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3070
 #EXTINF:-1 ,US130:NAT GEO WILD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30060
-#EXTINF:-1 ,US613:CW_WPSG
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29577
 #EXTINF:-1 ,US615:CW_KSTW
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29575
-#EXTINF:-1 ,US617:News4 (WRC-TV)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29573
 #EXTINF:-1 ,US694:Bloomberg
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29496
-#EXTINF:-1 ,US005:ACTION-MAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3163
 #EXTINF:-1 ,US046:HBO East
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3122
-#EXTINF:-1 ,US047:HBO Signature West
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3121
 #EXTINF:-1 ,US048:HBO Zone East
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3120
 #EXTINF:-1 ,US054:Lifetime Movie
@@ -11053,76 +10463,24 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3113
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29497
 #EXTINF:-1 ,US695:Starz Etas
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29495
-#EXTINF:-1 ,US697:Starz Encore
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29493
-#EXTINF:-1 ,US698:Starz Encore East
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29492
 #EXTINF:-1 ,US699:Starz West
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29491
-#EXTINF:-1 ,US719:Starz Black HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29471
-#EXTINF:-1 ,US720:Starz Cinema East FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29470
-#EXTINF:-1 ,US721:Starz Cinema West FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29469
-#EXTINF:-1 ,US723:Starz Comedy FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29467
-#EXTINF:-1 ,US724:STARZ EDGE FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29466
-#EXTINF:-1 ,US726:Starz Encore Action
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29464
-#EXTINF:-1 ,US727:Starz Encore Black HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29463
-#EXTINF:-1 ,US730:Starz Encore Family FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29460
 #EXTINF:-1 ,US731:Starz Encore Suspense HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29459
 #EXTINF:-1 ,US732:Starz Encore West FHD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29458
-#EXTINF:-1 ,US733:Starz Family HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29457
 #EXTINF:-1 ,US735:STARZ KIDS & FAMILY FHD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29455
 #EXTINF:-1 ,US009:Bein-Sports
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3159
-#EXTINF:-1 ,US032:ESPN-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3136
-#EXTINF:-1 ,US074:PAC-12 Bay Area
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3094
-#EXTINF:-1 ,US084:UFC Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3084
-#EXTINF:-1 ,US085:WWE-Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3083
-#EXTINF:-1 ,US086:Tennis
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3082
-#EXTINF:-1 ,US087:NESN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3081
 #EXTINF:-1 ,US091:Sec Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3077
-#EXTINF:-1 ,US092:Big Ten Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3076
-#EXTINF:-1 ,US093:Box Nation
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3075
-#EXTINF:-1 ,US123:BeIN8 Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30067
-#EXTINF:-1 ,US125:BeIN6 Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30065
-#EXTINF:-1 ,US127:BeIN4 Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30063
 #EXTINF:-1 ,US128:BeIN2 Sports
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30062
 #EXTINF:-1 ,US129:BeIN_Sports
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30061
-#EXTINF:-1 ,US131:Game_Show_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30059
-#EXTINF:-1 ,US132:Stadium3
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30058
 #EXTINF:-1 ,US133:Stadium2
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30057
-#EXTINF:-1 ,US134:Stadium1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30056
-#EXTINF:-1 ,US135:Stadium
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30055
 #EXTINF:-1 ,US136:TyC Sports
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30054
 #EXTINF:-1 ,US137:MSG2Plus
@@ -11131,110 +10489,26 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30053
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30052
 #EXTINF:-1 ,US139:MSGPlus
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30051
-#EXTINF:-1 ,US140:MSG
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30050
-#EXTINF:-1 ,US141:BTN4
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30049
-#EXTINF:-1 ,US143:BTN2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30047
-#EXTINF:-1 ,US144:Big_Ten_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30046
 #EXTINF:-1 ,US145:Fight_Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30045
-#EXTINF:-1 ,US146:FNTSY_Sports_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30044
-#EXTINF:-1 ,US150:World_Fishing_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30040
-#EXTINF:-1 ,US152:NESN_PLUS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30038
-#EXTINF:-1 ,US662:PPV BOXING 3
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29528
-#EXTINF:-1 ,US002:ABC HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3166
-#EXTINF:-1 ,US700:ABC_kfsn_fresno
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29490
-#EXTINF:-1 ,US701:ABC_wisn_mil
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29489
-#EXTINF:-1 ,US702:ABC-wkrn-nas
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29488
 #EXTINF:-1 ,US703:ABC_wtnh_har
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29487
-#EXTINF:-1 ,US704:ABC_kmgh_den
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29486
-#EXTINF:-1 ,US705:ABC_wcvb_bos
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29485
-#EXTINF:-1 ,US706:ABC_wrtv_ind
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29484
 #EXTINF:-1 ,US709:ABC_wpvi_phi
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29481
 #EXTINF:-1 ,US710:ABC_wftv_orl
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29480
 #EXTINF:-1 ,US711:ABC_kgo_sfo
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29479
-#EXTINF:-1 ,US712:ABC_wfaa_dal
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29478
-#EXTINF:-1 ,US630:MLB 01
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29560
-#EXTINF:-1 ,US631:MLB 02
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29559
 #EXTINF:-1 ,US632:MLB 03
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29558
-#EXTINF:-1 ,US620:NFL 3
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29570
-#EXTINF:-1 ,US629:NFL N
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29561
-#EXTINF:-1 ,US502:NBC_KHQ
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29688
 #EXTINF:-1 ,US503:NBC_WPSD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29687
-#EXTINF:-1 ,US504:NBC_KVLY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29686
-#EXTINF:-1 ,US505:NBC_WFIE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29685
-#EXTINF:-1 ,US508:NBC_WBRE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29682
-#EXTINF:-1 ,US509:NBC_KETK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29681
-#EXTINF:-1 ,US510:NBC_WFLA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29680
-#EXTINF:-1 ,US511:NBC_WWLP
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29679
-#EXTINF:-1 ,US512:NBC_KTAL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29678
-#EXTINF:-1 ,US513:NBC_KING
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29677
-#EXTINF:-1 ,US514:NBC_WSAV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29676
-#EXTINF:-1 ,US515:NBC_WEEK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29675
-#EXTINF:-1 ,US516:NBC_WAVY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29674
-#EXTINF:-1 ,US517:NBC_WSFA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29673
-#EXTINF:-1 ,US518:NBC_KARK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29672
-#EXTINF:-1 ,US519:NBC_WILX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29671
-#EXTINF:-1 ,US520:NBC_WEAU
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29670
-#EXTINF:-1 ,US521:NBC_KVEO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29669
 #EXTINF:-1 ,US522:NBC_WOOD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29668
-#EXTINF:-1 ,US523:NBC_WPTA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29667
 #EXTINF:-1 ,US524:NBC_WBBH
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29666
-#EXTINF:-1 ,US529:NBC_KRIS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29661
-#EXTINF:-1 ,US530:NBC_WCMH
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29660
-#EXTINF:-1 ,US532:NBC_KXAN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29658
 #EXTINF:-1 ,US534:NBC_KPRC
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29656
-#EXTINF:-1 ,US538:NBC_WMFP
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29652
 #EXTINF:-1 ,US540:NBC_KARE
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29650
 #EXTINF:-1 ,US545:NBC_KTVB
@@ -11243,34 +10517,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29645
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29644
 #EXTINF:-1 ,US547:NBC_WNDU
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29643
-#EXTINF:-1 ,US548:NBC_WESH
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29642
-#EXTINF:-1 ,US549:NBC_WMBF
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29641
-#EXTINF:-1 ,US550:NBC_WVTM
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29640
-#EXTINF:-1 ,US551:NBC_KCRA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29639
-#EXTINF:-1 ,US563:NBC_KNBC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29627
-#EXTINF:-1 ,US269:CBS_KOLN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29921
-#EXTINF:-1 ,US273:CBS_KOLD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29917
-#EXTINF:-1 ,US274:CBS_KCTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29916
-#EXTINF:-1 ,US275:CBS_WBNS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29915
-#EXTINF:-1 ,US276:CBS_WNEM
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29914
-#EXTINF:-1 ,US277:CBS_WUSA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29913
-#EXTINF:-1 ,US278:CBS_WTOL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29912
-#EXTINF:-1 ,US279:CBS_WTOC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29911
-#EXTINF:-1 ,US282:CBS_KPIX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29908
 #EXTINF:-1 ,US283:CBS_KCOY
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29907
 #EXTINF:-1 ,US284:CBS_KPHO
@@ -11281,284 +10527,80 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29905
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29904
 #EXTINF:-1 ,US287:CBS_WFOR
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29903
-#EXTINF:-1 ,US288:CBS_KWTX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29902
-#EXTINF:-1 ,US289:CBS_WKYT
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29901
-#EXTINF:-1 ,US295:CBS_WRDW
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29895
 #EXTINF:-1 ,US296:CBS_WVLT
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29894
-#EXTINF:-1 ,US298:CBS_KENS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29892
 #EXTINF:-1 ,US299:CBS_KDKA
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29891
 #EXTINF:-1 ,US301:CBS_KREM
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29889
-#EXTINF:-1 ,US303:CBS_KTHV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29887
 #EXTINF:-1 ,US304:CBS_KYW
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29886
-#EXTINF:-1 ,US305:CBS_KFMB
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29885
-#EXTINF:-1 ,US307:CBS_WSBK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29883
-#EXTINF:-1 ,US308:CBS_WCBS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29882
 #EXTINF:-1 ,US310:CBS_WLTX
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29880
 #EXTINF:-1 ,US312:CBS_KHOU
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29878
-#EXTINF:-1 ,US314:CBS_KKTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29876
 #EXTINF:-1 ,US315:CBS_WDBJ
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29875
-#EXTINF:-1 ,US316:CBS_KCCI
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29874
 #EXTINF:-1 ,US317:CBS_KION
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29873
-#EXTINF:-1 ,US318:CBS_WHIO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29872
-#EXTINF:-1 ,US319:CBS_KCBS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29871
-#EXTINF:-1 ,US324:CBS_WLNY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29866
-#EXTINF:-1 ,US325:CBS_WGCL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29865
-#EXTINF:-1 ,US326:CBS_KOVR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29864
-#EXTINF:-1 ,US327:CBS_WLKY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29863
-#EXTINF:-1 ,US328:CBS_KOTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29862
-#EXTINF:-1 ,US330:CBS_KMOV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29860
 #EXTINF:-1 ,US332:CBS_WBZ
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29858
 #EXTINF:-1 ,US036:FOX-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3132
 #EXTINF:-1 ,US037:FOX-News
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3131
-#EXTINF:-1 ,US038:FOX-Sports1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3130
 #EXTINF:-1 ,US039:FOX-Sports2
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3129
 #EXTINF:-1 ,US090:Fox Sports Yes
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3078
-#EXTINF:-1 ,US094:Fox Business Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3074
-#EXTINF:-1 ,US099:Fox_Sports_NetBase
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30091
 #EXTINF:-1 ,US100:Fox_Sports_SportsTime_Ohio
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30090
-#EXTINF:-1 ,US101:Fox_Sports_YES_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30089
-#EXTINF:-1 ,US102:Fox_Sports_San_Diego
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30088
-#EXTINF:-1 ,US103:Fox_Sports_Sun
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30087
-#EXTINF:-1 ,US105:Fox_Sports_Ohio
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30085
 #EXTINF:-1 ,US107:Fox_Sports_Midwest
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30083
 #EXTINF:-1 ,US108:Fox_Sports_Florida
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30082
-#EXTINF:-1 ,US109:Fox_Sports_Arizona
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30081
-#EXTINF:-1 ,US110:Fox_Sports_Wisconsin
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30080
 #EXTINF:-1 ,US111:Fox_Sports_West
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30079
-#EXTINF:-1 ,US112:Fox_Sports_South
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30078
-#EXTINF:-1 ,US113:Fox_Sports_Southeast
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30077
-#EXTINF:-1 ,US116:Fox_College_Sports_Atlantic
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30074
-#EXTINF:-1 ,US120:Fox_Sports_2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30070
-#EXTINF:-1 ,US334:fox-kcop-lax
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29856
-#EXTINF:-1 ,US336:FOX_WYFX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29854
-#EXTINF:-1 ,US338:FOX_WUPW
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29852
-#EXTINF:-1 ,US346:FOX_WDBD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29844
 #EXTINF:-1 ,US364:FOX_KFXV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29826
 #EXTINF:-1 ,US365:FOX_WEVV2
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29825
 #EXTINF:-1 ,US367:FOX_KSCC
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29823
-#EXTINF:-1 ,US368:FOX_KNIN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29822
-#EXTINF:-1 ,US369:FOX_WBRC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29821
-#EXTINF:-1 ,US370:FOX_WFXG
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29820
-#EXTINF:-1 ,CA039:HGTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3030
-#EXTINF:-1 ,CA045:ME-TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3024
-#EXTINF:-1 ,CA047:MTV-canada
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3022
-#EXTINF:-1 ,CA048:MUCHMUSIC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3021
-#EXTINF:-1 ,CA051:Sportsnet World
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3018
-#EXTINF:-1 ,CA052:OLN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3017
 #EXTINF:-1 ,CA054:OWN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3015
 #EXTINF:-1 ,CA055:PEACH-TREE
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3014
 #EXTINF:-1 ,CA056:SLICE
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3013
-#EXTINF:-1 ,CA073:WEATHER-CHANNEL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2996
-#EXTINF:-1 ,CA074:ICI
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2995
-#EXTINF:-1 ,CA078:V Montreal FR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2991
 #EXTINF:-1 ,CA087:AHC
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30227
 #EXTINF:-1 ,CA089:ARTV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30225
-#EXTINF:-1 ,CA090:Assemblée Nationale Québec
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30224
-#EXTINF:-1 ,CA093:BOOK TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30221
-#EXTINF:-1 ,CA097:CASA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30217
-#EXTINF:-1 ,CA111:COMEDY GOLD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30203
-#EXTINF:-1 ,CA112:COOKING CHANNEL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30202
-#EXTINF:-1 ,CA114:CPAC FRENCH
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30200
-#EXTINF:-1 ,CA121:CW 11
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30193
-#EXTINF:-1 ,CA136:FYI
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30178
 #EXTINF:-1 ,CA137:GLOBAL TORONTO
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30177
-#EXTINF:-1 ,CA144:ICI MONTREAL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30170
-#EXTINF:-1 ,CA151:METEO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30163
-#EXTINF:-1 ,CA153:MOI CIE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30161
 #EXTINF:-1 ,CA155:MTV 2
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30159
 #EXTINF:-1 ,CA163:WSBK
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30151
-#EXTINF:-1 ,CA166:ZESTE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30148
-#EXTINF:-1 ,CA174:OMNI 1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30140
-#EXTINF:-1 ,CA177:OUTTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30137
-#EXTINF:-1 ,CA179:PRISE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30135
-#EXTINF:-1 ,CA185:SHOPPING
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30129
-#EXTINF:-1 ,CA199:NBC EAST
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30115
-#EXTINF:-1 ,CA202:MAKEFUL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30112
-#EXTINF:-1 ,CA205:GLOBAL HALIFAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30109
-#EXTINF:-1 ,CA206:HOPE TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30108
-#EXTINF:-1 ,CA208:UNIS TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30106
-#EXTINF:-1 ,CA215:CITY CALGARY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30099
-#EXTINF:-1 ,CA217:GLOBAL CALGARY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30097
-#EXTINF:-1 ,CA037:HBO-EAST
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3032
-#EXTINF:-1 ,CA038:HBO-WEST
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3031
-#EXTINF:-1 ,CA044:LIFETIME
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3025
-#EXTINF:-1 ,CA079:SUPER CHANNEL VAULT
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2990
-#EXTINF:-1 ,CA085:ACTION
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30229
-#EXTINF:-1 ,CA086:ADDIK TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30228
-#EXTINF:-1 ,CA105:CINEPOP
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30209
-#EXTINF:-1 ,CA141:HBO 1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30173
-#EXTINF:-1 ,CA146:ICI RDI
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30168
-#EXTINF:-1 ,CA186:SILVER SCREEN CLASSICS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30128
-#EXTINF:-1 ,CA059:SPORTSNET-360
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3010
-#EXTINF:-1 ,CA061:SPORTSNET-ONE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3008
 #EXTINF:-1 ,CA065:TSN-1
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3004
-#EXTINF:-1 ,CA075:YES-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2994
 #EXTINF:-1 ,CA076:TVA FR
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2993
-#EXTINF:-1 ,CA077:TVA Sports FR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2992
-#EXTINF:-1 ,CA082:RDS FR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2987
-#EXTINF:-1 ,CA132:FIGHT NETWORK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30182
-#EXTINF:-1 ,CA139:GOLF
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30175
-#EXTINF:-1 ,CA189:SUPER ECRAN 1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30125
-#EXTINF:-1 ,CA191:SUPER ECRAN 3
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30123
-#EXTINF:-1 ,CA192:SUPER ECRAN 4
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30122
-#EXTINF:-1 ,CA203:MLB NETWORK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30111
-#EXTINF:-1 ,CA218:SPORTSMAN CHANNEL CANADA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30096
 #EXTINF:-1 ,CA010:CBC-NEWS-NETWORK
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3059
 #EXTINF:-1 ,CA013:CNN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3056
 #EXTINF:-1 ,CA016:CP24
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3053
-#EXTINF:-1 ,CA019:CTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3050
 #EXTINF:-1 ,CA020:CTV Atlantic
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3049
-#EXTINF:-1 ,CA081:RDI FR
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2988
-#EXTINF:-1 ,CA091:BBC CANADA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30223
-#EXTINF:-1 ,CA092:BBC WORLD NEWS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30222
-#EXTINF:-1 ,CA098:CBC MONTREAL
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30216
-#EXTINF:-1 ,CA099:CBC NEWS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30215
-#EXTINF:-1 ,CA100:CBC OTTAWA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30214
-#EXTINF:-1 ,CA101:CBC TORONTO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30213
 #EXTINF:-1 ,CA118:CTV TORONTO
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30196
 #EXTINF:-1 ,CA133:FOX NEWS
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30181
 #EXTINF:-1 ,CA149:LCN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30165
-#EXTINF:-1 ,24/7: The Good Place
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60030
-#EXTINF:-1 ,24/7: The Good Life
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60031
 #EXTINF:-1 ,24/7: The Golden Girls
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60032
 #EXTINF:-1 ,24/7: The Goldbergs
@@ -11569,58 +10611,24 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60036
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60037
 #EXTINF:-1 ,24/7: Superhero Movies
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60040
-#EXTINF:-1 ,24/7: Steptoe and son
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60043
-#EXTINF:-1 ,24/7: Star Wars The Clone Wars
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60044
 #EXTINF:-1 ,24/7: Spongebob Square Pants
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60048
 #EXTINF:-1 ,24/7: South Park
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60050
 #EXTINF:-1 ,24/7: Some Mothers Do Ave Em
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60051
-#EXTINF:-1 ,24/7: Simpsons:Treehouse of Horror
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60052
-#EXTINF:-1 ,24/7: Sex In The City
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60055
-#EXTINF:-1 ,24/7: Seinfeld
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60056
-#EXTINF:-1 ,24/7: Scrubs
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60057
-#EXTINF:-1 ,24/7:SANTA CLARITA DIET
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60059
-#EXTINF:-1 ,24/7: Scifi Movies
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60060
-#EXTINF:-1 ,24/7: Ricky Gervais Stand Up
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60065
-#EXTINF:-1 ,24/7: Prison Break
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60068
 #EXTINF:-1 ,24/7: Popeye
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60069
 #EXTINF:-1 ,24/7: Pirates of the Caribbean
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60072
 #EXTINF:-1 ,24/7: Peter Kay stand up
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60074
-#EXTINF:-1 ,24/7: Peppa Pig
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60075
-#EXTINF:-1 ,24/7: My Family
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60082
 #EXTINF:-1 ,24/7: Mr Bean
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60085
-#EXTINF:-1 ,24/7: Mission Impossible
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60087
-#EXTINF:-1 ,24/7: Mickey Mouse Clubhouse
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60091
-#EXTINF:-1 ,24/7: Michael Moore
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60092
 #EXTINF:-1 ,24/7: Miami Vice
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60094
 #EXTINF:-1 ,24/7: Matrix
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60096
-#EXTINF:-1 ,24/7: Master of None
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60097
-#EXTINF:-1 ,24/7: Lord of the Rings
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60101
 #EXTINF:-1 ,24/7: Looney Tunes
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60102
 #EXTINF:-1 ,24/7: Life on mars
@@ -11631,41 +10639,16 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60109
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60114
 #EXTINF:-1 ,24/7: Indiana Jones
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60116
-#EXTINF:-1 ,24/7: How I Met Your Mother
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60118
-#EXTINF:-1 ,24/7: Happy Days
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60121
 #EXTINF:-1 ,24/7: Halloween
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60122
-#EXTINF:-1 ,24/7: Gavin and Stacey
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60126
 #EXTINF:-1 ,24/7: Game of Thrones
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60127
-#EXTINF:-1 ,24/7: Futurama
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60128
-#EXTINF:-1 ,24/7: Friends
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60129
-#EXTINF:-1 ,24/7: Friday The 13TH
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60130
-#EXTINF:-1 ,24/7: Fireman Sam
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60133
-#EXTINF:-1 ,24/7:Entourage
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60141
-#EXTINF:-1 ,24/7:Dr Who
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60144
-#EXTINF:-1 ,24/7:Dr Seuss
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60145
 #EXTINF:-1 ,24/7:Downton abbey
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60146
-#EXTINF:-1 ,24/7:Dora the Explorer
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60147
-#EXTINF:-1 ,24/7:Desperate Housewives
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60152
 #EXTINF:-1 ,24/7:Crime Movies
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60158
-#EXTINF:-1 ,24/7:Bruce Lee
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60162
-#EXTINF:-1 ,24/7:Breaking Bad
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60163
 #EXTINF:-1 ,24/7:Bobs Burgers
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60165
+
+
+
