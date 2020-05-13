@@ -415,34 +415,10 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30227
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30225
 #EXTINF:-1 ,CA028:E!
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3041
-#EXTINF:-1 ,CA035:GSN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3034
-#EXTINF:-1 ,CA099:CBC NEWS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30215
 #EXTINF:-1 ,CA204:CTV HALIFAX
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30110
-#EXTINF:-1 ,CA004:ANIMAL-PLANET
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3065
-#EXTINF:-1 ,CA022:DISCOVERY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3047
-#EXTINF:-1 ,CA050:NAT-GEO-WILD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3019
 #EXTINF:-1 ,CA057:SMITHSONIAN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3012
-#EXTINF:-1 ,CA083:A&E
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30231
-#EXTINF:-1 ,24/7: Transformers
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60006
-#EXTINF:-1 ,24/7: Trailer Park Boys
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60007
-#EXTINF:-1 ,24/7: Tom And Jerry
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60009
-#EXTINF:-1 ,24/7: Orange Is the New Black
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60080
-#EXTINF:-1 ,24/7:Hot Tub Time Machine Movies
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60185
-#EXTINF:-1 ,24/7:Vampire Movies
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60235
 #EXTINF:-1 ,United States: 23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 ,United States: 24/7 Retro TV
@@ -700,8 +676,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1 ,United States: CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC Arabiya
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
-#EXTINF:-1 ,United States: CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -777,8 +751,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 ,United States: FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,United States: FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,United States: Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 ,United States: Free Speech TV
@@ -1183,14 +1155,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 ,United States: WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -3248,8 +3212,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1 ,United States: CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC Arabiya
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
-#EXTINF:-1 ,United States: CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -3317,8 +3279,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 ,United States: FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,United States: FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,United States: Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 ,United States: Free Speech TV
@@ -3725,10 +3685,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 ,United States: WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -5936,8 +5892,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1 ,United States: CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC Arabiya
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
-#EXTINF:-1 ,United States: CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -6003,8 +5957,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 ,United States: FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,United States: FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,United States: Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 ,United States: Free Speech TV
@@ -6411,12 +6363,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 ,United States: WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -7159,8 +7105,6 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/3900.mpegts
 http://streamxcode.ddns.net:25461/load/desiboyz150/4175.mpegts
 #EXTINF:-1 group-title="UK CH",2-UK: YESTERDAY
 http://streamxcode.ddns.net:25461/load/desiboyz150/3929.mpegts
-#EXTINF:-1 ,CA001:ABC-SPARK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3068
 #EXTINF:-1 ,CA148:KTLA
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30166
 #EXTINF:-1 ,CA189:SUPER ECRAN 1
@@ -7676,8 +7620,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1 ,United States: CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC Arabiya
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
-#EXTINF:-1 ,United States: CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 ,United States: CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -7745,8 +7687,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 ,United States: FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,United States: FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,United States: Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 ,United States: Free Speech TV
@@ -8149,10 +8089,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 ,United States: WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 ,United States: WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 ,United States: WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 ,United States: WSJ
@@ -9430,8 +9366,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 group-title="Business",CNBC Arabiya
 http://livecdnh2.tvanywhere.ae/hls/cnbc_ar/index.m3u8
 #EXTINF:-1 group-title="Business",CNBC Arabiya
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
-#EXTINF:-1 group-title="Business",CNBC Arabiya
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Business",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -9499,8 +9433,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?flux
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 group-title="Local",FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="Sport",FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ,Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 ,Free Speech TV
@@ -9685,8 +9617,6 @@ http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
 #EXTINF:-1 group-title="Local",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1 ,24/7: The Big Bang Theory
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60037
 #EXTINF:-1 ,24/7: Looney Tunes
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60102
 #EXTINF:-1 group-title="English",23 ABC (KERO)
@@ -10023,10 +9953,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 group-title="English",FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="English",FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="English",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="English",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="English",France 24 English
@@ -10401,22 +10327,10 @@ http://live.redtraffic.xyz/blowjob.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 15
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 16
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 2
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 3
-http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 5
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 6
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 7
-http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="English",Retro TV
@@ -10651,14 +10565,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 group-title="English",WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 group-title="English",WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 group-title="English",WSJ
@@ -11021,48 +10927,18 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3102
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3098
 #EXTINF:-1 ,US072:SYFY
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3096
-#EXTINF:-1 ,US076:TNT-HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3092
 #EXTINF:-1 ,US077:Travel-channel
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3091
 #EXTINF:-1 ,US078:TRU-TV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3090
-#EXTINF:-1 ,US079:USA-Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3089
 #EXTINF:-1 ,US080:Velocity-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3088
-#EXTINF:-1 ,US081:VH1
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3087
 #EXTINF:-1 ,US082:WE-TV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3086
-#EXTINF:-1 ,US095:PBS Kids
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3073
 #EXTINF:-1 ,US096:CBN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3072
-#EXTINF:-1 ,US097:GOD TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3071
 #EXTINF:-1 ,US098:Peace TV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3070
-#EXTINF:-1 ,US005:ACTION-MAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3163
-#EXTINF:-1 ,US045:HBO Comedy East
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3123
-#EXTINF:-1 ,US047:HBO Signature West
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3121
-#EXTINF:-1 ,US054:Lifetime Movie
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3114
-#EXTINF:-1 ,US699:Starz West
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29491
-#EXTINF:-1 ,US720:Starz Cinema East FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29470
-#EXTINF:-1 ,US721:Starz Cinema West FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29469
-#EXTINF:-1 ,US729:Starz Encore EAST HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29461
-#EXTINF:-1 ,US731:Starz Encore Suspense HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29459
-#EXTINF:-1 ,US732:Starz Encore West FHD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29458
 #EXTINF:-1 ,US013:PAC-12 Los Angeles
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3155
 #EXTINF:-1 ,US014:PAC-12 Oregon
@@ -11073,24 +10949,14 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3137
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3136
 #EXTINF:-1 ,US074:PAC-12 Bay Area
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3094
-#EXTINF:-1 ,US084:UFC Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3084
 #EXTINF:-1 ,US085:WWE-Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3083
-#EXTINF:-1 ,US127:BeIN4 Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30063
 #EXTINF:-1 ,US131:Game_Show_Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30059
 #EXTINF:-1 ,US134:Stadium1
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30056
-#EXTINF:-1 ,US135:Stadium
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30055
-#EXTINF:-1 ,US143:BTN2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30047
 #EXTINF:-1 ,US146:FNTSY_Sports_Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30044
-#EXTINF:-1 ,US148:Ginx_TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30042
 #EXTINF:-1 ,US149:ATT_SportsNet_SW_ALT
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30041
 #EXTINF:-1 ,US151:NESN_BOS
@@ -11101,20 +10967,12 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30038
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30037
 #EXTINF:-1 ,US155:Eleven_Sports
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30035
-#EXTINF:-1 ,US702:ABC-wkrn-nas
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29488
-#EXTINF:-1 ,US703:ABC_wtnh_har
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29487
-#EXTINF:-1 ,US705:ABC_wcvb_bos
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29485
 #EXTINF:-1 ,US706:ABC_wrtv_ind
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29484
 #EXTINF:-1 ,US711:ABC_kgo_sfo
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29479
 #EXTINF:-1 ,US743:ABC_ktvx-slc
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29447
-#EXTINF:-1 ,US745:ABC_wls_chi
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29445
 #EXTINF:-1 ,US747:ABC_wxyz_det
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29443
 #EXTINF:-1 ,US751:ABC-wkrn-nas
@@ -11161,14 +11019,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29663
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29654
 #EXTINF:-1 ,US537:NBC_WCSH
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29653
-#EXTINF:-1 ,US554:NBC_WCNC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29636
-#EXTINF:-1 ,US556:NBC_WTMJ
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29634
-#EXTINF:-1 ,US564:NBC_WKYC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29626
-#EXTINF:-1 ,US566:NBC_WDIV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29624
 #EXTINF:-1 ,US574:NBC_KSHB
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29616
 #EXTINF:-1 ,US186:CBS_KELO
@@ -11193,12 +11043,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29736
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29735
 #EXTINF:-1 ,US464:FOX_WUHF
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29726
-#EXTINF:-1 ,US496:FOX_WJW
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29694
-#EXTINF:-1 ,CA051:Sportsnet World
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3018
-#EXTINF:-1 ,CA056:SLICE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3013
 #EXTINF:-1 ,CA097:CASA
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30217
 #EXTINF:-1 ,CA044:LIFETIME
@@ -11215,10 +11059,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30123
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30122
 #EXTINF:-1 ,CA020:CTV Atlantic
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3049
-#EXTINF:-1 ,24/7: Orange Is the New Black
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60080
-#EXTINF:-1 ,24/7: Mickey Mouse Clubhouse
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60091
 #EXTINF:-1 ,24/7:First Dates Show
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60190
 #EXTINF:-1 group-title="English",23 ABC (KERO)
@@ -11685,10 +11525,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 group-title="English",FOX 28 Savannah GA (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="English",FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="English",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="English",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="English",France 24 English
@@ -12059,22 +11895,10 @@ http://live.redtraffic.xyz/blowjob.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 15
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 16
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 2
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 3
-http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 5
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 6
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 7
-http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="English",Retro TV
@@ -12311,14 +12135,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 group-title="English",WMCN
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 group-title="English",WPHA
 https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 group-title="English",WSJ
@@ -13037,22 +12853,10 @@ http://live.redtraffic.xyz/blowjob.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 15
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 16
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 2
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 3
-http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 5
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 6
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 7
-http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="English",Retro TV
