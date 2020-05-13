@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,US070:SHOWTIME2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3098
 #EXTINF:-1 ,US007:ANIMAL-PLANET
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3161
 #EXTINF:-1 ,US045:HBO Comedy East
@@ -11,10 +9,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3122
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3121
 #EXTINF:-1 ,US048:HBO Zone East
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3120
-#EXTINF:-1 ,US696:Starz Edge HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29494
-#EXTINF:-1 ,US719:Starz Black HD
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29471
 #EXTINF:-1 ,US720:Starz Cinema East FHD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29470
 #EXTINF:-1 ,US721:Starz Cinema West FHD
@@ -405,18 +399,8 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 ,VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
-#EXTINF:-1 ,CA001:ABC-SPARK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3068
 #EXTINF:-1 ,CA048:MUCHMUSIC
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3021
-#EXTINF:-1 ,CA087:AHC
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30227
-#EXTINF:-1 ,CA089:ARTV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30225
-#EXTINF:-1 ,CA028:E!
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3041
-#EXTINF:-1 ,CA204:CTV HALIFAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30110
 #EXTINF:-1 ,CA057:SMITHSONIAN
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3012
 #EXTINF:-1 ,United States: 23 ABC (KERO)
@@ -4483,8 +4467,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 #EXTINF:-1 ,Nothing Scripted
 http://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 ,Mo Laughter TV
-https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 ,NRB TV
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,Olympic Channel
@@ -9093,16 +9075,8 @@ http://195.181.161.111:80/martin/martin/115
 http://195.181.161.111:80/martin/martin/34
 #EXTINF:-1 ,USA/UK: CBS Reality
 http://195.181.161.111:80/martin/martin/59
-#EXTINF:-1 ,USA/UK: Channel 5
-http://195.181.161.111:80/martin/martin/108
-#EXTINF:-1 ,USA/UK: CNN
-http://195.181.161.111:80/martin/martin/58
 #EXTINF:-1 ,USA/UK: E!
 http://195.181.161.111:80/martin/martin/102
-#EXTINF:-1 ,USA/UK: ESPN
-http://195.181.161.111:80/martin/martin/99
-#EXTINF:-1 ,USA/UK: Sky Cinema Family
-http://195.181.161.111:80/martin/martin/86
 #EXTINF:-1 ,USA/UK: Fox HD
 http://195.181.161.111:80/martin/martin/85
 #EXTINF:-1 ,USA/UK: Nickelodeon
@@ -9747,10 +9721,6 @@ https://www.ast.tv/stream/2/normal.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="English",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="English",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="English",Aviation TV
-http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 group-title="English",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="English",B4U Music
@@ -10321,10 +10291,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 group-title="English",RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
-#EXTINF:-1 group-title="English",RedTraffic 1
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 10
-http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
@@ -10909,12 +10875,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3162
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3160
 #EXTINF:-1 ,US030:E!
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3138
-#EXTINF:-1 ,US033:ESPN-News
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3135
-#EXTINF:-1 ,US035:Food-Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3133
-#EXTINF:-1 ,US053:Lifetime US
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3115
 #EXTINF:-1 ,US058:MTV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3110
 #EXTINF:-1 ,US063:NBCSN-HD
@@ -10935,80 +10895,20 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3090
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3088
 #EXTINF:-1 ,US082:WE-TV
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3086
-#EXTINF:-1 ,US096:CBN
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3072
-#EXTINF:-1 ,US098:Peace TV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3070
-#EXTINF:-1 ,US013:PAC-12 Los Angeles
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3155
-#EXTINF:-1 ,US014:PAC-12 Oregon
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3154
-#EXTINF:-1 ,US031:ESPN-2
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3137
 #EXTINF:-1 ,US032:ESPN-HD
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3136
 #EXTINF:-1 ,US074:PAC-12 Bay Area
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3094
-#EXTINF:-1 ,US085:WWE-Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3083
-#EXTINF:-1 ,US131:Game_Show_Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30059
 #EXTINF:-1 ,US134:Stadium1
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30056
 #EXTINF:-1 ,US146:FNTSY_Sports_Network
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30044
-#EXTINF:-1 ,US149:ATT_SportsNet_SW_ALT
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30041
-#EXTINF:-1 ,US151:NESN_BOS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30039
-#EXTINF:-1 ,US152:NESN_PLUS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30038
-#EXTINF:-1 ,US153:Sportsman_Channel
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30037
-#EXTINF:-1 ,US155:Eleven_Sports
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30035
-#EXTINF:-1 ,US706:ABC_wrtv_ind
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29484
-#EXTINF:-1 ,US711:ABC_kgo_sfo
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29479
-#EXTINF:-1 ,US743:ABC_ktvx-slc
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29447
-#EXTINF:-1 ,US747:ABC_wxyz_det
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29443
-#EXTINF:-1 ,US751:ABC-wkrn-nas
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29439
 #EXTINF:-1 ,US758:ABC_kgo_sfo
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29432
 #EXTINF:-1 ,US759:ABC_wpvi_phi
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29431
-#EXTINF:-1 ,US760:ABC_wtvd_raleigh
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29430
-#EXTINF:-1 ,US761:ABC_wplg_mia
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29429
-#EXTINF:-1 ,US763:ABC_ksat_saa
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29427
-#EXTINF:-1 ,US056:MLB-Network
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3112
 #EXTINF:-1 ,US089:NFL RedZone
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3079
-#EXTINF:-1 ,US156:NBC_Golf_Channel
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30034
-#EXTINF:-1 ,US159:NBC_Sports_California
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30031
-#EXTINF:-1 ,US160:NBC_Sports_Chicago
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30030
-#EXTINF:-1 ,US161:NBC_Sports_Bay_Area
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30029
-#EXTINF:-1 ,US505:NBC_WFIE
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29685
-#EXTINF:-1 ,US506:NBC_WAGT
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29684
-#EXTINF:-1 ,US518:NBC_KARK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29672
-#EXTINF:-1 ,US520:NBC_WEAU
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29670
-#EXTINF:-1 ,US523:NBC_WPTA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29667
 #EXTINF:-1 ,US524:NBC_WBBH
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29666
 #EXTINF:-1 ,US525:NBC_KSEE
@@ -11019,32 +10919,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29663
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29654
 #EXTINF:-1 ,US537:NBC_WCSH
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29653
-#EXTINF:-1 ,US574:NBC_KSHB
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29616
-#EXTINF:-1 ,US186:CBS_KELO
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30004
-#EXTINF:-1 ,US206:CBS_KLAS
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29984
-#EXTINF:-1 ,US210:CBS_WTAJ
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29980
-#EXTINF:-1 ,US234:CBS_KRQEDT
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29956
-#EXTINF:-1 ,US238:CBS_WJAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29952
-#EXTINF:-1 ,US345:FOX_WLAX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29845
-#EXTINF:-1 ,US373:FOX_WJBK
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29817
-#EXTINF:-1 ,US437:FOX_WFTX
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29753
-#EXTINF:-1 ,US454:FOX_KRIV
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29736
-#EXTINF:-1 ,US455:FOX_WBFF
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29735
-#EXTINF:-1 ,US464:FOX_WUHF
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29726
-#EXTINF:-1 ,CA097:CASA
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30217
 #EXTINF:-1 ,CA044:LIFETIME
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3025
 #EXTINF:-1 ,CA060:SPORTSNET-EAST
@@ -11053,14 +10927,6 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3009
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2992
 #EXTINF:-1 ,CA139:GOLF
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30175
-#EXTINF:-1 ,CA191:SUPER ECRAN 3
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30123
-#EXTINF:-1 ,CA192:SUPER ECRAN 4
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30122
-#EXTINF:-1 ,CA020:CTV Atlantic
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3049
-#EXTINF:-1 ,24/7:First Dates Show
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60190
 #EXTINF:-1 group-title="English",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="English",24/7 Retro TV
@@ -11189,10 +11055,6 @@ https://www.ast.tv/stream/2/normal.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="English",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="English",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="English",Aviation TV
-http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 group-title="English",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="English",B4U Music
@@ -11889,10 +11751,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 group-title="English",RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
-#EXTINF:-1 group-title="English",RedTraffic 1
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 10
-http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
@@ -12283,10 +12141,6 @@ https://www.ast.tv/stream/2/normal.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="English",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="English",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="English",Aviation TV
-http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 group-title="English",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="English",B4U Music
@@ -12847,10 +12701,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 group-title="English",RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
-#EXTINF:-1 group-title="English",RedTraffic 1
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="English",RedTraffic 10
-http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="English",RedTraffic 4
