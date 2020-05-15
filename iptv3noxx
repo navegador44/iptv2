@@ -13,76 +13,18 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 #EXTINF:-1 ,**************** USA Local TV **********
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 ,******************* KANADA ************
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 ,******************* KANADA ************
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Local",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="English",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="English",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="English",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 ,24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 group-title="Movies",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 group-title="English",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 group-title="English",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 group-title="English",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 ,24/7: How I Met Your Mother
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60118
-#EXTINF:-1 group-title="English",Catholic TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1 group-title="English",Catholic TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1 group-title="English",Catholic TV
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1 ,CAZA Y PESCA
 http://37.187.128.169:8000/live/iOS/toso/33.ts
 #EXTINF:-1 ,CAZA Y PESCA
