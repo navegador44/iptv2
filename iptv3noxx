@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 ,|USA| BRAVO
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1809
@@ -517,132 +518,6 @@ http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="English",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 group-title="English",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 ,Atlanta Channel
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 #EXTINF:-1 ,Atlanta Channel
@@ -1551,16 +1426,8 @@ http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 ,BYUtv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 ,CA | SPORTSNET WORLD
-http://vip1080.us:8000/live/Hakan/asdfghj/9442.m3u8
-#EXTINF:-1 ,CA | SPORTSNET WORLD
-http://vip1080.us:8000/live/Hakan/asdfghj/9442.m3u8
 #EXTINF:-1 ,CA | TSN 1
 http://vip1080.us:8000/live/Hakan/asdfghj/9444.m3u8
-#EXTINF:-1 ,CA | TSN 3
-http://vip1080.us:8000/live/Hakan/asdfghj/22783.m3u8
-#EXTINF:-1 ,CA | TSN 4
-http://vip1080.us:8000/live/Hakan/asdfghj/32756.m3u8
 #EXTINF:-1 ,CA | TSN 5
 http://vip1080.us:8000/live/Hakan/asdfghj/32742.m3u8
 #EXTINF:-1 group-title="English",California Music Channel
@@ -3167,12 +3034,6 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 group-title="English",DJing Wild EDM
 http://www.djing.com/tv/session_wild-edm.m3u8
-#EXTINF:-1 group-title="Documentary",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 group-title="English",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 group-title="English",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="English",DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="English",DocuBox HD
@@ -3491,22 +3352,6 @@ https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 ,EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 group-title="English",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 group-title="English",Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 group-title="English",Escambia County TV
@@ -4579,242 +4424,8 @@ https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 #EXTINF:-1 group-title="English",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="English",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 group-title="English",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 group-title="English",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 group-title="English",Joy Prime
-https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
 #EXTINF:-1 group-title="English",Justice Network (WMGM)
 https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
 #EXTINF:-1 group-title="English",Justice Network (WMGM)
@@ -4963,18 +4574,6 @@ https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 #EXTINF:-1 ,KMTV Omaha
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
-#EXTINF:-1 group-title="English",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
 #EXTINF:-1 group-title="English",KOFY
 https://v-ca.mybtv.net/event/20.1/1280x720?start_time=2019-12-12T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=12052
 #EXTINF:-1 ,KOFY
@@ -5433,8 +5032,6 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:-1 group-title="English",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 group-title="English",MILF HD
-http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 group-title="English",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 group-title="English",Miracle Channel
@@ -5771,14 +5368,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ,NASA TV Media
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 ,Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="English",Nat Geo People Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1 group-title="English",Nat Geo People Asia
@@ -8805,12 +8394,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 group-title="English",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 group-title="English",Star Movies HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 group-title="English",Star Movies HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 group-title="English",Star Movies HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 group-title="English",Star World HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1 group-title="English",Star World HD Middle East
@@ -9981,18 +9564,6 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 ,TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
-#EXTINF:-1 group-title="English",TV Carib
-https://5cc309e93b721.streamlock.net/8402/8402/chunklist_w752648583.m3u8
 #EXTINF:-1 group-title="English",TV Direct 13
 http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8
 #EXTINF:-1 group-title="English",TV Direct 13
@@ -10163,16 +9734,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 ,UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 group-title="English",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 group-title="English",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 group-title="English",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 group-title="English",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 group-title="English",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
 #EXTINF:-1 ,United States: 23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 ,United States: 24/7 Retro TV
@@ -10781,10 +10342,6 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 ,United States: Divine Vision
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-#EXTINF:-1 ,United States: DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 ,United States: DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 ,United States: Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 ,United States: Dove Channel
@@ -10797,10 +10354,6 @@ http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
 #EXTINF:-1 ,United States: Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
-#EXTINF:-1 ,United States: Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 ,United States: Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 ,United States: Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 ,United States: Edge Sports
@@ -10917,8 +10470,6 @@ http://stream.streamislam.com:8080/streamer/live/index.m3u8
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 ,United States: H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 ,United States: H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ,United States: Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 ,United States: Heartland
@@ -11029,8 +10580,6 @@ http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
 #EXTINF:-1 ,United States: KIRO 7 News (KIRO-TV)
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
-#EXTINF:-1 ,United States: KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
 #EXTINF:-1 ,United States: KOFY
 https://v-ca.mybtv.net/event/20.1/1280x720?start_time=2019-12-12T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=12052
 #EXTINF:-1 ,United States: KOFY
@@ -11895,12 +11444,6 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 #EXTINF:-1 ,United States: UALR TV
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
-#EXTINF:-1 ,United States: Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 ,United States: Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 ,United States: Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
 #EXTINF:-1 ,United States: Viva Cristo TV
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
 #EXTINF:-1 ,United States: WHIO
@@ -11909,10 +11452,6 @@ http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 #EXTINF:-1 ,US | FXX
 http://vip1080.us:8000/live/Hakan/asdfghj/22946.m3u8
-#EXTINF:-1 ,US | FXX
-http://vip1080.us:8000/live/Hakan/asdfghj/22946.m3u8
-#EXTINF:-1 ,US | QVC Beauty IQ
-http://vip1080.us:8000/live/Hakan/asdfghj/22797.m3u8
 #EXTINF:-1 ,US | QVC Beauty IQ
 http://vip1080.us:8000/live/Hakan/asdfghj/22797.m3u8
 #EXTINF:-1 group-title="English",USA
@@ -11929,284 +11468,122 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 ,USA | A & E
 http://vip1080.us:8000/live/Hakan/asdfghj/32694.m3u8
-#EXTINF:-1 ,USA | A & E
-http://vip1080.us:8000/live/Hakan/asdfghj/32694.m3u8
-#EXTINF:-1 ,USA | ABC
-http://vip1080.us:8000/live/Hakan/asdfghj/9511.m3u8
 #EXTINF:-1 ,USA | ABC
 http://vip1080.us:8000/live/Hakan/asdfghj/9511.m3u8
 #EXTINF:-1 ,USA | ABC NEWS
 http://vip1080.us:8000/live/Hakan/asdfghj/9441.m3u8
 #EXTINF:-1 ,USA | AMC
 http://vip1080.us:8000/live/Hakan/asdfghj/9502.m3u8
-#EXTINF:-1 ,USA | AMC
-http://vip1080.us:8000/live/Hakan/asdfghj/9502.m3u8
-#EXTINF:-1 ,USA | ANIMAL PLANET
-http://vip1080.us:8000/live/Hakan/asdfghj/32693.m3u8
 #EXTINF:-1 ,USA | ANIMAL PLANET
 http://vip1080.us:8000/live/Hakan/asdfghj/32693.m3u8
 #EXTINF:-1 ,USA | BEIN SPORT
 http://vip1080.us:8000/live/Hakan/asdfghj/32705.m3u8
-#EXTINF:-1 ,USA | BEIN SPORT
-http://vip1080.us:8000/live/Hakan/asdfghj/32705.m3u8
-#EXTINF:-1 ,USA | BEIN SPORT
-http://vip1080.us:8000/live/Hakan/asdfghj/32705.m3u8
-#EXTINF:-1 ,USA | BLOOMBERG
-http://vip1080.us:8000/live/Hakan/asdfghj/22589.m3u8
 #EXTINF:-1 ,USA | BLOOMBERG
 http://vip1080.us:8000/live/Hakan/asdfghj/22589.m3u8
 #EXTINF:-1 ,USA | BRAVO
 http://vip1080.us:8000/live/Hakan/asdfghj/9500.m3u8
 #EXTINF:-1 ,USA | BRAVO
 http://vip1080.us:8000/live/Hakan/asdfghj/9500.m3u8
-#EXTINF:-1 ,USA | BRAVO
-http://vip1080.us:8000/live/Hakan/asdfghj/9500.m3u8
 #EXTINF:-1 ,USA | CARTOON NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/32692.m3u8
 #EXTINF:-1 ,USA | CARTOON NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/32692.m3u8
-#EXTINF:-1 ,USA | CARTOON NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32692.m3u8
-#EXTINF:-1 ,USA | CBS
-http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
-#EXTINF:-1 ,USA | CBS
-http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
 #EXTINF:-1 ,USA | CBS
 http://vip1080.us:8000/live/Hakan/asdfghj/32803.m3u8
 #EXTINF:-1 ,USA | CBSN
 http://vip1080.us:8000/live/Hakan/asdfghj/22582.m3u8
-#EXTINF:-1 ,USA | CBSN
-http://vip1080.us:8000/live/Hakan/asdfghj/22582.m3u8
 #EXTINF:-1 ,USA | CINEMAX ACTION
 http://vip1080.us:8000/live/Hakan/asdfghj/32722.m3u8
-#EXTINF:-1 ,USA | CINEMAX ACTION
-http://vip1080.us:8000/live/Hakan/asdfghj/32722.m3u8
-#EXTINF:-1 ,USA | CINEMAX ACTION
-http://vip1080.us:8000/live/Hakan/asdfghj/32722.m3u8
-#EXTINF:-1 ,USA | CNN
-http://vip1080.us:8000/live/Hakan/asdfghj/9493.m3u8
 #EXTINF:-1 ,USA | CNN
 http://vip1080.us:8000/live/Hakan/asdfghj/9493.m3u8
 #EXTINF:-1 ,USA | COMEDY CENTRAL
 http://vip1080.us:8000/live/Hakan/asdfghj/9492.m3u8
 #EXTINF:-1 ,USA | COMEDY CENTRAL
 http://vip1080.us:8000/live/Hakan/asdfghj/9492.m3u8
-#EXTINF:-1 ,USA | COMEDY CENTRAL
-http://vip1080.us:8000/live/Hakan/asdfghj/9492.m3u8
-#EXTINF:-1 ,USA | CW
-http://vip1080.us:8000/live/Hakan/asdfghj/32703.m3u8
 #EXTINF:-1 ,USA | CW
 http://vip1080.us:8000/live/Hakan/asdfghj/32703.m3u8
 #EXTINF:-1 ,USA | CW
 http://vip1080.us:8000/live/Hakan/asdfghj/32703.m3u8
 #EXTINF:-1 ,USA | DISCOVERY
 http://vip1080.us:8000/live/Hakan/asdfghj/9488.m3u8
-#EXTINF:-1 ,USA | DISCOVERY
-http://vip1080.us:8000/live/Hakan/asdfghj/9488.m3u8
-#EXTINF:-1 ,USA | DISCOVERY
-http://vip1080.us:8000/live/Hakan/asdfghj/9488.m3u8
 #EXTINF:-1 ,USA | DISNEY CHANNEL
 http://vip1080.us:8000/live/Hakan/asdfghj/32701.m3u8
-#EXTINF:-1 ,USA | DISNEY CHANNEL
-http://vip1080.us:8000/live/Hakan/asdfghj/32701.m3u8
-#EXTINF:-1 ,USA | DISNEY CHANNEL
-http://vip1080.us:8000/live/Hakan/asdfghj/32701.m3u8
-#EXTINF:-1 ,USA | DISNEY XD
-http://vip1080.us:8000/live/Hakan/asdfghj/22951.m3u8
-#EXTINF:-1 ,USA | DISNEY XD
-http://vip1080.us:8000/live/Hakan/asdfghj/22951.m3u8
 #EXTINF:-1 ,USA | DISNEY XD
 http://vip1080.us:8000/live/Hakan/asdfghj/22951.m3u8
 #EXTINF:-1 ,USA | DIY NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/32704.m3u8
-#EXTINF:-1 ,USA | DIY NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32704.m3u8
-#EXTINF:-1 ,USA | E!
-http://vip1080.us:8000/live/Hakan/asdfghj/9485.m3u8
-#EXTINF:-1 ,USA | E!
-http://vip1080.us:8000/live/Hakan/asdfghj/9485.m3u8
 #EXTINF:-1 ,USA | E!
 http://vip1080.us:8000/live/Hakan/asdfghj/9485.m3u8
 #EXTINF:-1 ,USA | ELEVEN SPORTS
 http://vip1080.us:8000/live/Hakan/asdfghj/32781.m3u8
-#EXTINF:-1 ,USA | ELEVEN SPORTS
-http://vip1080.us:8000/live/Hakan/asdfghj/32781.m3u8
-#EXTINF:-1 ,USA | ELEVEN SPORTS
-http://vip1080.us:8000/live/Hakan/asdfghj/32781.m3u8
-#EXTINF:-1 ,USA | ESPN 1
-http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
-#EXTINF:-1 ,USA | ESPN 1
-http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
 #EXTINF:-1 ,USA | ESPN 1
 http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
 #EXTINF:-1 ,USA | ESPN 2
 http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
-#EXTINF:-1 ,USA | ESPN 2
-http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
-#EXTINF:-1 ,USA | ESPN 2
-http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
 #EXTINF:-1 ,USA | ESPN U
 http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
-#EXTINF:-1 ,USA | ESPN U
-http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
-#EXTINF:-1 ,USA | ESPN U
-http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
-#EXTINF:-1 ,USA | FOOD NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/9481.m3u8
 #EXTINF:-1 ,USA | FOOD NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/9481.m3u8
 #EXTINF:-1 ,USA | FOOD NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/9481.m3u8
 #EXTINF:-1 ,USA | FOX NEWS
 http://vip1080.us:8000/live/Hakan/asdfghj/9477.m3u8
-#EXTINF:-1 ,USA | FOX NEWS
-http://vip1080.us:8000/live/Hakan/asdfghj/9477.m3u8
-#EXTINF:-1 ,USA | FOX SPORTS 1
-http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
-#EXTINF:-1 ,USA | FOX SPORTS 1
-http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
 #EXTINF:-1 ,USA | FOX SPORTS 1
 http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
 #EXTINF:-1 ,USA | FOX SPORTS 2
 http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
-#EXTINF:-1 ,USA | FOX SPORTS 2
-http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
-#EXTINF:-1 ,USA | FOX SPORTS 2
-http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
-#EXTINF:-1 ,USA | FREEFORM
-http://vip1080.us:8000/live/Hakan/asdfghj/22788.m3u8
-#EXTINF:-1 ,USA | FREEFORM
-http://vip1080.us:8000/live/Hakan/asdfghj/22788.m3u8
 #EXTINF:-1 ,USA | FREEFORM
 http://vip1080.us:8000/live/Hakan/asdfghj/22788.m3u8
 #EXTINF:-1 ,USA | FX HD
 http://vip1080.us:8000/live/Hakan/asdfghj/9473.m3u8
-#EXTINF:-1 ,USA | FX HD
-http://vip1080.us:8000/live/Hakan/asdfghj/9473.m3u8
-#EXTINF:-1 ,USA | HGTV
-http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
-#EXTINF:-1 ,USA | HGTV
-http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
 #EXTINF:-1 ,USA | HGTV
 http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
 #EXTINF:-1 ,USA | HGTV
 http://vip1080.us:8000/live/Hakan/asdfghj/9461.m3u8
 #EXTINF:-1 ,USA | HISTORY
 http://vip1080.us:8000/live/Hakan/asdfghj/9460.m3u8
-#EXTINF:-1 ,USA | HISTORY
-http://vip1080.us:8000/live/Hakan/asdfghj/9460.m3u8
-#EXTINF:-1 ,USA | HISTORY
-http://vip1080.us:8000/live/Hakan/asdfghj/9460.m3u8
-#EXTINF:-1 ,USA | IFC
-http://vip1080.us:8000/live/Hakan/asdfghj/22786.m3u8
-#EXTINF:-1 ,USA | IFC
-http://vip1080.us:8000/live/Hakan/asdfghj/22786.m3u8
-#EXTINF:-1 ,USA | IFC
-http://vip1080.us:8000/live/Hakan/asdfghj/22786.m3u8
 #EXTINF:-1 ,USA | IFC
 http://vip1080.us:8000/live/Hakan/asdfghj/22786.m3u8
 #EXTINF:-1 ,USA | MSNBC
 http://vip1080.us:8000/live/Hakan/asdfghj/22581.m3u8
-#EXTINF:-1 ,USA | MSNBC
-http://vip1080.us:8000/live/Hakan/asdfghj/22581.m3u8
-#EXTINF:-1 ,USA | MSNBC
-http://vip1080.us:8000/live/Hakan/asdfghj/22581.m3u8
-#EXTINF:-1 ,USA | NBC
-http://vip1080.us:8000/live/Hakan/asdfghj/32804.m3u8
-#EXTINF:-1 ,USA | NBC
-http://vip1080.us:8000/live/Hakan/asdfghj/32804.m3u8
 #EXTINF:-1 ,USA | NBC
 http://vip1080.us:8000/live/Hakan/asdfghj/32804.m3u8
 #EXTINF:-1 ,USA | NBC GOLF
 http://vip1080.us:8000/live/Hakan/asdfghj/9453.m3u8
-#EXTINF:-1 ,USA | NBC GOLF
-http://vip1080.us:8000/live/Hakan/asdfghj/9453.m3u8
-#EXTINF:-1 ,USA | NBC GOLF
-http://vip1080.us:8000/live/Hakan/asdfghj/9453.m3u8
-#EXTINF:-1 ,USA | NBC SPORTS
-http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
-#EXTINF:-1 ,USA | NBC SPORTS
-http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
 #EXTINF:-1 ,USA | NBC SPORTS
 http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
 #EXTINF:-1 ,USA | NFL NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
-#EXTINF:-1 ,USA | NFL NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
-#EXTINF:-1 ,USA | NFL NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
-#EXTINF:-1 ,USA | NHL NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
-#EXTINF:-1 ,USA | NHL NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
 #EXTINF:-1 ,USA | NHL NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
 #EXTINF:-1 ,USA | SEC NETWORK
 http://vip1080.us:8000/live/Hakan/asdfghj/32783.m3u8
-#EXTINF:-1 ,USA | SEC NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32783.m3u8
-#EXTINF:-1 ,USA | SEC NETWORK
-http://vip1080.us:8000/live/Hakan/asdfghj/32783.m3u8
-#EXTINF:-1 ,USA | SHOWTIME
-http://vip1080.us:8000/live/Hakan/asdfghj/9447.m3u8
-#EXTINF:-1 ,USA | SHOWTIME
-http://vip1080.us:8000/live/Hakan/asdfghj/9447.m3u8
 #EXTINF:-1 ,USA | SHOWTIME
 http://vip1080.us:8000/live/Hakan/asdfghj/9447.m3u8
 #EXTINF:-1 ,USA | STARZ CINEMA
 http://vip1080.us:8000/live/Hakan/asdfghj/32688.m3u8
-#EXTINF:-1 ,USA | STARZ CINEMA
-http://vip1080.us:8000/live/Hakan/asdfghj/32688.m3u8
-#EXTINF:-1 ,USA | STARZ CINEMA
-http://vip1080.us:8000/live/Hakan/asdfghj/32688.m3u8
-#EXTINF:-1 ,USA | SYFY
-http://vip1080.us:8000/live/Hakan/asdfghj/9438.m3u8
-#EXTINF:-1 ,USA | SYFY
-http://vip1080.us:8000/live/Hakan/asdfghj/9438.m3u8
 #EXTINF:-1 ,USA | SYFY
 http://vip1080.us:8000/live/Hakan/asdfghj/9438.m3u8
 #EXTINF:-1 ,USA | TBS
 http://vip1080.us:8000/live/Hakan/asdfghj/32712.m3u8
-#EXTINF:-1 ,USA | TBS
-http://vip1080.us:8000/live/Hakan/asdfghj/32712.m3u8
-#EXTINF:-1 ,USA | TBS
-http://vip1080.us:8000/live/Hakan/asdfghj/32712.m3u8
-#EXTINF:-1 ,USA | TENNIS CHANNEL
-http://vip1080.us:8000/live/Hakan/asdfghj/32725.m3u8
-#EXTINF:-1 ,USA | TENNIS CHANNEL
-http://vip1080.us:8000/live/Hakan/asdfghj/32725.m3u8
 #EXTINF:-1 ,USA | TENNIS CHANNEL
 http://vip1080.us:8000/live/Hakan/asdfghj/32725.m3u8
 #EXTINF:-1 ,USA | TNT
 http://vip1080.us:8000/live/Hakan/asdfghj/9434.m3u8
 #EXTINF:-1 ,USA | TNT
 http://vip1080.us:8000/live/Hakan/asdfghj/9434.m3u8
-#EXTINF:-1 ,USA | TNT
-http://vip1080.us:8000/live/Hakan/asdfghj/9434.m3u8
 #EXTINF:-1 ,USA | UFC FIGHT PASS
 http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
-#EXTINF:-1 ,USA | UFC FIGHT PASS
-http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
-#EXTINF:-1 ,USA | UFC FIGHT PASS
-http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
-#EXTINF:-1 ,USA | WGN AMERICA
-http://vip1080.us:8000/live/Hakan/asdfghj/32676.m3u8
-#EXTINF:-1 ,USA | WGN AMERICA
-http://vip1080.us:8000/live/Hakan/asdfghj/32676.m3u8
 #EXTINF:-1 ,USA | WGN AMERICA
 http://vip1080.us:8000/live/Hakan/asdfghj/32676.m3u8
 #EXTINF:-1 ,USA/UK: BT Sport 3
 http://195.181.161.111:80/P5tfI6GrzP/y3wSDqDu6V/34
 #EXTINF:-1 ,USA/UK: Channel 5
 http://195.181.161.111:80/P5tfI6GrzP/y3wSDqDu6V/108
-#EXTINF:-1 ,USA/UK: CNN
-http://195.181.161.111:80/P5tfI6GrzP/y3wSDqDu6V/58
 #EXTINF:-1 ,USA/UK: E!
 http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/102
 #EXTINF:-1 ,USA/UK: E!
 http://195.181.161.111:80/P5tfI6GrzP/y3wSDqDu6V/102
-#EXTINF:-1 ,USA/UK: ESPN
-http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/99
 #EXTINF:-1 ,USA/UK: ESPN
 http://195.181.161.111:80/P5tfI6GrzP/y3wSDqDu6V/99
 #EXTINF:-1 ,USA/UK: Food Network
@@ -13065,14 +12442,7 @@ https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
 https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="English",ZIZ TV
 https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="English",ZNS Network
-https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
-#EXTINF:-1 group-title="English",ZNS Network
-https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
-#EXTINF:-1 group-title="English",ZNS Network
-https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
-#EXTINF:-1 group-title="English",ZNS Network
-https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w519231001_b2628000_sleng.m3u8
+
 
 
 
