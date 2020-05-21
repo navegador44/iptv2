@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 group-title="English",30A Music
 http://30a-tv.com/music.m3u8
@@ -24,8 +23,6 @@ https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
 #EXTINF:-1 group-title="English",ABC News Digital 8
 https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
-#EXTINF:-1 group-title="English",ABC News Digital 9
-https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u88
 #EXTINF:-1 group-title="English",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 #EXTINF:-1 group-title="English",Amazing Discoveries TV
@@ -4912,18 +4909,6 @@ http://stream.streamislam.com:8080/streamer/live/index.m3u8
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 group-title="English",GuideUS TV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
-#EXTINF:-1 ,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 group-title="English",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 group-title="English",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 group-title="English",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 group-title="English",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 group-title="English",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ,Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 group-title="English",Heartland
@@ -4954,8 +4939,6 @@ https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 ,Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-#EXTINF:-1 ,History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 group-title="English",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 #EXTINF:-1 ,Honor TV
@@ -6336,200 +6319,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 ,NASA TV Media
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo People Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 group-title="English",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="English",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 ,NAU-TV - Northern Arizona University
 http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
 #EXTINF:-1 ,NAU-TV - Northern Arizona University
@@ -9416,24 +9205,6 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
 #EXTINF:-1 ,Tele Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 group-title="English",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 group-title="English",TeleCuraçao
 http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4b045bf250ba13c/playlist.m3u8
 #EXTINF:-1 group-title="English",TeleCuraçao
@@ -11034,16 +10805,10 @@ http://stream.streamislam.com:8080/streamer/live/index.m3u8
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 ,United States: GuideUS TV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
-#EXTINF:-1 ,United States: H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 ,United States: Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 ,United States: Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-#EXTINF:-1 ,United States: History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 ,United States: History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 ,United States: Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 #EXTINF:-1 ,United States: Honor TV
@@ -11330,64 +11095,6 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 ,United States: NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 ,United States: Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 ,United States: National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,United States: National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,United States: National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 ,United States: National Geograpic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 ,United States: NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 ,United States: NBC
@@ -11986,4 +11693,5 @@ http://vip1080.us:8000/live/Hakan/asdfghj/32705.m3u8
 http://vip1080.us:8000/live/Hakan/asdfghj/22589.m3u8
 #EXTINF:-1 ,USA | BRAVO
 http://vip1080.us:8000/live/Hakan/asdfghj/9500.m3u8
+
 
