@@ -57,8 +57,6 @@ http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/513.m3u8
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/1365.m3u8
 #EXTINF:-1 ,01 | NBA TV HD
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/2909.m3u8
-#EXTINF:-1 ,1 | NHL  NETWORK
-http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/3779.m3u8
 #EXTINF:-1 ,2 | NHL NETWORK
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/3780.m3u8
 #EXTINF:-1 ,01 | MLB NETWORK
@@ -881,18 +879,8 @@ http://m-iptv.net:6204/95025267076109/65839594001441/20532
 http://m-iptv.net:6204/95025267076109/65839594001441/20531
 #EXTINF:-1 ,Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 ,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 ,BT Sport Extra 1
 http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
-#EXTINF:-1 ,Discovery
-http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
 #EXTINF:-1 ,Uk:Sky True Movies 1
 http://m-iptv.net:6204/95025267076109/65839594001441/8510
 #EXTINF:-1 ,Uk:FOX News
@@ -1091,10 +1079,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/0qwmBEm.png",Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/zXWgbVk.png",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UjvjySO.png",America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UjvjySO.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/hjvjGVf.png",American Classic Network
@@ -1457,30 +1441,14 @@ https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Rxuem4o.png",EWTN Canada
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/2KzCShW.png",Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png",Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png",Faith & Life TV
-http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://www.myfaithusa.com/wp-content/uploads/2017/06/faith-usa-white.png",Faith USA
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://static.iptv-epg.com/us/FOXKOKI.us.png",FOX 23 Tulsa OK (KOKI-TV)
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="English",FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="English",France 24 English
@@ -1509,8 +1477,6 @@ https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/uZ9YsVM.jpg",GuideUS TV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://www.watchheartlandtv.com/assets/images/logo.png",Heartland
-https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/caGRikb.png",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/exdDHml.png",Hope Channel
@@ -1655,10 +1621,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/N3mYbtb.jpg",MyHolyfield TV
 https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="English",NBC
@@ -1743,20 +1705,8 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 #EXTINF:-1 group-title="English",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IpssJvp.png",Olympic Channel (HD)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IpssJvp.png",Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",Olympic Channel (US NBC)
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",Olympic Channel 3
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",Olympic Channel 4
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",Olympic Channel 5
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",Olympic Channel 6
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3LEqi0D.png",Opportunity Knocks
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
 #EXTINF:-1 group-title="English",Orange TV
@@ -1797,8 +1747,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/B6C0FyM.png",Radio y Televisión Martí
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/2M9WfqA.jpg",Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
@@ -1897,22 +1845,6 @@ http://209.222.15.35:1935/SkyEagleTV/smil:SkyEagleTV.smil/playlist.m3u8
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/WvNd8yg.png",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/xMN1q8P.jpg",SubRang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 group-title="English",Super Tennis
@@ -2129,8 +2061,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/3874
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3875
 #EXTINF:-1 ,US: Cinema 09
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3876
-#EXTINF:-1 ,US: Cinema 09 PPV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3877
 #EXTINF:-1 ,US: Cinema 10
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3878
 #EXTINF:-1 ,US: Cinema 11
@@ -2151,10 +2081,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/3921
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3926
 #EXTINF:-1 ,US: Cinemax East FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3929
-#EXTINF:-1 ,US: Cinemax HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3930
-#EXTINF:-1 ,US: CNBC HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3937
 #EXTINF:-1 ,US: CNN FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3939
 #EXTINF:-1 ,US: Crime+ Investigation FHD
@@ -2183,12 +2109,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/3989
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3990
 #EXTINF:-1 ,US: EPIX DRIVE IN
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3993
-#EXTINF:-1 ,US: EPIX FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3994
-#EXTINF:-1 ,US: EPIX HITS HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3995
-#EXTINF:-1 ,US: ESPN 1 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3996
 #EXTINF:-1 ,US: ESPN 2 HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/3997
 #EXTINF:-1 ,US: ESPN DEPORTES FHD
@@ -2263,8 +2183,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4502
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4521
 #EXTINF:-1 ,US: SHOWTIME (East) HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4524
-#EXTINF:-1 ,US: SHOWTIME (West) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4525
 #EXTINF:-1 ,US: SHOWTIME BEYOND
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4526
 #EXTINF:-1 ,US: Showtime Extreme FHD
@@ -2289,12 +2207,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4541
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4542
 #EXTINF:-1 ,US: Spike HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4548
-#EXTINF:-1 ,US: STARZ (East) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4562
-#EXTINF:-1 ,US: Starz Cinema FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4564
-#EXTINF:-1 ,US: Starz Edge FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4566
 #EXTINF:-1 ,US: Starz Encore Action HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4570
 #EXTINF:-1 ,US: Starz Encore Classic FHD
@@ -2317,12 +2229,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4595
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4597
 #EXTINF:-1 ,US: SYFY Pacific
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4598
-#EXTINF:-1 ,US: TASTEMADE EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4602
-#EXTINF:-1 ,US: TBS EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4603
-#EXTINF:-1 ,US: TBS FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4604
 #EXTINF:-1 ,US: TEEN BEATS
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4608
 #EXTINF:-1 ,US: Teen Nick HD
@@ -2349,10 +2255,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4618
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4619
 #EXTINF:-1 ,US: Telemundo New York
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4620
-#EXTINF:-1 ,US: Telemundo Phoenix
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4622
-#EXTINF:-1 ,US: Telemundo San Antonio
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4623
 #EXTINF:-1 ,US: Tennis Channel HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4626
 #EXTINF:-1 ,US: The Blaze
@@ -2375,16 +2277,8 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4642
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4643
 #EXTINF:-1 ,US: TNT FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4644
-#EXTINF:-1 ,US: TNT Pacific
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4645
-#EXTINF:-1 ,US: TODAYS COUNTRY CMA AWARDS
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4646
-#EXTINF:-1 ,US: TODDLER TUNES
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4647
 #EXTINF:-1 ,US: Travel Channel EAST
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4648
-#EXTINF:-1 ,US: Travel Channel FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4649
 #EXTINF:-1 ,US: Travel Channel WEST
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4650
 #EXTINF:-1 ,US: TROPICALS
@@ -2405,10 +2299,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4669
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4670
 #EXTINF:-1 ,US: Univision (Atlanta)
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4674
-#EXTINF:-1 ,US: Univision (Austin)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4675
-#EXTINF:-1 ,US: Univision (Chicago)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4676
 #EXTINF:-1 ,US: Univision (Cleveland)
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4677
 #EXTINF:-1 ,US: Univision (Fresno)
@@ -2435,12 +2325,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/4695
 http://seyirtv101.com:8080/BUR.C10/1006.19B/4696
 #EXTINF:-1 ,UK: ANIMAL PLANET FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1688
-#EXTINF:-1 ,UK: Box Hits
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1729
-#EXTINF:-1 ,UK: BOX NATION FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1730
-#EXTINF:-1 ,UK: Box Office 1 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1731
 #EXTINF:-1 ,UK: Box Office 2 HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1732
 #EXTINF:-1 ,UK: Box Office 3 HD
@@ -2465,10 +2349,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/1743
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1745
 #EXTINF:-1 ,UK: BT Sport 3 FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1746
-#EXTINF:-1 ,UK: BT Sport 1 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1748
-#EXTINF:-1 ,UK: BT Sport 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1749
 #EXTINF:-1 ,UK: BT Sport 3 HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1750
 #EXTINF:-1 ,UK: BT Sport ESPN FHD
@@ -2499,12 +2379,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/1811
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1812
 #EXTINF:-1 ,UK: Discovery Turbo HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1813
-#EXTINF:-1 ,UK: DMAX HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1818
-#EXTINF:-1 ,UK: Eden FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1829
-#EXTINF:-1 ,UK: EIR SPORTS 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1833
 #EXTINF:-1 ,UK: ELEVEN SPORTS HD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1835
 #EXTINF:-1 ,UK: ESPN
@@ -2527,10 +2401,6 @@ http://seyirtv101.com:8080/BUR.C10/1006.19B/1900
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1901
 #EXTINF:-1 ,UK: MOTORS TV FHD
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1906
-#EXTINF:-1 ,UK: MovieDrama HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1907
-#EXTINF:-1 ,UK: Movies4Men
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1909
 #EXTINF:-1 ,UK: NAT GEO People
 http://seyirtv101.com:8080/BUR.C10/1006.19B/1925
 #EXTINF:-1 ,UK: NAT GEO Wild FHD
