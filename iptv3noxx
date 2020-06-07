@@ -27,8 +27,6 @@ http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/13424.m3u8
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/13427.m3u8
 #EXTINF:-1 ,CA | NAT GEO WILD
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/13428.m3u8
-#EXTINF:-1 ,CA | FIGHT NETWORK
-http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/352.m3u8
 #EXTINF:-1 ,CA | FOX SPORTS RACING
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/4780.m3u8
 #EXTINF:-1 ,CA | GINX E-SPORTS TV
@@ -307,10 +305,6 @@ http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
 http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
 #EXTINF:-1 ,beIN Sports 6 Arab
 http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
-#EXTINF:-1 ,United States: Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 ,United States: Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 ,United States: FOX 23 Tulsa OK (KOKI-TV)
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 ,United States: FOX 28 Savannah GA (WTGS)
@@ -463,8 +457,6 @@ http://190.11.224.14:8134/liveevent.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1 group-title="Entretenimiento",13 MAX (Argentina)
-http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Canal Once
@@ -523,8 +515,6 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/109980.m3u8
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/109979.m3u8
 #EXTINF:-1 ,The Flintstone Kids-24/7
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/109978.m3u8
-#EXTINF:-1 ,US | Nat Geo
-http://plus-tv.us:8080/live/1899/1899/14566.ts
 #EXTINF:-1 ,US | Nat Geo Wild
 http://plus-tv.us:8080/live/1899/1899/14567.ts
 #EXTINF:-1 ,US | Telemundo Miami
@@ -629,8 +619,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/33435
 http://m-iptv.net:6204/95025267076109/65839594001441/33436
 #EXTINF:-1 ,US:Destination America
 http://m-iptv.net:6204/95025267076109/65839594001441/20589
-#EXTINF:-1 ,US:Discovery Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/20588
 #EXTINF:-1 ,US:Discovery ID
 http://m-iptv.net:6204/95025267076109/65839594001441/20587
 #EXTINF:-1 ,US:Cinemaxx More Maxx HD
@@ -643,10 +631,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/43537
 http://m-iptv.net:6204/95025267076109/65839594001441/43540
 #EXTINF:-1 ,US:Cinemax Action 2 FHD
 http://m-iptv.net:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US:Cinemax HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43543
-#EXTINF:-1 ,US:Starz Encore East HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43545
 #EXTINF:-1 ,US:Starz Encore West HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43546
 #EXTINF:-1 ,US:Starz Encore Family HD
@@ -663,8 +647,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/43553
 http://m-iptv.net:6204/95025267076109/65839594001441/43554
 #EXTINF:-1 ,US:Starz In Black HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US:Starz Kids & Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43558
 #EXTINF:-1 ,US:Starz Cinema East FHD
 http://m-iptv.net:6204/95025267076109/65839594001441/43559
 #EXTINF:-1 ,US:Showtime 2
@@ -673,8 +655,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/43561
 http://m-iptv.net:6204/95025267076109/65839594001441/43562
 #EXTINF:-1 ,US:Showtime West HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43563
-#EXTINF:-1 ,US:Showtime Next HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43564
 #EXTINF:-1 ,US:Showtime Extreme HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43565
 #EXTINF:-1 ,US:Showtime Beyond HD
@@ -693,8 +673,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/8586
 http://linux-app.tv:6204/60400655844704/32991126026152/8552
 #EXTINF:-1 ,Uk:Sky ITV 2
 http://linux-app.tv:6204/60400655844704/32991126026152/8551
-#EXTINF:-1 ,Uk:Sky ITV 3
-http://linux-app.tv:6204/60400655844704/32991126026152/8550
 #EXTINF:-1 ,Uk:Sky ITV 4
 http://linux-app.tv:6204/60400655844704/32991126026152/8549
 #EXTINF:-1 ,Uk:ITV BE
@@ -783,8 +761,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/30858
 http://linux-app.tv:6204/60400655844704/32991126026152/30860
 #EXTINF:-1 ,Uk:MTV MUSIC
 http://linux-app.tv:6204/60400655844704/32991126026152/30861
-#EXTINF:-1 ,Uk:MTV LIVE HD
-http://linux-app.tv:6204/60400655844704/32991126026152/30862
 #EXTINF:-1 ,Uk:MTV HITS
 http://linux-app.tv:6204/60400655844704/32991126026152/30863
 #EXTINF:-1 ,Uk:MTV CLASSIC
@@ -931,24 +907,16 @@ http://m-iptv.net:6204/95025267076109/65839594001441/8547
 http://m-iptv.net:6204/95025267076109/65839594001441/8546
 #EXTINF:-1 ,Uk:Sky Movies Action HD
 http://m-iptv.net:6204/95025267076109/65839594001441/8545
-#EXTINF:-1 ,Uk:Sky Movies Crime
-http://m-iptv.net:6204/95025267076109/65839594001441/8543
 #EXTINF:-1 ,Uk:Sky Movies Disney
 http://m-iptv.net:6204/95025267076109/65839594001441/8542
-#EXTINF:-1 ,Uk:Sky Movies Drama HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8541
 #EXTINF:-1 ,Uk:Sky Movies Comedy HD
 http://m-iptv.net:6204/95025267076109/65839594001441/30818
 #EXTINF:-1 ,Uk:Sky Movies Family HD
 http://m-iptv.net:6204/95025267076109/65839594001441/8540
 #EXTINF:-1 ,Uk:Sky Movies Greats
 http://m-iptv.net:6204/95025267076109/65839594001441/8539
-#EXTINF:-1 ,Uk:Sky Movies Premiere HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8538
 #EXTINF:-1 ,Uk:SKY CINEMA HITS HD
 http://m-iptv.net:6204/95025267076109/65839594001441/30875
-#EXTINF:-1 ,Uk:SKY CINEMA THRILLER HD
-http://m-iptv.net:6204/95025267076109/65839594001441/30876
 #EXTINF:-1 ,Uk:HORROR CHANNEL
 http://m-iptv.net:6204/95025267076109/65839594001441/30877
 #EXTINF:-1 ,Uk:Filmon TV
@@ -1159,10 +1127,6 @@ https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCDNDMyYYBOec99P3fwkxLChmCfPgz2k9hM5w=s900-mo-c-c0xffffffff-rj-k-no",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png",Bloomberg TV
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
@@ -1321,8 +1285,6 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",CNA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg",CNBC TV18
@@ -1437,8 +1399,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/fGdHIGy.png",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/EH24utk.jpg",Euronews English
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Rxuem4o.png",EWTN Canada
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png",Fail Army
@@ -1559,8 +1519,6 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png",KIRO 7 News (KIRO-TV)
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/lEnuR22.png",KNXT Catholic TV
-http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/KOFY_TV20_logo_2019.png",KOFY
 https://v-ca.mybtv.net/event/20.1/1280x720?start_time=2019-12-12T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=12052
 #EXTINF:-1 group-title="English",KOMO News (KOMO-TV)
@@ -1925,8 +1883,6 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/kcEdCpX.jpg",Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
-http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/wzBD6fy.png",TMZ
@@ -1963,8 +1919,6 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/kJgbASp.png",Uncion 24
 http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 group-title="English",USA
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png",UWW-TV
 http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png",V2BEAT TV
@@ -2016,449 +1970,13 @@ https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.00
 #EXTINF:-1 group-title="English",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-74019.png",WPHA
-https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/2IOP6LI.jpg",WSJ
-http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/piweDaK.jpg",Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/RURzxJj.png",ZIZ TV
-http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://zizonline.com/wp-content/uploads/2016/11/ziz_logo.png",ZIZ TV
-http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="English",ZIZ TV
-https://593fcf545b0c5.streamlock.net/liveTrans/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 ,US: BT Sport ESPN
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3760
-#EXTINF:-1 ,US: Cinema 01
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3864
-#EXTINF:-1 ,US: Cinema 01 PPV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3865
-#EXTINF:-1 ,US: Cinema 02
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3866
-#EXTINF:-1 ,US: Cinema 02 PPV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3867
-#EXTINF:-1 ,US: Cinema 03
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3868
-#EXTINF:-1 ,US: Cinema 04 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3869
-#EXTINF:-1 ,US: Cinema 05
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3870
-#EXTINF:-1 ,US: Cinema 06 PPV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3873
-#EXTINF:-1 ,US: Cinema 07
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3874
-#EXTINF:-1 ,US: Cinema 08
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3875
-#EXTINF:-1 ,US: Cinema 09
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3876
-#EXTINF:-1 ,US: Cinema 10
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3878
-#EXTINF:-1 ,US: Cinema 11
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3879
-#EXTINF:-1 ,US: Cinema 12
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3880
-#EXTINF:-1 ,US: Cinema 13
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3881
-#EXTINF:-1 ,US: Cinema 14
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3883
-#EXTINF:-1 ,US: Cinema 23 PPV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3893
-#EXTINF:-1 ,US: Cinema+ 1
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3920
-#EXTINF:-1 ,US: Cinema+ 2
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3921
-#EXTINF:-1 ,US: Cinemax Action FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3926
-#EXTINF:-1 ,US: Cinemax East FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3929
-#EXTINF:-1 ,US: CNN FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3939
-#EXTINF:-1 ,US: Crime+ Investigation FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3946
-#EXTINF:-1 ,US: Destination America HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3958
-#EXTINF:-1 ,US: Discovery Channel EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3959
-#EXTINF:-1 ,US: Discovery Channel FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3960
-#EXTINF:-1 ,US: Discovery FAMILIA HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3961
-#EXTINF:-1 ,US: Discovery Family HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3962
-#EXTINF:-1 ,US: Discovery Life HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3964
-#EXTINF:-1 ,US: Discovery Science FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3966
-#EXTINF:-1 ,US: Discovery TLC
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3967
-#EXTINF:-1 ,US: Discovery TLC Pacific
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3968
-#EXTINF:-1 ,US: ELEVEN SPORTS HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3989
-#EXTINF:-1 ,US: ELEVEN SPORTS Network
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3990
-#EXTINF:-1 ,US: EPIX DRIVE IN
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3993
-#EXTINF:-1 ,US: ESPN 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/3997
-#EXTINF:-1 ,US: ESPN DEPORTES FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4008
-#EXTINF:-1 ,US: ESPN HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4010
-#EXTINF:-1 ,US: ESPN News HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4012
-#EXTINF:-1 ,US: ESPN plus
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4014
-#EXTINF:-1 ,US: ET
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4019
-#EXTINF:-1 ,US: FIGHT BOX HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4021
-#EXTINF:-1 ,US: FIGHT Network HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4022
-#EXTINF:-1 ,US: FOOD NETWORK EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4024
-#EXTINF:-1 ,US: GOL TV HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4190
-#EXTINF:-1 ,US: H2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4196
-#EXTINF:-1 ,US: HBO (East) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4204
-#EXTINF:-1 ,US: HBO (West) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4205
-#EXTINF:-1 ,US: HBO 2 COMEDY
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4206
-#EXTINF:-1 ,US: HBO Family FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4211
-#EXTINF:-1 ,US: HBO HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4212
-#EXTINF:-1 ,US: HBO HD SIGNATURE
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4213
-#EXTINF:-1 ,US: HBO Pacific
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4214
-#EXTINF:-1 ,US: Investgation Discovery HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4233
-#EXTINF:-1 ,US: Investigation Discovery EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4234
-#EXTINF:-1 ,US: Investigation Discovery FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4235
-#EXTINF:-1 ,US: LATINO
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4243
-#EXTINF:-1 ,US: NASA TV HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4279
-#EXTINF:-1 ,US: NAT GEO EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4280
-#EXTINF:-1 ,US: NAT GEO HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4281
-#EXTINF:-1 ,US: NAT GEO Wild HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4284
-#EXTINF:-1 ,US: NBA HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4294
-#EXTINF:-1 ,US: NBC Los Angeles
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4375
-#EXTINF:-1 ,US: NBC LOS ANGELES CA KNBC
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4376
-#EXTINF:-1 ,US: NFL Channel HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4451
-#EXTINF:-1 ,US: NFL Network FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4452
-#EXTINF:-1 ,US: NFL NOW HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4453
-#EXTINF:-1 ,US: NFL RED ZONE HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4454
-#EXTINF:-1 ,US: Premier Sports 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4501
-#EXTINF:-1 ,US: Pursuit Channel
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4502
-#EXTINF:-1 ,US: Science Channel
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4521
-#EXTINF:-1 ,US: SHOWTIME (East) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4524
-#EXTINF:-1 ,US: SHOWTIME BEYOND
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4526
-#EXTINF:-1 ,US: Showtime Extreme FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4527
-#EXTINF:-1 ,US: SHOWTIME FAMILY ZONE FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4528
-#EXTINF:-1 ,US: Showtime FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4529
-#EXTINF:-1 ,US: SHOWTIME NEXT
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4530
-#EXTINF:-1 ,US: Showtime Showcase FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4532
-#EXTINF:-1 ,US: SKY PORTS GOLF HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4534
-#EXTINF:-1 ,US: SMITHSONIAN EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4537
-#EXTINF:-1 ,US: SMITHSONIAN WEST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4538
-#EXTINF:-1 ,US: SONY MOVIE Channel HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4541
-#EXTINF:-1 ,US: Sony Six Sport
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4542
-#EXTINF:-1 ,US: Spike HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4548
-#EXTINF:-1 ,US: Starz Encore Action HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4570
-#EXTINF:-1 ,US: Starz Encore Classic FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4574
-#EXTINF:-1 ,US: Starz Encore HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4579
-#EXTINF:-1 ,US: Starz Encore Suspense FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4581
-#EXTINF:-1 ,US: Starz FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4585
-#EXTINF:-1 ,US: STARZ IN BLACK HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4587
-#EXTINF:-1 ,US: Starz West FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4591
-#EXTINF:-1 ,US: STARZENCORE WESTERNS
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4593
-#EXTINF:-1 ,US: Sundance HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4595
-#EXTINF:-1 ,US: SYFY HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4597
-#EXTINF:-1 ,US: SYFY Pacific
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4598
-#EXTINF:-1 ,US: TEEN BEATS
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4608
-#EXTINF:-1 ,US: Teen Nick HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4609
-#EXTINF:-1 ,US: TELEMUNDO BOSTON HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4610
-#EXTINF:-1 ,US: TELEMUNDO CHICAGO HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4611
-#EXTINF:-1 ,US: TELEMUNDO DALLAS HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4612
-#EXTINF:-1 ,US: TELEMUNDO DENVER HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4613
-#EXTINF:-1 ,US: Telemundo Fresno
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4614
-#EXTINF:-1 ,US: Telemundo Harlingen
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4615
-#EXTINF:-1 ,US: TELEMUNDO HOUSTON HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4616
-#EXTINF:-1 ,US: Telemundo Las Vegas
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4617
-#EXTINF:-1 ,US: TELEMUNDO LOS ANGELES HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4618
-#EXTINF:-1 ,US: TELEMUNDO MIAMI HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4619
-#EXTINF:-1 ,US: Telemundo New York
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4620
-#EXTINF:-1 ,US: Tennis Channel HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4626
-#EXTINF:-1 ,US: The Blaze
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4628
-#EXTINF:-1 ,US: The CW 11
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4629
-#EXTINF:-1 ,US: THE GOLF Channel
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4630
-#EXTINF:-1 ,US: The Weather Channel HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4636
-#EXTINF:-1 ,US: THROWBACK JAMZ
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4638
-#EXTINF:-1 ,US: TLC EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4639
-#EXTINF:-1 ,US: TLC HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4640
-#EXTINF:-1 ,US: TNT (East) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4642
-#EXTINF:-1 ,US: TNT (West) HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4643
-#EXTINF:-1 ,US: TNT FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4644
-#EXTINF:-1 ,US: Travel Channel EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4648
-#EXTINF:-1 ,US: Travel Channel WEST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4650
-#EXTINF:-1 ,US: TROPICALS
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4652
-#EXTINF:-1 ,US: TRU TV HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4653
-#EXTINF:-1 ,US: TRUE MOVIES
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4654
-#EXTINF:-1 ,US: TRUTV EAST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4657
-#EXTINF:-1 ,US: TRUTV WEST
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4658
-#EXTINF:-1 ,US: TV ONE FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4664
-#EXTINF:-1 ,US: UFC TV HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4669
-#EXTINF:-1 ,US: Universal Channel
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4670
-#EXTINF:-1 ,US: Univision (Atlanta)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4674
-#EXTINF:-1 ,US: Univision (Cleveland)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4677
-#EXTINF:-1 ,US: Univision (Fresno)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4680
-#EXTINF:-1 ,US: Univision (Houston)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4681
-#EXTINF:-1 ,US: Univision (Paterson)
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4683
-#EXTINF:-1 ,US: Univision Dalas
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4686
-#EXTINF:-1 ,US: Univision East
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4688
-#EXTINF:-1 ,US: Univision FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4690
-#EXTINF:-1 ,US: Univision Los Angeles
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4691
-#EXTINF:-1 ,US: Univision Miami
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4693
-#EXTINF:-1 ,US: Univision New York
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4694
-#EXTINF:-1 ,US: Univision Noticias
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4695
-#EXTINF:-1 ,US: Univision San Francisco
-http://seyirtv101.com:8080/BUR.C10/1006.19B/4696
-#EXTINF:-1 ,UK: ANIMAL PLANET FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1688
-#EXTINF:-1 ,UK: Box Office 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1732
-#EXTINF:-1 ,UK: Box Office 3 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1733
-#EXTINF:-1 ,UK: Box Office 4 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1734
-#EXTINF:-1 ,UK: BOX OFFICE 5 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1735
-#EXTINF:-1 ,UK: Box Office 6 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1736
-#EXTINF:-1 ,UK: BOX OFFICE 7
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1737
-#EXTINF:-1 ,UK: BOX OFFICE 8
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1738
-#EXTINF:-1 ,UK: BOX OFFICE 9
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1739
-#EXTINF:-1 ,UK: British Muslim TV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1742
-#EXTINF:-1 ,UK: BT ESPN HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1743
-#EXTINF:-1 ,UK: BT Sport 2 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1745
-#EXTINF:-1 ,UK: BT Sport 3 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1746
-#EXTINF:-1 ,UK: BT Sport 3 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1750
-#EXTINF:-1 ,UK: BT Sport ESPN FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1751
-#EXTINF:-1 ,UK: BT Sport ESPN HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1753
-#EXTINF:-1 ,UK: BT Sport Extra 1 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1756
-#EXTINF:-1 ,UK: BT Sport EXTRA 2 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1757
-#EXTINF:-1 ,UK: BT Sport Extra 3 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1758
-#EXTINF:-1 ,UK: BT Sport EXTRA 4 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1759
-#EXTINF:-1 ,UK: BT Sport EXTRA 5 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1760
-#EXTINF:-1 ,UK: Chelsea TV HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1784
-#EXTINF:-1 ,UK: Destination America
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1806
-#EXTINF:-1 ,UK: Discovery Channel FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1808
-#EXTINF:-1 ,UK: Discovery History HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1810
-#EXTINF:-1 ,UK: Discovery Science HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1811
-#EXTINF:-1 ,UK: Discovery Shed HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1812
-#EXTINF:-1 ,UK: Discovery Turbo HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1813
-#EXTINF:-1 ,UK: ELEVEN SPORTS HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1835
-#EXTINF:-1 ,UK: ESPN
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1836
-#EXTINF:-1 ,UK: EUROSPORT 1 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1839
-#EXTINF:-1 ,UK: EUROSPORT 2 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1840
-#EXTINF:-1 ,UK: FIGHT Box FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1844
-#EXTINF:-1 ,UK: LFC TV FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1895
-#EXTINF:-1 ,UK: Lifetime FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1896
-#EXTINF:-1 ,UK: Liverpool FC HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1897
-#EXTINF:-1 ,UK: London Live HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1900
-#EXTINF:-1 ,UK: Magic TV
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1901
-#EXTINF:-1 ,UK: MOTORS TV FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1906
-#EXTINF:-1 ,UK: NAT GEO People
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1925
-#EXTINF:-1 ,UK: NAT GEO Wild FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1926
-#EXTINF:-1 ,UK: Premier Sports 2 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1957
-#EXTINF:-1 ,UK: Premier Sports HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/1958
-#EXTINF:-1 ,UK: SKY GOLD FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2032
-#EXTINF:-1 ,UK: Sky Greats
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2033
-#EXTINF:-1 ,UK: Sky Premier
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2041
-#EXTINF:-1 ,UK: Sky Sports 4 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2054
-#EXTINF:-1 ,UK: Sky Sports 5 HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2055
-#EXTINF:-1 ,UK: Sky Sports Action FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2057
-#EXTINF:-1 ,UK: Sky Sports Arena FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2058
-#EXTINF:-1 ,UK: Sky Sports Cricket FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2059
-#EXTINF:-1 ,UK: Sky Sports F1 FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2060
-#EXTINF:-1 ,UK: Sky Sports Golf FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2062
-#EXTINF:-1 ,UK: Sky Sports Mix FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2064
-#EXTINF:-1 ,UK: Sky Sports News FHD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2065
-#EXTINF:-1 ,UK: Sky Sports Arena HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2070
-#EXTINF:-1 ,UK: Sky Sports At The Races
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2071
-#EXTINF:-1 ,UK: Sky Sports Football HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2076
-#EXTINF:-1 ,UK: Sky Sports Main Event HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2079
-#EXTINF:-1 ,UK: SKY THRILLER HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2095
-#EXTINF:-1 ,UK: SONY Channel
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2100
-#EXTINF:-1 ,UK: Sony Movie HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2103
-#EXTINF:-1 ,UK: Sony Movies Action
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2105
-#EXTINF:-1 ,UK: Spike
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2108
-#EXTINF:-1 ,UK: True Movies
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2136
-#EXTINF:-1 ,UK: UFC FIGHT Pass HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2143
-#EXTINF:-1 ,UK: Universal Channel HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2144
-#EXTINF:-1 ,UK: Yesterday HD
-http://seyirtv101.com:8080/BUR.C10/1006.19B/2166
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
 
 
 
