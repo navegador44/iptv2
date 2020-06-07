@@ -1,4 +1,116 @@
 #EXTM3U
+#EXTINF:-1 ,Discovery
+http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
+#EXTINF:-1 ,SkySp F'ball
+http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
+#EXTINF:-1 ,Nba Tv
+http://cdn.miip.tv:8080/canada/123456/518
+#EXTINF:-1 ,NFL
+http://cdn.miip.tv:8080/canada/123456/519
+#EXTINF:-1 ,Fox Deportes
+http://cdn.miip.tv:8080/canada/123456/531
+#EXTINF:-1 ,History Usa
+http://cdn.miip.tv:8080/canada/123456/532
+#EXTINF:-1 ,Lifetime Usa
+http://cdn.miip.tv:8080/canada/123456/535
+#EXTINF:-1 ,Lifetime Movie
+http://cdn.miip.tv:8080/canada/123456/536
+#EXTINF:-1 ,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/canada/123456/537
+#EXTINF:-1 ,Fox Sport Usa 2
+http://cdn.miip.tv:8080/canada/123456/538
+#EXTINF:-1 ,LA SEXTA ES
+http://cdn.miip.tv:8080/canada/123456/539
+#EXTINF:-1 ,MOVISTAR ACCION ES
+http://cdn.miip.tv:8080/canada/123456/540
+#EXTINF:-1 ,ESPN USA
+http://cdn.miip.tv:8080/canada/123456/541
+#EXTINF:-1 ,PRIME TICKET LOS ANGELES
+http://cdn.miip.tv:8080/canada/123456/1321
+#EXTINF:-1 ,SHOWTIME NEXT
+http://cdn.miip.tv:8080/canada/123456/1375
+#EXTINF:-1 ,SHOWTIME WOMEN
+http://cdn.miip.tv:8080/canada/123456/1422
+#EXTINF:-1 ,SPECTRUM LAKERS
+http://cdn.miip.tv:8080/canada/123456/1485
+#EXTINF:-1 ,FOX SPORT WEST
+http://cdn.miip.tv:8080/canada/123456/2082
+#EXTINF:-1 ,MILITARY CHANNEL
+http://cdn.miip.tv:8080/canada/123456/2648
+#EXTINF:-1 ,UNIVISION ORLANDO
+http://cdn.miip.tv:8080/canada/123456/2649
+#EXTINF:-1 ,FOX SPORT FLORIDA
+http://cdn.miip.tv:8080/canada/123456/2650
+#EXTINF:-1 ,TELEMUNDO ORLANDO
+http://cdn.miip.tv:8080/canada/123456/2651
+#EXTINF:-1 ,SUN SPORT CHANNEL
+http://cdn.miip.tv:8080/canada/123456/2652
+#EXTINF:-1 ,HBO EAST
+http://cdn.miip.tv:8080/canada/123456/2659
+#EXTINF:-1 ,HBO SIGNATURE ESPANOL
+http://cdn.miip.tv:8080/canada/123456/2660
+#EXTINF:-1 ,HBO SIGNATURE INGLES
+http://cdn.miip.tv:8080/canada/123456/3508
+#EXTINF:-1 ,HBO COMEDY INGLES
+http://cdn.miip.tv:8080/canada/123456/3509
+#EXTINF:-1 ,SHOWTIME INGLES
+http://cdn.miip.tv:8080/canada/123456/3510
+#EXTINF:-1 ,SHOWTIME 2
+http://cdn.miip.tv:8080/canada/123456/3511
+#EXTINF:-1 ,SHOWTIME BEYOND
+http://cdn.miip.tv:8080/canada/123456/3512
+#EXTINF:-1 ,SHOWTIMECASE
+http://cdn.miip.tv:8080/canada/123456/3513
+#EXTINF:-1 ,SHOWTIME EXTREME
+http://cdn.miip.tv:8080/canada/123456/3514
+#EXTINF:-1 ,THE MOVIE CHANNEL
+http://cdn.miip.tv:8080/canada/123456/3515
+#EXTINF:-1 ,SHOWTIME ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3516
+#EXTINF:-1 ,HBO COMEDY ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3518
+#EXTINF:-1 ,HBO LATINO USA
+http://cdn.miip.tv:8080/canada/123456/3519
+#EXTINF:-1 ,HBO FAMILY
+http://cdn.miip.tv:8080/canada/123456/3520
+#EXTINF:-1 ,HBO 2
+http://cdn.miip.tv:8080/canada/123456/3521
+#EXTINF:-1 ,STARZ EAST
+http://cdn.miip.tv:8080/canada/123456/3522
+#EXTINF:-1 ,STARZ KIDS FAMILY
+http://cdn.miip.tv:8080/canada/123456/3523
+#EXTINF:-1 ,STARZ CINEMA
+http://cdn.miip.tv:8080/canada/123456/3524
+#EXTINF:-1 ,ENCORE EAST
+http://cdn.miip.tv:8080/canada/123456/3525
+#EXTINF:-1 ,ENCORE FAMILY
+http://cdn.miip.tv:8080/canada/123456/3526
+#EXTINF:-1 ,CINEMAX EAST
+http://cdn.miip.tv:8080/canada/123456/3527
+#EXTINF:-1 ,MLB
+http://cdn.miip.tv:8080/canada/123456/3528
+#EXTINF:-1 ,DISCOVERY THEATHER
+http://cdn.miip.tv:8080/canada/123456/3529
+#EXTINF:-1 ,DISCOVERY WORLD
+http://cdn.miip.tv:8080/canada/123456/3530
+#EXTINF:-1 ,DISCOVERY SCIENCIA
+http://cdn.miip.tv:8080/canada/123456/3531
+#EXTINF:-1 ,HBO WEST
+http://cdn.miip.tv:8080/canada/123456/3533
+#EXTINF:-1 ,HBO SIGNATURE LATINO
+http://cdn.miip.tv:8080/canada/123456/3534
+#EXTINF:-1 ,HBO 2 LATINO
+http://cdn.miip.tv:8080/canada/123456/3535
+#EXTINF:-1 ,HBO PLUS ESTE
+http://cdn.miip.tv:8080/canada/123456/3536
+#EXTINF:-1 ,Unicable | MX
+http://cdn.miip.tv:8080/canada/123456/103
+#EXTINF:-1 ,STARZ BLACK
+http://cdn.miip.tv:8080/canada/123456/104
+#EXTINF:-1 ,DISNEY CHANNEL
+http://cdn.miip.tv:8080/canada/123456/105
+#EXTINF:-1 ,AT&T SPORNET COLORADO
+http://cdn.miip.tv:8080/canada/123456/106
 #EXTINF:-1 ,USA | NBC SPORTS PHILADELPHIA+
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/33077
 #EXTINF:-1 ,USA | NBC SPORTS WASHINGTON+
