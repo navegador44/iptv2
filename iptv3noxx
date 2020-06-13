@@ -33,10 +33,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/43537
 http://m-iptv.net:6204/95025267076109/65839594001441/43540
 #EXTINF:-1 ,US:Cinemax Action 2 FHD
 http://m-iptv.net:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US:Cinemax HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43543
-#EXTINF:-1 ,US:Cinemax West FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43544
 #EXTINF:-1 ,US:Starz Encore East HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43545
 #EXTINF:-1 ,US:Starz Encore West HD
@@ -57,8 +53,6 @@ http://m-iptv.net:6204/95025267076109/65839594001441/43554
 http://m-iptv.net:6204/95025267076109/65839594001441/43555
 #EXTINF:-1 ,US:Starz In Black HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US:Starz Kids & Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43558
 #EXTINF:-1 ,US:Starz Cinema East FHD
 http://m-iptv.net:6204/95025267076109/65839594001441/43559
 #EXTINF:-1 ,US:Showtime 2
@@ -187,16 +181,12 @@ http://m-iptv.net:6204/95025267076109/65839594001441/20531
 http://plus-tv.us:8080/live/1899/1899/14576.ts
 #EXTINF:-1 ,US | Galavision
 http://plus-tv.us:8080/live/1899/1899/14577.ts
-#EXTINF:-1 ,US | Telemundo
-http://plus-tv.us:8080/live/1899/1899/14578.ts
 #EXTINF:-1 ,US | Telemundo Chicago
 http://plus-tv.us:8080/live/1899/1899/14579.ts
 #EXTINF:-1 ,US | Telemundo LA
 http://plus-tv.us:8080/live/1899/1899/14580.ts
 #EXTINF:-1 ,US | Telemundo Miami
 http://plus-tv.us:8080/live/1899/1899/14581.ts
-#EXTINF:-1 ,US | Cinemax East
-http://plus-tv.us:8080/live/1899/1899/14595.ts
 #EXTINF:-1 ,US | EPIX
 http://plus-tv.us:8080/live/1899/1899/14596.ts
 #EXTINF:-1 ,US | Showtime
@@ -275,18 +265,12 @@ http://plus-tv.us:8080/live/1899/1899/14663.ts
 http://plus-tv.us:8080/live/1899/1899/14664.ts
 #EXTINF:-1 ,US | GOLTV ENG
 http://plus-tv.us:8080/live/1899/1899/14669.ts
-#EXTINF:-1 ,USA | TVG 2
-http://plus-tv.us:8080/live/1899/1899/14670.ts
 #EXTINF:-1 ,US | NBCSN
 http://plus-tv.us:8080/live/1899/1899/14671.ts
-#EXTINF:-1 ,US | GOL TV ESP
-http://plus-tv.us:8080/live/1899/1899/14672.ts
 #EXTINF:-1 ,US | BEIN SPORTS Ñ
 http://plus-tv.us:8080/live/1899/1899/14675.ts
 #EXTINF:-1 ,US | Showtime
 http://plus-tv.us:8080/live/1899/1899/14679.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14680.ts
 #EXTINF:-1 ,US | Showtime Extreme
 http://plus-tv.us:8080/live/1899/1899/14681.ts
 #EXTINF:-1 ,US | Showtime West
@@ -315,10 +299,6 @@ http://cdn.miip.tv:8080/canada/123456/532
 http://cdn.miip.tv:8080/canada/123456/537
 #EXTINF:-1 ,Fox Sport Usa 2
 http://cdn.miip.tv:8080/canada/123456/538
-#EXTINF:-1 ,LA SEXTA ES
-http://cdn.miip.tv:8080/canada/123456/539
-#EXTINF:-1 ,MOVISTAR ACCION ES
-http://cdn.miip.tv:8080/canada/123456/540
 #EXTINF:-1 ,ESPN USA
 http://cdn.miip.tv:8080/canada/123456/541
 #EXTINF:-1 ,SPECTRUM HOUSTON
@@ -409,8 +389,6 @@ http://cdn.miip.tv:8080/canada/123456/3549
 http://cdn.miip.tv:8080/canada/123456/3550
 #EXTINF:-1 ,AMC USA
 http://cdn.miip.tv:8080/canada/123456/3551
-#EXTINF:-1 ,Unicable | MX
-http://cdn.miip.tv:8080/canada/123456/103
 #EXTINF:-1 ,STARZ BLACK
 http://cdn.miip.tv:8080/canada/123456/104
 #EXTINF:-1 ,AT&T SPORNET COLORADO
@@ -419,10 +397,6 @@ http://cdn.miip.tv:8080/canada/123456/106
 http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
 #EXTINF:-1 ,Discovery
 http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
-#EXTINF:-1 ,ENTRE | AZCORAZON
-http://plus-tv.us:8080/live/1899/1899/6838.m3u8
-#EXTINF:-1 ,ENTRE | AZMUNDO
-http://plus-tv.us:8080/live/1899/1899/6839.m3u8
 #EXTINF:-1 ,ENTRE | AZTECA 7 HD
 http://plus-tv.us:8080/live/1899/1899/10874.m3u8
 #EXTINF:-1 ,ENTRE | AZTECA MUNDO
@@ -445,14 +419,10 @@ http://plus-tv.us:8080/live/1899/1899/5277.m3u8
 http://plus-tv.us:8080/live/1899/1899/11753.m3u8
 #EXTINF:-1 ,Fox channel 1080p FULL HD
 http://plus-tv.us:8080/live/1899/1899/11771.m3u8
-#EXTINF:-1 ,Fox Lite 1080p Full HD
-http://plus-tv.us:8080/live/1899/1899/12000.m3u8
 #EXTINF:-1 ,Fox Premium serie 1080p Full HD
 http://plus-tv.us:8080/live/1899/1899/12001.m3u8
 #EXTINF:-1 ,Fox sports FULL HD
 http://plus-tv.us:8080/live/1899/1899/11774.m3u8
-#EXTINF:-1 ,Fx 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11777.m3u8
 #EXTINF:-1 ,Historia FULL HD
 http://plus-tv.us:8080/live/1899/1899/11780.m3u8
 #EXTINF:-1 ,MUSICA | TROPICALES
@@ -479,8 +449,6 @@ http://plus-tv.us:8080/live/1899/1899/10135.m3u8
 http://plus-tv.us:8080/live/1899/1899/6946.m3u8
 #EXTINF:-1 ,Natgeo Full HD
 http://plus-tv.us:8080/live/1899/1899/11853.m3u8
-#EXTINF:-1 ,NTN24 COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4231.m3u8
 #EXTINF:-1 ,PPV STARZ-ENCORE-COMEDY-FHD
 http://plus-tv.us:8080/live/1899/1899/5262.m3u8
 #EXTINF:-1 ,PPV Starz-Encore-SUSPENSE-FHD
@@ -517,8 +485,6 @@ http://plus-tv.us:8080/live/1899/1899/14567.m3u8
 http://plus-tv.us:8080/live/1899/1899/14576.m3u8
 #EXTINF:-1 ,US | Galavision
 http://plus-tv.us:8080/live/1899/1899/14577.m3u8
-#EXTINF:-1 ,US | Telemundo
-http://plus-tv.us:8080/live/1899/1899/14578.m3u8
 #EXTINF:-1 ,US | Telemundo Chicago
 http://plus-tv.us:8080/live/1899/1899/14579.m3u8
 #EXTINF:-1 ,US | Telemundo LA
@@ -597,8 +563,6 @@ http://plus-tv.us:8080/live/1899/1899/14649.m3u8
 http://plus-tv.us:8080/live/1899/1899/14650.m3u8
 #EXTINF:-1 ,US | Showtime
 http://plus-tv.us:8080/live/1899/1899/14679.m3u8
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14680.m3u8
 #EXTINF:-1 ,US | Showtime Extreme
 http://plus-tv.us:8080/live/1899/1899/14681.m3u8
 #EXTINF:-1 ,US | Discovery ID
@@ -617,8 +581,6 @@ http://plus-tv.us:8080/live/1899/1899/14565.m3u8
 http://plus-tv.us:8080/live/1899/1899/14866.m3u8
 #EXTINF:-1 ,ECUADOR | ECUADOR TV HD
 http://plus-tv.us:8080/live/1899/1899/14867.m3u8
-#EXTINF:-1 ,RD: CINEVISION
-http://plus-tv.us:8080/live/1899/1899/15226.m3u8
 #EXTINF:-1 ,RD: RTVD
 http://plus-tv.us:8080/live/1899/1899/15227.m3u8
 #EXTINF:-1 ,RD: TELESISTEMA
@@ -627,8 +589,6 @@ http://plus-tv.us:8080/live/1899/1899/15231.m3u8
 http://plus-tv.us:8080/live/1899/1899/15232.m3u8
 #EXTINF:-1 ,RD: CANAL 25
 http://plus-tv.us:8080/live/1899/1899/15233.m3u8
-#EXTINF:-1 ,RD: TELEUNIVERSO
-http://plus-tv.us:8080/live/1899/1899/15234.m3u8
 #EXTINF:-1 ,RD: ANTENA LATINA
 http://plus-tv.us:8080/live/1899/1899/15237.m3u8
 #EXTINF:-1 ,RD | CANAL 4
@@ -639,8 +599,6 @@ http://plus-tv.us:8080/live/1899/1899/15280.m3u8
 http://plus-tv.us:8080/live/1899/1899/15286.m3u8
 #EXTINF:-1 ,Latino | AZ Mundo
 http://plus-tv.us:8080/live/1899/1899/15298.m3u8
-#EXTINF:-1 ,Latino | Bandamax
-http://plus-tv.us:8080/live/1899/1899/15301.m3u8
 #EXTINF:-1 ,Latino | beIN Sports
 http://plus-tv.us:8080/live/1899/1899/15302.m3u8
 #EXTINF:-1 ,Latino | beIN Sports Opcion 2
@@ -651,8 +609,6 @@ http://plus-tv.us:8080/live/1899/1899/15318.m3u8
 http://plus-tv.us:8080/live/1899/1899/15319.m3u8
 #EXTINF:-1 ,Latino | Discovery en Espanol
 http://plus-tv.us:8080/live/1899/1899/15320.m3u8
-#EXTINF:-1 ,Latino | Discovery Familia
-http://plus-tv.us:8080/live/1899/1899/15321.m3u8
 #EXTINF:-1 ,Latino | Nat Geo Wild
 http://plus-tv.us:8080/live/1899/1899/15384.m3u8
 #EXTINF:-1 ,Latino | Pasiones
@@ -735,236 +691,38 @@ http://plus-tv.us:8080/movie/1899/1899/15010.mp4
 http://plus-tv.us:8080/movie/1899/1899/15027.mp4
 #EXTINF:-1 ,El viaje de Marta (Estreno 2020)
 http://plus-tv.us:8080/movie/1899/1899/15032.mp4
-#EXTINF:-1 ,US:HBO
-http://m-iptv.net:6204/95025267076109/65839594001441/20563
-#EXTINF:-1 ,US:HBO2
-http://m-iptv.net:6204/95025267076109/65839594001441/20559
-#EXTINF:-1 ,US:HBO East
-http://m-iptv.net:6204/95025267076109/65839594001441/20562
-#EXTINF:-1 ,US:ATT SportsNet Southwest
-http://m-iptv.net:6204/95025267076109/65839594001441/33434
 #EXTINF:-1 ,US:BBC America
 http://m-iptv.net:6204/95025267076109/65839594001441/20611
-#EXTINF:-1 ,US:BeIN Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33435
-#EXTINF:-1 ,US:BeIN2 Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33436
-#EXTINF:-1 ,US:Destination America
-http://m-iptv.net:6204/95025267076109/65839594001441/20589
-#EXTINF:-1 ,US:Discovery ID
-http://m-iptv.net:6204/95025267076109/65839594001441/20587
-#EXTINF:-1 ,US:Cinemaxx More Maxx HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43534
-#EXTINF:-1 ,US:Cinemax Thriller Max HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43535
-#EXTINF:-1 ,US:Cinemax FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43537
-#EXTINF:-1 ,US:Cinemax East
-http://m-iptv.net:6204/95025267076109/65839594001441/43540
-#EXTINF:-1 ,US:Cinemax Action 2 FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US:Starz Encore West HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43546
-#EXTINF:-1 ,US:Starz Encore Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43547
-#EXTINF:-1 ,US:Starz Encore Classic HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43548
-#EXTINF:-1 ,US:Starz Encore Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43549
-#EXTINF:-1 ,US:Starz Encore Suspense HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43551
-#EXTINF:-1 ,US:Starz Edge FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43553
-#EXTINF:-1 ,US:Starz East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43554
-#EXTINF:-1 ,US:Starz In Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US:Starz Cinema East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43559
-#EXTINF:-1 ,US:Showtime Next HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43564
-#EXTINF:-1 ,US:Showtime Extreme HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43565
-#EXTINF:-1 ,US:Showtime Beyond HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43567
-#EXTINF:-1 ,US:Showtime Showcase
-http://m-iptv.net:6204/95025267076109/65839594001441/43568
-#EXTINF:-1 ,US:ShowTime Family Zone HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43569
-#EXTINF:-1 ,US:ESPN 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33437
-#EXTINF:-1 ,US:ESPN 2
-http://m-iptv.net:6204/95025267076109/65839594001441/33438
-#EXTINF:-1 ,US:ESPN Longhorn Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33440
-#EXTINF:-1 ,US:ESPN News
-http://m-iptv.net:6204/95025267076109/65839594001441/33441
-#EXTINF:-1 ,US:ESPN SEC Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33442
-#EXTINF:-1 ,US:ESPNU College Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33443
-#EXTINF:-1 ,US:Fight Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33444
-#EXTINF:-1 ,US:FNTSY Sports Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33445
-#EXTINF:-1 ,US:Fox College Sports Atlantic
-http://m-iptv.net:6204/95025267076109/65839594001441/33446
-#EXTINF:-1 ,US:Fox College Sports Central
-http://m-iptv.net:6204/95025267076109/65839594001441/33447
-#EXTINF:-1 ,US:Fox College Sports Pacific
-http://m-iptv.net:6204/95025267076109/65839594001441/33448
-#EXTINF:-1 ,US:Fox Sports 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33449
-#EXTINF:-1 ,BT Sport Extra 1
-http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
-#EXTINF:-1 ,Discovery
-http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
 #EXTINF:-1 ,SkySp F'ball
 http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
-#EXTINF:-1 ,US:Fox Sports 2
-http://m-iptv.net:6204/95025267076109/65839594001441/20567
-#EXTINF:-1 ,US:Sports man Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/33452
-#EXTINF:-1 ,US:Stadium
-http://m-iptv.net:6204/95025267076109/65839594001441/20534
-#EXTINF:-1 ,US:Stadium1
-http://m-iptv.net:6204/95025267076109/65839594001441/20533
-#EXTINF:-1 ,US:Stadium2
-http://m-iptv.net:6204/95025267076109/65839594001441/20532
-#EXTINF:-1 ,US:Stadium3
-http://m-iptv.net:6204/95025267076109/65839594001441/20531
 #EXTINF:-1 ,US | Nat Geo
 http://plus-tv.us:8080/live/1899/1899/14566.ts
 #EXTINF:-1 ,US | Nat Geo Wild
 http://plus-tv.us:8080/live/1899/1899/14567.ts
-#EXTINF:-1 ,US | Unimas
-http://plus-tv.us:8080/live/1899/1899/14576.ts
-#EXTINF:-1 ,US | Galavision
-http://plus-tv.us:8080/live/1899/1899/14577.ts
-#EXTINF:-1 ,US | Telemundo
-http://plus-tv.us:8080/live/1899/1899/14578.ts
-#EXTINF:-1 ,US | Telemundo Chicago
-http://plus-tv.us:8080/live/1899/1899/14579.ts
-#EXTINF:-1 ,US | Telemundo LA
-http://plus-tv.us:8080/live/1899/1899/14580.ts
-#EXTINF:-1 ,US | Telemundo Miami
-http://plus-tv.us:8080/live/1899/1899/14581.ts
 #EXTINF:-1 ,US | Telemundo Texas
 http://plus-tv.us:8080/live/1899/1899/14582.ts
-#EXTINF:-1 ,US | Univision
-http://plus-tv.us:8080/live/1899/1899/14583.ts
 #EXTINF:-1 ,US | NBC Universo
 http://plus-tv.us:8080/live/1899/1899/14584.ts
 #EXTINF:-1 ,US | Discovery Familia
 http://plus-tv.us:8080/live/1899/1899/14585.ts
 #EXTINF:-1 ,US | Discovery
 http://plus-tv.us:8080/live/1899/1899/14586.ts
-#EXTINF:-1 ,US | Cinemax East
-http://plus-tv.us:8080/live/1899/1899/14595.ts
-#EXTINF:-1 ,US | EPIX
-http://plus-tv.us:8080/live/1899/1899/14596.ts
-#EXTINF:-1 ,US | Showtime
-http://plus-tv.us:8080/live/1899/1899/14597.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14598.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14600.ts
-#EXTINF:-1 ,US | Starz Encore Western
-http://plus-tv.us:8080/live/1899/1899/14601.ts
-#EXTINF:-1 ,US | Starz
-http://plus-tv.us:8080/live/1899/1899/14602.ts
-#EXTINF:-1 ,US | Starz Black
-http://plus-tv.us:8080/live/1899/1899/14603.ts
-#EXTINF:-1 ,US | HBO ESP
-http://plus-tv.us:8080/live/1899/1899/14604.ts
-#EXTINF:-1 ,US | HBO ZONE
-http://plus-tv.us:8080/live/1899/1899/14605.ts
-#EXTINF:-1 ,US | STARZ ESP
-http://plus-tv.us:8080/live/1899/1899/14606.ts
-#EXTINF:-1 ,US | STARZ EDGE
-http://plus-tv.us:8080/live/1899/1899/14607.ts
-#EXTINF:-1 ,US | HBO Signature ESP
-http://plus-tv.us:8080/live/1899/1899/14608.ts
-#EXTINF:-1 ,US | SHOWTIME ESP
-http://plus-tv.us:8080/live/1899/1899/14609.ts
-#EXTINF:-1 ,US | HBO
-http://plus-tv.us:8080/live/1899/1899/14610.ts
-#EXTINF:-1 ,US | HBO Latino
-http://plus-tv.us:8080/live/1899/1899/14611.ts
 #EXTINF:-1 ,US | USA Network
 http://plus-tv.us:8080/live/1899/1899/14617.ts
-#EXTINF:-1 ,US | H2
-http://plus-tv.us:8080/live/1899/1899/14639.ts
-#EXTINF:-1 ,US | ESPN DEPORTES HD
-http://plus-tv.us:8080/live/1899/1899/14643.ts
-#EXTINF:-1 ,US | BEIN SPORTS LA LIGA
-http://plus-tv.us:8080/live/1899/1899/14644.ts
-#EXTINF:-1 ,US | UFC TV
-http://plus-tv.us:8080/live/1899/1899/14646.ts
-#EXTINF:-1 ,US | FIGHTING SPORTS
-http://plus-tv.us:8080/live/1899/1899/14647.ts
-#EXTINF:-1 ,US | Eleven Sports
-http://plus-tv.us:8080/live/1899/1899/14648.ts
 #EXTINF:-1 ,US | ESPN News
 http://plus-tv.us:8080/live/1899/1899/14650.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14680.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14681.ts
-#EXTINF:-1 ,US | Showtime West
-http://plus-tv.us:8080/live/1899/1899/14683.ts
-#EXTINF:-1 ,US | Showtime HD
-http://plus-tv.us:8080/live/1899/1899/14684.ts
-#EXTINF:-1 ,US | Showtime 2 *
-http://plus-tv.us:8080/live/1899/1899/14685.ts
 #EXTINF:-1 ,US | Showtime Extreme *
 http://plus-tv.us:8080/live/1899/1899/14686.ts
 #EXTINF:-1 ,US | Showtime Latino
 http://plus-tv.us:8080/live/1899/1899/14687.ts
 #EXTINF:-1 ,US | Discovery ID
 http://plus-tv.us:8080/live/1899/1899/14552.ts
-#EXTINF:-1 ,US | Destination America
-http://plus-tv.us:8080/live/1899/1899/14555.ts
-#EXTINF:-1 ,US | Discovery Family
-http://plus-tv.us:8080/live/1899/1899/14556.ts
-#EXTINF:-1 ,US | Discovery Life
-http://plus-tv.us:8080/live/1899/1899/14557.ts
-#EXTINF:-1 ,US | Discovery Science
-http://plus-tv.us:8080/live/1899/1899/14558.ts
-#EXTINF:-1 ,US | History Channel
-http://plus-tv.us:8080/live/1899/1899/14564.ts
-#EXTINF:-1 ,Nba Tv
-http://cdn.miip.tv:8080/canada/123456/518
-#EXTINF:-1 ,NFL
-http://cdn.miip.tv:8080/canada/123456/519
-#EXTINF:-1 ,Fox Deportes
-http://cdn.miip.tv:8080/canada/123456/531
-#EXTINF:-1 ,History Usa
-http://cdn.miip.tv:8080/canada/123456/532
 #EXTINF:-1 ,Lifetime Usa
 http://cdn.miip.tv:8080/canada/123456/535
 #EXTINF:-1 ,Lifetime Movie
 http://cdn.miip.tv:8080/canada/123456/536
-#EXTINF:-1 ,Fox Sport 1 Usa
-http://cdn.miip.tv:8080/canada/123456/537
-#EXTINF:-1 ,Fox Sport Usa 2
-http://cdn.miip.tv:8080/canada/123456/538
-#EXTINF:-1 ,ESPN USA
-http://cdn.miip.tv:8080/canada/123456/541
 #EXTINF:-1 ,TVO Canal 23 | ESA
 http://cdn.miip.tv:8080/canada/123456/1317
-#EXTINF:-1 ,SPECTRUM HOUSTON
-http://cdn.miip.tv:8080/canada/123456/1320
-#EXTINF:-1 ,PRIME TICKET LOS ANGELES
-http://cdn.miip.tv:8080/canada/123456/1321
-#EXTINF:-1 ,SHOWTIME NEXT
-http://cdn.miip.tv:8080/canada/123456/1375
-#EXTINF:-1 ,SHOWTIME WOMEN
-http://cdn.miip.tv:8080/canada/123456/1422
-#EXTINF:-1 ,SPECTRUM LAKERS
-http://cdn.miip.tv:8080/canada/123456/1485
-#EXTINF:-1 ,FOX SPORT WEST
-http://cdn.miip.tv:8080/canada/123456/2082
 #EXTINF:-1 ,ECUADOR | TC TELEVISIÓN HD
 http://plus-tv.us:8080/live/1899/1899/4631.m3u8
 #EXTINF:-1 ,ECUADOR | TC TELEVISION FHD
@@ -1129,12 +887,8 @@ http://plus-tv.us:8080/live/1899/1899/4227.m3u8
 http://plus-tv.us:8080/live/1899/1899/9545.m3u8
 #EXTINF:-1 ,CULTURA  | Discovery World
 http://plus-tv.us:8080/live/1899/1899/2697.m3u8
-#EXTINF:-1 ,CULTURA  | H2
-http://plus-tv.us:8080/live/1899/1899/2703.m3u8
 #EXTINF:-1 ,CULTURA  | History Channel
 http://plus-tv.us:8080/live/1899/1899/2702.m3u8
-#EXTINF:-1 ,CULTURA  | NatGeo Channel HD
-http://plus-tv.us:8080/live/1899/1899/2700.m3u8
 #EXTINF:-1 ,CULTURA  | NatGeo Wild HD
 http://plus-tv.us:8080/live/1899/1899/2699.m3u8
 #EXTINF:-1 ,CULTURA | DISCOVERY ID FHD
@@ -1147,12 +901,6 @@ http://plus-tv.us:8080/live/1899/1899/5094.m3u8
 http://plus-tv.us:8080/live/1899/1899/10885.m3u8
 #EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 1 HD
 http://plus-tv.us:8080/live/1899/1899/5100.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 2 FHD
-http://plus-tv.us:8080/live/1899/1899/5099.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 2 HD
-http://plus-tv.us:8080/live/1899/1899/3718.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS FHD
-http://plus-tv.us:8080/live/1899/1899/3719.m3u8
 #EXTINF:-1 ,DEPORTE | DIRECTV SPORTS+
 http://plus-tv.us:8080/live/1899/1899/5098.m3u8
 #EXTINF:-1 ,DEPORTE | ESPN + HD
@@ -1167,20 +915,10 @@ http://plus-tv.us:8080/live/1899/1899/3722.m3u8
 http://plus-tv.us:8080/live/1899/1899/3729.m3u8
 #EXTINF:-1 ,DEPORTE | FOX SPORTS 1 HD
 http://plus-tv.us:8080/live/1899/1899/3725.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 FHD
-http://plus-tv.us:8080/live/1899/1899/5104.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 HD ARG
-http://plus-tv.us:8080/live/1899/1899/3727.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 MX
-http://plus-tv.us:8080/live/1899/1899/9397.m3u8
 #EXTINF:-1 ,DEPORTE | FOX SPORTS 2 MX*
 http://plus-tv.us:8080/live/1899/1899/9424.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 3 FHD
-http://plus-tv.us:8080/live/1899/1899/5217.m3u8
 #EXTINF:-1 ,DEPORTE | FOX SPORTS 4K
 http://plus-tv.us:8080/live/1899/1899/5119.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS MX HD
-http://plus-tv.us:8080/live/1899/1899/9423.m3u8
 #EXTINF:-1 ,DEPORTE | FOX SPORTS PREMIUM
 http://plus-tv.us:8080/live/1899/1899/3730.m3u8
 #EXTINF:-1 ,DEPORTE | FOX SPORTS PREMIUM FHD
@@ -1195,22 +933,10 @@ http://plus-tv.us:8080/live/1899/1899/4596.m3u8
 http://plus-tv.us:8080/live/1899/1899/4597.m3u8
 #EXTINF:-1 ,DEPORTE | TIGO ESPORTS  CR
 http://plus-tv.us:8080/live/1899/1899/10986.m3u8
-#EXTINF:-1 ,DEPORTE | TIGO SPORTS PARAGUAY
-http://plus-tv.us:8080/live/1899/1899/10984.m3u8
-#EXTINF:-1 ,DEPORTE | TIGO SPORTS 2 BOLIVIA
-http://plus-tv.us:8080/live/1899/1899/10985.m3u8
-#EXTINF:-1 ,DEPORTE | TOROS
-http://plus-tv.us:8080/live/1899/1899/4598.m3u8
-#EXTINF:-1 ,DEPORTE | TUDN MX
-http://plus-tv.us:8080/live/1899/1899/4555.m3u8
-#EXTINF:-1 ,DEPORTE | TYC SPORTS HD
-http://plus-tv.us:8080/live/1899/1899/3735.m3u8
 #EXTINF:-1 ,DEPORTE | UFC
 http://plus-tv.us:8080/live/1899/1899/3736.m3u8
 #EXTINF:-1 ,DEPORTE | UNIVISION DEPORTE
 http://plus-tv.us:8080/live/1899/1899/3737.m3u8
-#EXTINF:-1 ,DEPORTE | WIN SPORTS
-http://plus-tv.us:8080/live/1899/1899/3738.m3u8
 #EXTINF:-1 ,DEPORTE | WIN SPORTS PLUS FHD
 http://plus-tv.us:8080/live/1899/1899/10091.m3u8
 #EXTINF:-1 ,DEPORTE | WINSPORTS PLUS
@@ -1221,14 +947,6 @@ http://plus-tv.us:8080/live/1899/1899/11672.m3u8
 http://plus-tv.us:8080/live/1899/1899/11804.m3u8
 #EXTINF:-1 ,DEPORTES | REAL MADRID TV
 http://plus-tv.us:8080/live/1899/1899/11806.m3u8
-#EXTINF:-1 ,Discovery  ID Full HD
-http://plus-tv.us:8080/live/1899/1899/11850.m3u8
-#EXTINF:-1 ,Discobery channel 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11751.m3u8
-#EXTINF:-1 ,Discobery theater 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11767.m3u8
-#EXTINF:-1 ,Discobery tlc 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11768.m3u8
 #EXTINF:-1 ,Discobery turbo  FULL HD
 http://plus-tv.us:8080/live/1899/1899/11769.m3u8
 #EXTINF:-1 ,Discobery world FULL HD
@@ -1259,26 +977,6 @@ http://plus-tv.us:8080/movie/1899/1899/15054.mp4
 http://plus-tv.us:8080/movie/1899/1899/15069.mp4
 #EXTINF:-1 ,Ibiza 2019 (Estreno 2020)
 http://plus-tv.us:8080/movie/1899/1899/15078.mp4
-#EXTINF:-1 ,Recluso Cero (BRS)  (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15084.mp4
-#EXTINF:-1 ,La noche de las dos lunas (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15110.mp4
-#EXTINF:-1 ,Milagro en la celda No. 7 (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15149.mp4
-#EXTINF:-1 ,Mob Town (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15151.mp4
-#EXTINF:-1 ,En ninguna parte (2019) LAT (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15165.mp4
-#EXTINF:-1 ,Red Letter Day (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15190.mp4
-#EXTINF:-1 ,Richard Jewell (Estreno 2020)
-http://plus-tv.us:8080/movie/1899/1899/15191.mp4
-#EXTINF:-1 ,Boyka: Invicto IV (2016)
-http://plus-tv.us:8080/movie/1899/1899/15196.mp4
-#EXTINF:-1 ,Boyka: Invicto 4
-http://plus-tv.us:8080/movie/1899/1899/15197.mp4
-#EXTINF:-1 ,Megalodon (2018)
-http://plus-tv.us:8080/movie/1899/1899/15281.mp4
 #EXTINF:-1 ,Misión de Rescate (2020)
 http://plus-tv.us:8080/movie/1899/1899/15449.mp4
 #EXTINF:-1 ,Cult of Chucky (2017)
@@ -1301,14 +999,6 @@ http://plus-tv.us:8080/movie/1899/1899/15475.mp4
 http://plus-tv.us:8080/movie/1899/1899/15476.mp4
 #EXTINF:-1 ,24 horas para vivir
 http://plus-tv.us:8080/movie/1899/1899/15477.mp4
-#EXTINF:-1 ,Una Cenicienta moderna: Un deseo de Navidad (2019)
-http://plus-tv.us:8080/movie/1899/1899/15480.mp4
-#EXTINF:-1 ,Amor a medianoche
-http://plus-tv.us:8080/movie/1899/1899/15485.mp4
-#EXTINF:-1 ,Aniquilación (2018)
-http://plus-tv.us:8080/movie/1899/1899/15486.mp4
-#EXTINF:-1 ,Anon (2019)
-http://plus-tv.us:8080/movie/1899/1899/15488.mp4
 #EXTINF:-1 ,A Rienda Suelta - Doce Relinchos De Navidad (2019)
 http://plus-tv.us:8080/movie/1899/1899/15489.mp4
 #EXTINF:-1 ,Batman: Gotham a Luz de Gas (2018)
@@ -1333,10 +1023,6 @@ http://plus-tv.us:8080/movie/1899/1899/15505.mp4
 http://plus-tv.us:8080/movie/1899/1899/15509.mp4
 #EXTINF:-1 ,Cavernicole (2015)
 http://plus-tv.us:8080/movie/1899/1899/15510.mp4
-#EXTINF:-1 ,Cincuenta sombras liberadas (2018)
-http://plus-tv.us:8080/movie/1899/1899/15512.mp4
-#EXTINF:-1 ,Código abierto (2017)
-http://plus-tv.us:8080/movie/1899/1899/15514.mp4
 #EXTINF:-1 ,Come Sunday (2018)
 http://plus-tv.us:8080/movie/1899/1899/15515.mp4
 #EXTINF:-1 ,Simon (2018)
@@ -1467,96 +1153,14 @@ http://plus-tv.us:8080/live/1899/1899/11679.m3u8
 http://plus-tv.us:8080/live/1899/1899/15429.m3u8
 #EXTINF:-1 ,Portal FoxMix | HD
 http://plus-tv.us:8080/live/1899/1899/15889.m3u8
-#EXTINF:-1 ,TELE EXITOS
-http://cdn.miip.tv:8080/canada/123456/2644
 #EXTINF:-1 ,MEGA TV MIAMI
 http://cdn.miip.tv:8080/canada/123456/2645
 #EXTINF:-1 ,CW DALLAS
 http://cdn.miip.tv:8080/canada/123456/2646
 #EXTINF:-1 ,ABC DALLAS
 http://cdn.miip.tv:8080/canada/123456/2647
-#EXTINF:-1 ,MILITARY CHANNEL
-http://cdn.miip.tv:8080/canada/123456/2648
-#EXTINF:-1 ,UNIVISION ORLANDO
-http://cdn.miip.tv:8080/canada/123456/2649
-#EXTINF:-1 ,FOX SPORT FLORIDA
-http://cdn.miip.tv:8080/canada/123456/2650
-#EXTINF:-1 ,TELEMUNDO ORLANDO
-http://cdn.miip.tv:8080/canada/123456/2651
-#EXTINF:-1 ,SUN SPORT CHANNEL
-http://cdn.miip.tv:8080/canada/123456/2652
-#EXTINF:-1 ,HBO EAST
-http://cdn.miip.tv:8080/canada/123456/2659
-#EXTINF:-1 ,HBO SIGNATURE ESPANOL
-http://cdn.miip.tv:8080/canada/123456/2660
-#EXTINF:-1 ,HBO SIGNATURE INGLES
-http://cdn.miip.tv:8080/canada/123456/3508
-#EXTINF:-1 ,HBO COMEDY INGLES
-http://cdn.miip.tv:8080/canada/123456/3509
-#EXTINF:-1 ,SHOWTIME INGLES
-http://cdn.miip.tv:8080/canada/123456/3510
-#EXTINF:-1 ,SHOWTIME 2
-http://cdn.miip.tv:8080/canada/123456/3511
-#EXTINF:-1 ,SHOWTIME BEYOND
-http://cdn.miip.tv:8080/canada/123456/3512
-#EXTINF:-1 ,SHOWTIMECASE
-http://cdn.miip.tv:8080/canada/123456/3513
-#EXTINF:-1 ,SHOWTIME EXTREME
-http://cdn.miip.tv:8080/canada/123456/3514
-#EXTINF:-1 ,THE MOVIE CHANNEL
-http://cdn.miip.tv:8080/canada/123456/3515
-#EXTINF:-1 ,SHOWTIME ESPANOL
-http://cdn.miip.tv:8080/canada/123456/3516
-#EXTINF:-1 ,HBO COMEDY ESPANOL
-http://cdn.miip.tv:8080/canada/123456/3518
-#EXTINF:-1 ,HBO LATINO USA
-http://cdn.miip.tv:8080/canada/123456/3519
-#EXTINF:-1 ,HBO FAMILY
-http://cdn.miip.tv:8080/canada/123456/3520
-#EXTINF:-1 ,HBO 2
-http://cdn.miip.tv:8080/canada/123456/3521
-#EXTINF:-1 ,STARZ EAST
-http://cdn.miip.tv:8080/canada/123456/3522
-#EXTINF:-1 ,STARZ KIDS FAMILY
-http://cdn.miip.tv:8080/canada/123456/3523
-#EXTINF:-1 ,STARZ CINEMA
-http://cdn.miip.tv:8080/canada/123456/3524
-#EXTINF:-1 ,ENCORE EAST
-http://cdn.miip.tv:8080/canada/123456/3525
-#EXTINF:-1 ,ENCORE FAMILY
-http://cdn.miip.tv:8080/canada/123456/3526
-#EXTINF:-1 ,CINEMAX EAST
-http://cdn.miip.tv:8080/canada/123456/3527
-#EXTINF:-1 ,MLB
-http://cdn.miip.tv:8080/canada/123456/3528
-#EXTINF:-1 ,DISCOVERY THEATHER
-http://cdn.miip.tv:8080/canada/123456/3529
-#EXTINF:-1 ,DISCOVERY WORLD
-http://cdn.miip.tv:8080/canada/123456/3530
-#EXTINF:-1 ,DISCOVERY SCIENCIA
-http://cdn.miip.tv:8080/canada/123456/3531
-#EXTINF:-1 ,HBO WEST
-http://cdn.miip.tv:8080/canada/123456/3533
-#EXTINF:-1 ,HBO SIGNATURE LATINO
-http://cdn.miip.tv:8080/canada/123456/3534
-#EXTINF:-1 ,HBO 2 LATINO
-http://cdn.miip.tv:8080/canada/123456/3535
-#EXTINF:-1 ,HBO PLUS ESTE
-http://cdn.miip.tv:8080/canada/123456/3536
-#EXTINF:-1 ,IMPACT WRESTLING
-http://cdn.miip.tv:8080/canada/123456/3549
-#EXTINF:-1 ,BOOMERANG USA
-http://cdn.miip.tv:8080/canada/123456/3550
-#EXTINF:-1 ,AMC USA
-http://cdn.miip.tv:8080/canada/123456/3551
-#EXTINF:-1 ,Unicable | MX
-http://cdn.miip.tv:8080/canada/123456/103
-#EXTINF:-1 ,STARZ BLACK
-http://cdn.miip.tv:8080/canada/123456/104
 #EXTINF:-1 ,DISNEY CHANNEL
 http://cdn.miip.tv:8080/canada/123456/105
-#EXTINF:-1 ,AT&T SPORNET COLORADO
-http://cdn.miip.tv:8080/canada/123456/106
 #EXTINF:-1 ,Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 ,Filmrise Crime
@@ -1603,22 +1207,14 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 ,US:Hallmark Movies
 http://m-iptv.net:6204/95025267076109/65839594001441/20564
-#EXTINF:-1 ,US:Showtime 2
-http://m-iptv.net:6204/95025267076109/65839594001441/43561
-#EXTINF:-1 ,US:Showtime West HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43563
 #EXTINF:-1 ,US:Lifetime HD
 http://m-iptv.net:6204/95025267076109/65839594001441/43570
-#EXTINF:-1 ,US | Showtime 2
-http://69.64.33.127:25461/LifeUsu04/C0251/18898
 #EXTINF:-1 ,US | Showtime Extreme
 http://69.64.33.127:25461/LifeUsu04/C0251/18900
 #EXTINF:-1 ,US | Showtime West
 http://69.64.33.127:25461/LifeUsu04/C0251/18904
 #EXTINF:-1 ,US | Showtime HD
 http://69.64.33.127:25461/LifeUsu04/C0251/18905
-#EXTINF:-1 ,US | Showtime 2 *
-http://69.64.33.127:25461/LifeUsu04/C0251/18908
 #EXTINF:-1 ,US | Showtime Latino
 http://69.64.33.127:25461/LifeUsu04/C0251/18910
 #EXTINF:-1 ,US | Bein Sports Ñ HD
@@ -1665,8 +1261,6 @@ http://69.64.33.127:25461/LifeUsu04/C0251/244
 http://69.64.33.127:25461/LifeUsu04/C0251/245
 #EXTINF:-1 ,US | CNBC
 http://69.64.33.127:25461/LifeUsu04/C0251/252
-#EXTINF:-1 ,US | Comedy Central
-http://69.64.33.127:25461/LifeUsu04/C0251/254
 #EXTINF:-1 ,US | Destination America
 http://69.64.33.127:25461/LifeUsu04/C0251/257
 #EXTINF:-1 ,US | Discovery Family
@@ -1683,8 +1277,6 @@ http://69.64.33.127:25461/LifeUsu04/C0251/266
 http://69.64.33.127:25461/LifeUsu04/C0251/273
 #EXTINF:-1 ,US | Lifetime
 http://69.64.33.127:25461/LifeUsu04/C0251/275
-#EXTINF:-1 ,US | Nat Geo
-http://69.64.33.127:25461/LifeUsu04/C0251/277
 #EXTINF:-1 ,US | Nat Geo Wild
 http://69.64.33.127:25461/LifeUsu04/C0251/278
 #EXTINF:-1 ,US | PBS KIDS
@@ -1697,8 +1289,6 @@ http://69.64.33.127:25461/LifeUsu04/C0251/286
 http://69.64.33.127:25461/LifeUsu04/C0251/287
 #EXTINF:-1 ,US | Unimas
 http://69.64.33.127:25461/LifeUsu04/C0251/296
-#EXTINF:-1 ,US | Telemundo Houston
-http://69.64.33.127:25461/LifeUsu04/C0251/298
 #EXTINF:-1 ,US | Telemundo Chicago
 http://69.64.33.127:25461/LifeUsu04/C0251/299
 #EXTINF:-1 ,US | Telemundo LA
@@ -1781,8 +1371,6 @@ http://linux-app.tv:6204/15020208413552/24021189856304/20559
 http://linux-app.tv:6204/15020208413552/24021189856304/20562
 #EXTINF:-1 ,US:HBO Signature
 http://linux-app.tv:6204/15020208413552/24021189856304/20560
-#EXTINF:-1 ,US:ATT SportsNet Southwest
-http://linux-app.tv:6204/15020208413552/24021189856304/33434
 #EXTINF:-1 ,US:BBC America
 http://linux-app.tv:6204/15020208413552/24021189856304/20611
 #EXTINF:-1 ,US:BeIN Sports
@@ -1823,14 +1411,10 @@ http://linux-app.tv:6204/15020208413552/24021189856304/43559
 http://linux-app.tv:6204/15020208413552/24021189856304/43561
 #EXTINF:-1 ,US:Showtime West HD
 http://linux-app.tv:6204/15020208413552/24021189856304/43563
-#EXTINF:-1 ,US:Showtime Next HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43564
 #EXTINF:-1 ,US:Showtime Extreme HD
 http://linux-app.tv:6204/15020208413552/24021189856304/43565
 #EXTINF:-1 ,US:Showtime Beyond HD
 http://linux-app.tv:6204/15020208413552/24021189856304/43567
-#EXTINF:-1 ,US:Showtime Showcase
-http://linux-app.tv:6204/15020208413552/24021189856304/43568
 #EXTINF:-1 ,US:ShowTime Family Zone HD
 http://linux-app.tv:6204/15020208413552/24021189856304/43569
 #EXTINF:-1 ,US:NBC Sports Northeast
@@ -1913,8 +1497,6 @@ http://doubleagechanmain.com:80/123456/123456/13642
 http://doubleagechanmain.com:80/123456/123456/13643
 #EXTINF:-1 ,ESP| MEGA HD 720P
 http://doubleagechanmain.com:80/123456/123456/13644
-#EXTINF:-1 ,ESP| MOVISTAR DRAMA HD
-http://doubleagechanmain.com:80/123456/123456/13646
 #EXTINF:-1 ,ESP| MOVISTAR GOLF HD
 http://doubleagechanmain.com:80/123456/123456/13647
 #EXTINF:-1 ,ESP| MTMAD 24HRS
@@ -2113,8 +1695,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 ,US:NFL Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20555
 #EXTINF:-1 ,Uk:Sky ITV 1
 http://linux-app.tv:6204/60400655844704/32991126026152/8552
 #EXTINF:-1 ,Uk:Sky ITV 2
@@ -2163,10 +1743,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33643
 http://linux-app.tv:6204/60400655844704/32991126026152/33635
 #EXTINF:-1 ,Uk:FOX SPORTS NEWS
 http://linux-app.tv:6204/60400655844704/32991126026152/33278
-#EXTINF:-1 ,Uk:MUTV HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33295
-#EXTINF:-1 ,Uk:PREMIERE SPORT HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33296
 #EXTINF:-1 ,Uk:Sky Movies 24
 http://linux-app.tv:6204/60400655844704/32991126026152/8546
 #EXTINF:-1 ,Uk:Sky Movies Action HD
@@ -2195,8 +1771,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33632
 http://linux-app.tv:6204/60400655844704/32991126026152/8569
 #EXTINF:-1 ,Uk:Sky Animal Planet HD
 http://linux-app.tv:6204/60400655844704/32991126026152/8593
-#EXTINF:-1 ,Uk:Sky Baby
-http://linux-app.tv:6204/60400655844704/32991126026152/8590
 #EXTINF:-1 ,Uk:Sky Bloomberg HD
 http://linux-app.tv:6204/60400655844704/32991126026152/8584
 #EXTINF:-1 ,Uk:Sky Discovery
@@ -2223,20 +1797,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/30835
 http://linux-app.tv:6204/60400655844704/32991126026152/30839
 #EXTINF:-1 ,Uk:EDEN
 http://linux-app.tv:6204/60400655844704/32991126026152/30872
-#EXTINF:-1 ,US:PAC12 Arizona
-http://m-iptv.net:6204/95025267076109/65839594001441/20554
-#EXTINF:-1 ,US:PAC12 BayArea
-http://m-iptv.net:6204/95025267076109/65839594001441/20553
-#EXTINF:-1 ,US:PAC12 LosAngeles
-http://m-iptv.net:6204/95025267076109/65839594001441/20552
-#EXTINF:-1 ,US:PAC12 Mountain
-http://m-iptv.net:6204/95025267076109/65839594001441/20551
-#EXTINF:-1 ,US:PAC12 Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20550
-#EXTINF:-1 ,US:PAC12 Oregon
-http://m-iptv.net:6204/95025267076109/65839594001441/20549
-#EXTINF:-1 ,US:PAC12 Washington
-http://m-iptv.net:6204/95025267076109/65839594001441/20548
 #EXTINF:-1 ,Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 ,Uk:Sky True Movies 1
@@ -2441,8 +2001,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 group-title="English",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/uSX4YXL.png",BBC Toronto Gaunda Punjab
@@ -2459,8 +2017,6 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png",BeritaSatu English
@@ -2517,16 +2073,12 @@ https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png",Boston 25 News (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-#EXTINF:-1 group-title="English",Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/iv85GCc.png",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/cip3E0N.jpg",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Ek6GuXh.jpg",Brut.
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
-#EXTINF:-1 group-title="English",Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png",BUTV10 (Boston University)
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVb6ID85LxiWckJQk8K1fklnO6-jhl3jup2AYP9NWRBGT8CPJ7p-GMo",Buzzr
@@ -2885,8 +2437,6 @@ http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://lh3.googleusercontent.com/9AnBf9_s5RDDg6joBI3kPqglfVddV72Esw1jGBc4rGzlxUElacw4UQy_z2CTVnI7vHgZXDQbqp2Gw5UqzD3uvzkJXfT0YZbxKmoeNMo",Local Now Philidelphia
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/YnOZtNm.png",LoveWorld USA
-https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 group-title="English",MCN6
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1 group-title="English",MILF HD
@@ -2947,20 +2497,6 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://bit.ly/2N6lxn9
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tf3KGP4.jpg",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 Brooklyn
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 Connecticut
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 Hudson Valley
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 Long Island
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 New Jersey
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 The Bronx
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 Westchester
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
 #EXTINF:-1 group-title="English" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12+ Connecticut
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
 #EXTINF:-1 group-title="English" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg",News 12+ Hudson Valley
@@ -2993,8 +2529,6 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-#EXTINF:-1 group-title="English",Olelo 53
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",Olelo 54
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",Olelo 55
@@ -3183,8 +2717,6 @@ https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
 #EXTINF:-1 group-title="English",The Country Network
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610
-#EXTINF:-1 group-title="English" tvg-logo="https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png",The Florida Channel
-https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg",The Now Network
@@ -3291,8 +2823,6 @@ http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w145
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/APGJc8I.jpg",Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/WMCN44.png",WMCN
-https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 #EXTINF:-1 group-title="English",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6",NASA TV
@@ -3315,514 +2845,7 @@ http://81.24.248.26:9981/stream/channelid/188614926?ticket=34EDFA674145E1CDEBA23
 http://81.24.248.26:9981/stream/channelid/1337507486?ticket=DF1B17F898312993B034E19A06F6592C71DD40D8&profile=pass
 #EXTINF:-1 ,ESP| ATRES SERIES HD
 http://doubleagechanmain.com:80/123456/123456/13598
-#EXTINF:-1 ,US:HBO
-http://m-iptv.net:6204/95025267076109/65839594001441/20563
-#EXTINF:-1 ,US:HBO2
-http://m-iptv.net:6204/95025267076109/65839594001441/20559
-#EXTINF:-1 ,US:HBO East
-http://m-iptv.net:6204/95025267076109/65839594001441/20562
-#EXTINF:-1 ,US:ATT SportsNet Southwest
-http://m-iptv.net:6204/95025267076109/65839594001441/33434
-#EXTINF:-1 ,US:BBC America
-http://m-iptv.net:6204/95025267076109/65839594001441/20611
-#EXTINF:-1 ,US:BeIN Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33435
-#EXTINF:-1 ,US:BeIN2 Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33436
-#EXTINF:-1 ,US:Destination America
-http://m-iptv.net:6204/95025267076109/65839594001441/20589
-#EXTINF:-1 ,US:Discovery ID
-http://m-iptv.net:6204/95025267076109/65839594001441/20587
-#EXTINF:-1 ,US:Cinemaxx More Maxx HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43534
-#EXTINF:-1 ,US:Cinemax Thriller Max HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43535
-#EXTINF:-1 ,US:Cinemax FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43537
-#EXTINF:-1 ,US:Cinemax East
-http://m-iptv.net:6204/95025267076109/65839594001441/43540
-#EXTINF:-1 ,US:Cinemax Action 2 FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US:Starz Encore West HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43546
-#EXTINF:-1 ,US:Starz Encore Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43547
-#EXTINF:-1 ,US:Starz Encore Classic HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43548
-#EXTINF:-1 ,US:Starz Encore Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43549
-#EXTINF:-1 ,US:Starz Encore Suspense HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43551
-#EXTINF:-1 ,US:Starz Edge FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43553
-#EXTINF:-1 ,US:Starz East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43554
-#EXTINF:-1 ,US:Starz In Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US:Starz Cinema East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43559
-#EXTINF:-1 ,US:Showtime Next HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43564
-#EXTINF:-1 ,US:Showtime Extreme HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43565
-#EXTINF:-1 ,US:Showtime Beyond HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43567
-#EXTINF:-1 ,US:Showtime Showcase
-http://m-iptv.net:6204/95025267076109/65839594001441/43568
-#EXTINF:-1 ,US:ShowTime Family Zone HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43569
-#EXTINF:-1 ,US:ESPN 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33437
-#EXTINF:-1 ,US:ESPN 2
-http://m-iptv.net:6204/95025267076109/65839594001441/33438
-#EXTINF:-1 ,US:ESPN Longhorn Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33440
-#EXTINF:-1 ,US:ESPN News
-http://m-iptv.net:6204/95025267076109/65839594001441/33441
-#EXTINF:-1 ,US:ESPN SEC Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33442
-#EXTINF:-1 ,US:ESPNU College Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33443
-#EXTINF:-1 ,US:Fight Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33444
-#EXTINF:-1 ,US:FNTSY Sports Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33445
-#EXTINF:-1 ,US:Fox College Sports Atlantic
-http://m-iptv.net:6204/95025267076109/65839594001441/33446
-#EXTINF:-1 ,US:Fox College Sports Central
-http://m-iptv.net:6204/95025267076109/65839594001441/33447
-#EXTINF:-1 ,US:Fox College Sports Pacific
-http://m-iptv.net:6204/95025267076109/65839594001441/33448
-#EXTINF:-1 ,US:Fox Sports 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33449
-#EXTINF:-1 ,BT Sport Extra 1
-http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
-#EXTINF:-1 ,Discovery
-http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
-#EXTINF:-1 ,SkySp F'ball
-http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
-#EXTINF:-1 ,US:Fox Sports 2
-http://m-iptv.net:6204/95025267076109/65839594001441/20567
-#EXTINF:-1 ,US:Sports man Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/33452
-#EXTINF:-1 ,US:Stadium
-http://m-iptv.net:6204/95025267076109/65839594001441/20534
-#EXTINF:-1 ,US:Stadium1
-http://m-iptv.net:6204/95025267076109/65839594001441/20533
-#EXTINF:-1 ,US:Stadium2
-http://m-iptv.net:6204/95025267076109/65839594001441/20532
-#EXTINF:-1 ,US:Stadium3
-http://m-iptv.net:6204/95025267076109/65839594001441/20531
-#EXTINF:-1 ,US | Nat Geo
-http://plus-tv.us:8080/live/1899/1899/14566.ts
-#EXTINF:-1 ,US | Nat Geo Wild
-http://plus-tv.us:8080/live/1899/1899/14567.ts
-#EXTINF:-1 ,US | Unimas
-http://plus-tv.us:8080/live/1899/1899/14576.ts
-#EXTINF:-1 ,US | Galavision
-http://plus-tv.us:8080/live/1899/1899/14577.ts
-#EXTINF:-1 ,US | Telemundo
-http://plus-tv.us:8080/live/1899/1899/14578.ts
-#EXTINF:-1 ,US | Telemundo Chicago
-http://plus-tv.us:8080/live/1899/1899/14579.ts
-#EXTINF:-1 ,US | Telemundo LA
-http://plus-tv.us:8080/live/1899/1899/14580.ts
-#EXTINF:-1 ,US | Telemundo Miami
-http://plus-tv.us:8080/live/1899/1899/14581.ts
-#EXTINF:-1 ,US | Telemundo Texas
-http://plus-tv.us:8080/live/1899/1899/14582.ts
-#EXTINF:-1 ,US | Univision
-http://plus-tv.us:8080/live/1899/1899/14583.ts
-#EXTINF:-1 ,US | NBC Universo
-http://plus-tv.us:8080/live/1899/1899/14584.ts
-#EXTINF:-1 ,US | Discovery Familia
-http://plus-tv.us:8080/live/1899/1899/14585.ts
-#EXTINF:-1 ,US | Discovery
-http://plus-tv.us:8080/live/1899/1899/14586.ts
-#EXTINF:-1 ,US | Cinemax East
-http://plus-tv.us:8080/live/1899/1899/14595.ts
-#EXTINF:-1 ,US | EPIX
-http://plus-tv.us:8080/live/1899/1899/14596.ts
-#EXTINF:-1 ,US | Showtime
-http://plus-tv.us:8080/live/1899/1899/14597.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14598.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14600.ts
-#EXTINF:-1 ,US | Starz Encore Western
-http://plus-tv.us:8080/live/1899/1899/14601.ts
-#EXTINF:-1 ,US | Starz
-http://plus-tv.us:8080/live/1899/1899/14602.ts
-#EXTINF:-1 ,US | Starz Black
-http://plus-tv.us:8080/live/1899/1899/14603.ts
-#EXTINF:-1 ,US | HBO ESP
-http://plus-tv.us:8080/live/1899/1899/14604.ts
-#EXTINF:-1 ,US | HBO ZONE
-http://plus-tv.us:8080/live/1899/1899/14605.ts
-#EXTINF:-1 ,US | STARZ ESP
-http://plus-tv.us:8080/live/1899/1899/14606.ts
-#EXTINF:-1 ,US | STARZ EDGE
-http://plus-tv.us:8080/live/1899/1899/14607.ts
-#EXTINF:-1 ,US | HBO Signature ESP
-http://plus-tv.us:8080/live/1899/1899/14608.ts
-#EXTINF:-1 ,US | SHOWTIME ESP
-http://plus-tv.us:8080/live/1899/1899/14609.ts
-#EXTINF:-1 ,US | HBO
-http://plus-tv.us:8080/live/1899/1899/14610.ts
-#EXTINF:-1 ,US | HBO Latino
-http://plus-tv.us:8080/live/1899/1899/14611.ts
-#EXTINF:-1 ,US | USA Network
-http://plus-tv.us:8080/live/1899/1899/14617.ts
-#EXTINF:-1 ,US | H2
-http://plus-tv.us:8080/live/1899/1899/14639.ts
-#EXTINF:-1 ,US | ESPN DEPORTES HD
-http://plus-tv.us:8080/live/1899/1899/14643.ts
-#EXTINF:-1 ,US | BEIN SPORTS LA LIGA
-http://plus-tv.us:8080/live/1899/1899/14644.ts
-#EXTINF:-1 ,US | UFC TV
-http://plus-tv.us:8080/live/1899/1899/14646.ts
-#EXTINF:-1 ,US | FIGHTING SPORTS
-http://plus-tv.us:8080/live/1899/1899/14647.ts
-#EXTINF:-1 ,US | Eleven Sports
-http://plus-tv.us:8080/live/1899/1899/14648.ts
-#EXTINF:-1 ,US | ESPN News
-http://plus-tv.us:8080/live/1899/1899/14650.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14680.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14681.ts
-#EXTINF:-1 ,US | Showtime West
-http://plus-tv.us:8080/live/1899/1899/14683.ts
-#EXTINF:-1 ,US | Showtime HD
-http://plus-tv.us:8080/live/1899/1899/14684.ts
-#EXTINF:-1 ,US | Showtime 2 *
-http://plus-tv.us:8080/live/1899/1899/14685.ts
-#EXTINF:-1 ,US | Showtime Extreme *
-http://plus-tv.us:8080/live/1899/1899/14686.ts
-#EXTINF:-1 ,US | Showtime Latino
-http://plus-tv.us:8080/live/1899/1899/14687.ts
-#EXTINF:-1 ,US | Discovery ID
-http://plus-tv.us:8080/live/1899/1899/14552.ts
-#EXTINF:-1 ,US | Destination America
-http://plus-tv.us:8080/live/1899/1899/14555.ts
-#EXTINF:-1 ,US | Discovery Family
-http://plus-tv.us:8080/live/1899/1899/14556.ts
-#EXTINF:-1 ,US | Discovery Life
-http://plus-tv.us:8080/live/1899/1899/14557.ts
-#EXTINF:-1 ,US | Discovery Science
-http://plus-tv.us:8080/live/1899/1899/14558.ts
-#EXTINF:-1 ,US | History Channel
-http://plus-tv.us:8080/live/1899/1899/14564.ts
-#EXTINF:-1 ,Nba Tv
-http://cdn.miip.tv:8080/canada/123456/518
-#EXTINF:-1 ,NFL
-http://cdn.miip.tv:8080/canada/123456/519
-#EXTINF:-1 ,Fox Deportes
-http://cdn.miip.tv:8080/canada/123456/531
-#EXTINF:-1 ,History Usa
-http://cdn.miip.tv:8080/canada/123456/532
-#EXTINF:-1 ,Lifetime Usa
-http://cdn.miip.tv:8080/canada/123456/535
-#EXTINF:-1 ,Lifetime Movie
-http://cdn.miip.tv:8080/canada/123456/536
-#EXTINF:-1 ,Fox Sport 1 Usa
-http://cdn.miip.tv:8080/canada/123456/537
-#EXTINF:-1 ,Fox Sport Usa 2
-http://cdn.miip.tv:8080/canada/123456/538
-#EXTINF:-1 ,ESPN USA
-http://cdn.miip.tv:8080/canada/123456/541
-#EXTINF:-1 ,TVO Canal 23 | ESA
-http://cdn.miip.tv:8080/canada/123456/1317
-#EXTINF:-1 ,SPECTRUM HOUSTON
-http://cdn.miip.tv:8080/canada/123456/1320
-#EXTINF:-1 ,PRIME TICKET LOS ANGELES
-http://cdn.miip.tv:8080/canada/123456/1321
-#EXTINF:-1 ,SHOWTIME NEXT
-http://cdn.miip.tv:8080/canada/123456/1375
-#EXTINF:-1 ,SHOWTIME WOMEN
-http://cdn.miip.tv:8080/canada/123456/1422
-#EXTINF:-1 ,SPECTRUM LAKERS
-http://cdn.miip.tv:8080/canada/123456/1485
-#EXTINF:-1 ,FOX SPORT WEST
-http://cdn.miip.tv:8080/canada/123456/2082
-#EXTINF:-1 ,ECUADOR | TC TELEVISIÓN HD
-http://plus-tv.us:8080/live/1899/1899/4631.m3u8
-#EXTINF:-1 ,ECUADOR | TC TELEVISION FHD
-http://plus-tv.us:8080/live/1899/1899/3677.m3u8
-#EXTINF:-1 ,ECUADOR | RTS FHD
-http://plus-tv.us:8080/live/1899/1899/4632.m3u8
-#EXTINF:-1 ,ECUADOR | RTS HD
-http://plus-tv.us:8080/live/1899/1899/3676.m3u8
-#EXTINF:-1 ,ECUADOR | ECUAVISA HD
-http://plus-tv.us:8080/live/1899/1899/3672.m3u8
-#EXTINF:-1 ,ECUADO | CANAL UNO FHD
-http://plus-tv.us:8080/live/1899/1899/4637.m3u8
-#EXTINF:-1 ,ECUADOR | CANAL UNO HD
-http://plus-tv.us:8080/live/1899/1899/3669.m3u8
-#EXTINF:-1 ,ECUADOR | OROMAR TV FHD
-http://plus-tv.us:8080/live/1899/1899/3675.m3u8
-#EXTINF:-1 ,ECUADOR | TELEAMAZONAS HD
-http://plus-tv.us:8080/live/1899/1899/3678.m3u8
-#EXTINF:-1 ,ECUADOR | TELEAMAZONAS FHQ
-http://plus-tv.us:8080/live/1899/1899/15448.m3u8
-#EXTINF:-1 ,ECUADOR | GAMAVISION HD
-http://plus-tv.us:8080/live/1899/1899/3673.m3u8
-#EXTINF:-1 ,ECUADOR | TVC TELEVICENTRO HD
-http://plus-tv.us:8080/live/1899/1899/3679.m3u8
-#EXTINF:-1 ,ECUADOR | DIRECTV SPORTS (ECU)
-http://plus-tv.us:8080/live/1899/1899/10883.m3u8
-#EXTINF:-1 ,ECUADOR | DIRECTV SPORTS 1 HD
-http://plus-tv.us:8080/live/1899/1899/6595.m3u8
-#EXTINF:-1 ,ECUADOR | DIRECTV SPORTS 2
-http://plus-tv.us:8080/live/1899/1899/3671.m3u8
-#EXTINF:-1 ,ECUADOR | DIRECTV SPORTS PLUS
-http://plus-tv.us:8080/live/1899/1899/6596.m3u8
-#EXTINF:-1 ,ECUADOR | GOL TV ECU
-http://plus-tv.us:8080/live/1899/1899/5117.m3u8
-#EXTINF:-1 ,ECUADOR | GOL TV ECUADOR FHD
-http://plus-tv.us:8080/live/1899/1899/4634.m3u8
-#EXTINF:-1 ,ECUADOR | GOL TV ECUADOR SD
-http://plus-tv.us:8080/live/1899/1899/10880.m3u8
-#EXTINF:-1 ,CINE Y SERIE | CINECANAL FHQ
-http://plus-tv.us:8080/live/1899/1899/15452.m3u8
-#EXTINF:-1 ,CINE Y SERIE | CINEMAX HD
-http://plus-tv.us:8080/live/1899/1899/3684.m3u8
-#EXTINF:-1 ,CINE Y SERIE | CINEMAX FHD
-http://plus-tv.us:8080/live/1899/1899/15589.m3u8
-#EXTINF:-1 ,CINE Y SERIE | COMEDIA CENTRAL 4k
-http://plus-tv.us:8080/live/1899/1899/4586.m3u8
-#EXTINF:-1 ,CINE Y SERIE | DE PELICULA PLUS
-http://plus-tv.us:8080/live/1899/1899/6961.m3u8
-#EXTINF:-1 ,CINE Y SERIE | DE PELICULA PLUS F
-http://plus-tv.us:8080/live/1899/1899/9395.m3u8
-#EXTINF:-1 ,CINE Y SERIE | DISTRITO COMEDIA
-http://plus-tv.us:8080/live/1899/1899/11665.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FOX ACTION FHD
-http://plus-tv.us:8080/live/1899/1899/9393.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FOX ACTION HD
-http://plus-tv.us:8080/live/1899/1899/9428.m3u8
-#EXTINF:-1 ,INFANTIL BABY TV
-http://plus-tv.us:8080/live/1899/1899/3800.m3u8
-#EXTINF:-1 ,INFANTIL BOOMERANG
-http://plus-tv.us:8080/live/1899/1899/3801.m3u8
-#EXTINF:-1 ,INFANTIL CARTOON-NETWORK HD
-http://plus-tv.us:8080/live/1899/1899/3802.m3u8
-#EXTINF:-1 ,DEPORTE | AFIZZIONADO
-http://plus-tv.us:8080/live/1899/1899/9420.m3u8
-#EXTINF:-1 ,DEPORTE | BEIN SPORTS ESPAÑOL FHD
-http://plus-tv.us:8080/live/1899/1899/3716.m3u8
-#EXTINF:-1 ,DEPORTE | BEIN SPORTS FHQ
-http://plus-tv.us:8080/live/1899/1899/6840.m3u8
-#EXTINF:-1 ,CULTURA  | Discovery Turbo
-http://plus-tv.us:8080/live/1899/1899/2692.m3u8
-#EXTINF:-1 ,ENTRE LAS ESTRELLAS
-http://plus-tv.us:8080/live/1899/1899/3816.m3u8
-#EXTINF:-1 ,24/7 Cabalero zodiaco
-http://plus-tv.us:8080/live/1899/1899/10968.m3u8
-#EXTINF:-1 ,el perro cobarde
-http://plus-tv.us:8080/live/1899/1899/9479.m3u8
-#EXTINF:-1 ,24/7 El auto fantástico
-http://plus-tv.us:8080/live/1899/1899/10849.m3u8
-#EXTINF:-1 ,24/7 El Chavo del Ocho
-http://plus-tv.us:8080/live/1899/1899/9476.m3u8
-#EXTINF:-1 ,Animal Planet 1080p Full HD
-http://plus-tv.us:8080/live/1899/1899/11855.m3u8
-#EXTINF:-1 ,Antena 3 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11761.m3u8
-#EXTINF:-1 ,Argentina | America TV
-http://plus-tv.us:8080/live/1899/1899/9540.m3u8
-#EXTINF:-1 ,Argentina | El Trece
-http://plus-tv.us:8080/live/1899/1899/9539.m3u8
-#EXTINF:-1 ,Argentina | Telefe
-http://plus-tv.us:8080/live/1899/1899/9538.m3u8
-#EXTINF:-1 ,Argentina | Tyc Sports
-http://plus-tv.us:8080/live/1899/1899/9541.m3u8
-#EXTINF:-1 ,Axn 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11747.m3u8
-#EXTINF:-1 ,BEIN SPORTS ESPAÑOL Ñ
-http://plus-tv.us:8080/live/1899/1899/4641.m3u8
-#EXTINF:-1 ,Bob esponja 24/7
-http://plus-tv.us:8080/live/1899/1899/12479.m3u8
-#EXTINF:-1 ,BRASIL | ESPN
-http://plus-tv.us:8080/live/1899/1899/11482.m3u8
-#EXTINF:-1 ,BRASIL | HBO 2
-http://plus-tv.us:8080/live/1899/1899/11468.m3u8
-#EXTINF:-1 ,CARACOL FHD COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4224.m3u8
-#EXTINF:-1 ,CARACOL INTERNACIONAL COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4225.m3u8
-#EXTINF:-1 ,CHILE | 24HORAS
-http://plus-tv.us:8080/live/1899/1899/11629.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FOX LITE HQ FULL HD
-http://plus-tv.us:8080/live/1899/1899/5096.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FOX PREMIUM MOVIE HD
-http://plus-tv.us:8080/live/1899/1899/3695.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FOX PREMIUM MOVIE FHQ
-http://plus-tv.us:8080/live/1899/1899/5097.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FX HD
-http://plus-tv.us:8080/live/1899/1899/5072.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FX MOVIE
-http://plus-tv.us:8080/live/1899/1899/9394.m3u8
-#EXTINF:-1 ,CINE Y SERIE | FXM FULL HD
-http://plus-tv.us:8080/live/1899/1899/4619.m3u8
-#EXTINF:-1 ,CINE Y SERIE | GOLDEN EDGE
-http://plus-tv.us:8080/live/1899/1899/7549.m3u8
-#EXTINF:-1 ,CINE Y SERIE | GOLDEN PLUS
-http://plus-tv.us:8080/live/1899/1899/3699.m3u8
-#EXTINF:-1 ,CINE Y SERIE | GOLDEN PRIME
-http://plus-tv.us:8080/live/1899/1899/4621.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO  HD
-http://plus-tv.us:8080/live/1899/1899/3701.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO + FHD
-http://plus-tv.us:8080/live/1899/1899/5109.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO 2* FHQ
-http://plus-tv.us:8080/live/1899/1899/5111.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO FAMILY FHD
-http://plus-tv.us:8080/live/1899/1899/5071.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO MUNDI
-http://plus-tv.us:8080/live/1899/1899/10881.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO PLUS HD
-http://plus-tv.us:8080/live/1899/1899/3702.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO POP
-http://plus-tv.us:8080/live/1899/1899/3704.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO SIGNATURE FHD
-http://plus-tv.us:8080/live/1899/1899/9427.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO SIGNATURE HD
-http://plus-tv.us:8080/live/1899/1899/3703.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO XTREME
-http://plus-tv.us:8080/live/1899/1899/3705.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO XTREME HD
-http://plus-tv.us:8080/live/1899/1899/5081.m3u8
-#EXTINF:-1 ,CINE Y SERIE | HBO* FHQ
-http://plus-tv.us:8080/live/1899/1899/5112.m3u8
-#EXTINF:-1 ,CINE Y SERIE | SPACE FHQ
-http://plus-tv.us:8080/live/1899/1899/9422.m3u8
-#EXTINF:-1 ,CINE Y SERIE | SPACE FHD
-http://plus-tv.us:8080/live/1899/1899/3708.m3u8
-#EXTINF:-1 ,Cinecanal 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11749.m3u8
-#EXTINF:-1 ,Cinemax FULL HD
-http://plus-tv.us:8080/live/1899/1899/11750.m3u8
-#EXTINF:-1 ,CITY TV COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4227.m3u8
-#EXTINF:-1 ,Cronica HD
-http://plus-tv.us:8080/live/1899/1899/9545.m3u8
-#EXTINF:-1 ,CULTURA  | Discovery World
-http://plus-tv.us:8080/live/1899/1899/2697.m3u8
-#EXTINF:-1 ,CULTURA  | H2
-http://plus-tv.us:8080/live/1899/1899/2703.m3u8
-#EXTINF:-1 ,CULTURA  | History Channel
-http://plus-tv.us:8080/live/1899/1899/2702.m3u8
-#EXTINF:-1 ,CULTURA  | NatGeo Channel HD
-http://plus-tv.us:8080/live/1899/1899/2700.m3u8
-#EXTINF:-1 ,CULTURA  | NatGeo Wild HD
-http://plus-tv.us:8080/live/1899/1899/2699.m3u8
-#EXTINF:-1 ,CULTURA | DISCOVERY ID FHD
-http://plus-tv.us:8080/live/1899/1899/5093.m3u8
-#EXTINF:-1 ,CULTURA | DISCOVERY TURBO FHD
-http://plus-tv.us:8080/live/1899/1899/5108.m3u8
-#EXTINF:-1 ,CULTURA | NATGEO HQ
-http://plus-tv.us:8080/live/1899/1899/5094.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS ( 1) FHD
-http://plus-tv.us:8080/live/1899/1899/10885.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 1 HD
-http://plus-tv.us:8080/live/1899/1899/5100.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 2 FHD
-http://plus-tv.us:8080/live/1899/1899/5099.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS 2 HD
-http://plus-tv.us:8080/live/1899/1899/3718.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS FHD
-http://plus-tv.us:8080/live/1899/1899/3719.m3u8
-#EXTINF:-1 ,DEPORTE | DIRECTV SPORTS+
-http://plus-tv.us:8080/live/1899/1899/5098.m3u8
-#EXTINF:-1 ,DEPORTE | ESPN + HD
-http://plus-tv.us:8080/live/1899/1899/11841.m3u8
-#EXTINF:-1 ,DEPORTE | ESPN 1
-http://plus-tv.us:8080/live/1899/1899/4405.m3u8
-#EXTINF:-1 ,DEPORTE | ESPN 2 FHD sur
-http://plus-tv.us:8080/live/1899/1899/3726.m3u8
-#EXTINF:-1 ,DEPORTE | ESPN 3 HD sur
-http://plus-tv.us:8080/live/1899/1899/3722.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS  SUR
-http://plus-tv.us:8080/live/1899/1899/3729.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 1 HD
-http://plus-tv.us:8080/live/1899/1899/3725.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 FHD
-http://plus-tv.us:8080/live/1899/1899/5104.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 HD ARG
-http://plus-tv.us:8080/live/1899/1899/3727.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 MX
-http://plus-tv.us:8080/live/1899/1899/9397.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 2 MX*
-http://plus-tv.us:8080/live/1899/1899/9424.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 3 FHD
-http://plus-tv.us:8080/live/1899/1899/5217.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS 4K
-http://plus-tv.us:8080/live/1899/1899/5119.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS MX HD
-http://plus-tv.us:8080/live/1899/1899/9423.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS PREMIUM
-http://plus-tv.us:8080/live/1899/1899/3730.m3u8
-#EXTINF:-1 ,DEPORTE | FOX SPORTS PREMIUM FHD
-http://plus-tv.us:8080/live/1899/1899/5103.m3u8
-#EXTINF:-1 ,DEPORTE | LIGA DE CAMPEONES MOVISTAR
-http://plus-tv.us:8080/live/1899/1899/5120.m3u8
-#EXTINF:-1 ,DEPORTE | MOVISTAR DEPORTE
-http://plus-tv.us:8080/live/1899/1899/4595.m3u8
-#EXTINF:-1 ,DEPORTE | MOVISTAR LA LIGA
-http://plus-tv.us:8080/live/1899/1899/4596.m3u8
-#EXTINF:-1 ,DEPORTE | NBA
-http://plus-tv.us:8080/live/1899/1899/4597.m3u8
-#EXTINF:-1 ,DEPORTE | TIGO ESPORTS  CR
-http://plus-tv.us:8080/live/1899/1899/10986.m3u8
-#EXTINF:-1 ,DEPORTE | TIGO SPORTS PARAGUAY
-http://plus-tv.us:8080/live/1899/1899/10984.m3u8
-#EXTINF:-1 ,DEPORTE | TIGO SPORTS 2 BOLIVIA
-http://plus-tv.us:8080/live/1899/1899/10985.m3u8
-#EXTINF:-1 ,DEPORTE | TOROS
-http://plus-tv.us:8080/live/1899/1899/4598.m3u8
-#EXTINF:-1 ,DEPORTE | TUDN MX
-http://plus-tv.us:8080/live/1899/1899/4555.m3u8
-#EXTINF:-1 ,DEPORTE | TYC SPORTS HD
-http://plus-tv.us:8080/live/1899/1899/3735.m3u8
-#EXTINF:-1 ,DEPORTE | UFC
-http://plus-tv.us:8080/live/1899/1899/3736.m3u8
-#EXTINF:-1 ,DEPORTE | UNIVISION DEPORTE
-http://plus-tv.us:8080/live/1899/1899/3737.m3u8
-#EXTINF:-1 ,DEPORTE | WIN SPORTS
-http://plus-tv.us:8080/live/1899/1899/3738.m3u8
-#EXTINF:-1 ,DEPORTE | WIN SPORTS PLUS FHD
-http://plus-tv.us:8080/live/1899/1899/10091.m3u8
-#EXTINF:-1 ,DEPORTE | WINSPORTS PLUS
-http://plus-tv.us:8080/live/1899/1899/10089.m3u8
-#EXTINF:-1 ,DEPORTE | WWWE HD
-http://plus-tv.us:8080/live/1899/1899/11672.m3u8
-#EXTINF:-1 ,DEPORTES | GOL TV
-http://plus-tv.us:8080/live/1899/1899/11804.m3u8
-#EXTINF:-1 ,DEPORTES | REAL MADRID TV
-http://plus-tv.us:8080/live/1899/1899/11806.m3u8
-#EXTINF:-1 ,Discovery  ID Full HD
-http://plus-tv.us:8080/live/1899/1899/11850.m3u8
-#EXTINF:-1 ,Discobery channel 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11751.m3u8
-#EXTINF:-1 ,Discobery theater 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11767.m3u8
-#EXTINF:-1 ,Discobery tlc 1080p FULL HD
-http://plus-tv.us:8080/live/1899/1899/11768.m3u8
-#EXTINF:-1 ,Discobery turbo  FULL HD
-http://plus-tv.us:8080/live/1899/1899/11769.m3u8
-#EXTINF:-1 ,Discobery world FULL HD
-http://plus-tv.us:8080/live/1899/1899/11770.m3u8
-#EXTINF:-1 ,Discobey Kids 1080p Full HD
-http://plus-tv.us:8080/live/1899/1899/11999.m3u8
-#EXTINF:-1 ,Disney Channel Full HD
-http://plus-tv.us:8080/live/1899/1899/11851.m3u8
-#EXTINF:-1 ,DISPOSITIVO |  CDF HD
-http://plus-tv.us:8080/live/1899/1899/9429.m3u8
-#EXTINF:-1 ,ECUADOR | GOL TV ECUADOR FHQ
-http://plus-tv.us:8080/live/1899/1899/10548.m3u8
-#EXTINF:-1 ,EL SALVADOR | MEGAVISION CANAL 19
-http://plus-tv.us:8080/live/1899/1899/11652.m3u8
+
 
 
 
