@@ -1,4 +1,760 @@
 #EXTM3U
+#EXTINF:-1 ,US- CNN International
+http://linux-app.tv:6204/95025267076109/65839594001441/20592
+#EXTINF:-1 ,US- HBO
+http://linux-app.tv:6204/95025267076109/65839594001441/20563
+#EXTINF:-1 ,US- HBO2
+http://linux-app.tv:6204/95025267076109/65839594001441/20559
+#EXTINF:-1 ,US- HBO East
+http://linux-app.tv:6204/95025267076109/65839594001441/20562
+#EXTINF:-1 ,US- HBO Signature
+http://linux-app.tv:6204/95025267076109/65839594001441/20560
+#EXTINF:-1 ,US- ATT SportsNet Southwest
+http://linux-app.tv:6204/95025267076109/65839594001441/33434
+#EXTINF:-1 ,US- BBC America
+http://linux-app.tv:6204/95025267076109/65839594001441/20611
+#EXTINF:-1 ,US- BeIN Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33435
+#EXTINF:-1 ,US- BeIN2 Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33436
+#EXTINF:-1 ,US- Destination America
+http://linux-app.tv:6204/95025267076109/65839594001441/20589
+#EXTINF:-1 ,US- Discovery Channel
+http://linux-app.tv:6204/95025267076109/65839594001441/20588
+#EXTINF:-1 ,US- Discovery ID
+http://linux-app.tv:6204/95025267076109/65839594001441/20587
+#EXTINF:-1 ,Us- Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 ,US- NASA TV Media
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ,US- Cinemax More HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43533
+#EXTINF:-1 ,US- Cinemaxx More Maxx HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43534
+#EXTINF:-1 ,US- Cinemax Thriller Max HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43535
+#EXTINF:-1 ,US- Cinemax FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43537
+#EXTINF:-1 ,US- Cinemax Moviemax
+http://linux-app.tv:6204/95025267076109/65839594001441/43538
+#EXTINF:-1 ,US- Cinemax East
+http://linux-app.tv:6204/95025267076109/65839594001441/43540
+#EXTINF:-1 ,US- Cinemax Action 2 FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43542
+#EXTINF:-1 ,US- Cinemax HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43543
+#EXTINF:-1 ,US- Starz Encore East HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43545
+#EXTINF:-1 ,US- Starz Encore West HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43546
+#EXTINF:-1 ,US- Starz Encore Family HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43547
+#EXTINF:-1 ,US- Starz Encore Classic HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43548
+#EXTINF:-1 ,US- Starz Encore Black HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43549
+#EXTINF:-1 ,US- Starz Encore Suspense HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43551
+#EXTINF:-1 ,US- Starz Encore Westerns HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43552
+#EXTINF:-1 ,US- Starz Edge FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43553
+#EXTINF:-1 ,US- Starz East FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43554
+#EXTINF:-1 ,US- Starz West FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43555
+#EXTINF:-1 ,US- Starz In Black HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43556
+#EXTINF:-1 ,US- Starz Kids & Family HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43558
+#EXTINF:-1 ,US- Starz Cinema East FHD
+http://linux-app.tv:6204/95025267076109/65839594001441/43559
+#EXTINF:-1 ,US- Showtime 2
+http://linux-app.tv:6204/95025267076109/65839594001441/43561
+#EXTINF:-1 ,US- Showtime East HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43562
+#EXTINF:-1 ,US- Showtime West HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43563
+#EXTINF:-1 ,US- Showtime Next HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43564
+#EXTINF:-1 ,US- Showtime Extreme HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43565
+#EXTINF:-1 ,US- Showtime Women HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43566
+#EXTINF:-1 ,US- Showtime Beyond HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43567
+#EXTINF:-1 ,US- Showtime Showcase
+http://linux-app.tv:6204/95025267076109/65839594001441/43568
+#EXTINF:-1 ,US- ShowTime Family Zone HD
+http://linux-app.tv:6204/95025267076109/65839594001441/43569
+#EXTINF:-1 ,Us- Destination America
+http://linux-app.tv:6204/95025267076109/65839594001441/20646
+#EXTINF:-1 ,Us- Animal Planet
+http://linux-app.tv:6204/95025267076109/65839594001441/20642
+#EXTINF:-1 ,Us- Bloomberg
+http://linux-app.tv:6204/95025267076109/65839594001441/20641
+#EXTINF:-1 ,Us- Discovery Science HD
+http://linux-app.tv:6204/95025267076109/65839594001441/20640
+#EXTINF:-1 ,Us- E!
+http://linux-app.tv:6204/95025267076109/65839594001441/20639
+#EXTINF:-1 ,Us- FOX Business Network
+http://linux-app.tv:6204/95025267076109/65839594001441/20638
+#EXTINF:-1 ,Us- Fox Deportes
+http://linux-app.tv:6204/95025267076109/65839594001441/20637
+#EXTINF:-1 ,Us- HGTV
+http://linux-app.tv:6204/95025267076109/65839594001441/20634
+#EXTINF:-1 ,Us- National Geographic
+http://linux-app.tv:6204/95025267076109/65839594001441/20632
+#EXTINF:-1 ,Us- NBA HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33433
+#EXTINF:-1 ,Us- MSNBC
+http://linux-app.tv:6204/95025267076109/65839594001441/20630
+#EXTINF:-1 ,Us- ACC Network
+http://linux-app.tv:6204/95025267076109/65839594001441/20629
+#EXTINF:-1 ,US- NBC Golf Channel
+http://linux-app.tv:6204/95025267076109/65839594001441/33450
+#EXTINF:-1 ,US- NBC Sports Northeast
+http://linux-app.tv:6204/95025267076109/65839594001441/33451
+#EXTINF:-1 ,US- NFL Network
+http://linux-app.tv:6204/95025267076109/65839594001441/20555
+#EXTINF:-1 ,US- PAC12 Arizona
+http://linux-app.tv:6204/95025267076109/65839594001441/20554
+#EXTINF:-1 ,US- PAC12 BayArea
+http://linux-app.tv:6204/95025267076109/65839594001441/20553
+#EXTINF:-1 ,US- PAC12 LosAngeles
+http://linux-app.tv:6204/95025267076109/65839594001441/20552
+#EXTINF:-1 ,US- PAC12 Mountain
+http://linux-app.tv:6204/95025267076109/65839594001441/20551
+#EXTINF:-1 ,US- PAC12 Network
+http://linux-app.tv:6204/95025267076109/65839594001441/20550
+#EXTINF:-1 ,US- PAC12 Oregon
+http://linux-app.tv:6204/95025267076109/65839594001441/20549
+#EXTINF:-1 ,US- PAC12 Washington
+http://linux-app.tv:6204/95025267076109/65839594001441/20548
+#EXTINF:-1 ,US- ESPN 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33437
+#EXTINF:-1 ,US- ESPN 2
+http://linux-app.tv:6204/95025267076109/65839594001441/33438
+#EXTINF:-1 ,US- ESPN Longhorn Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33440
+#EXTINF:-1 ,US- ESPN News
+http://linux-app.tv:6204/95025267076109/65839594001441/33441
+#EXTINF:-1 ,US- ESPN SEC Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33442
+#EXTINF:-1 ,US- ESPNU College Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33443
+#EXTINF:-1 ,US- Fight Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33444
+#EXTINF:-1 ,US- FNTSY Sports Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33445
+#EXTINF:-1 ,Us- Fox News
+http://linux-app.tv:6204/95025267076109/65839594001441/20622
+#EXTINF:-1 ,Us- American Heroes
+http://linux-app.tv:6204/95025267076109/65839594001441/20620
+#EXTINF:-1 ,US- Fox College Sports Atlantic
+http://linux-app.tv:6204/95025267076109/65839594001441/33446
+#EXTINF:-1 ,US- Fox College Sports Central
+http://linux-app.tv:6204/95025267076109/65839594001441/33447
+#EXTINF:-1 ,US- Fox College Sports Pacific
+http://linux-app.tv:6204/95025267076109/65839594001441/33448
+#EXTINF:-1 ,US- Fox Sports 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33449
+#EXTINF:-1 ,US- Fox Sports 2
+http://linux-app.tv:6204/95025267076109/65839594001441/20567
+#EXTINF:-1 ,US- Sports man Channel
+http://linux-app.tv:6204/95025267076109/65839594001441/33452
+#EXTINF:-1 ,US- Stadium
+http://linux-app.tv:6204/95025267076109/65839594001441/20534
+#EXTINF:-1 ,US- Stadium1
+http://linux-app.tv:6204/95025267076109/65839594001441/20533
+#EXTINF:-1 ,US- Stadium2
+http://linux-app.tv:6204/95025267076109/65839594001441/20532
+#EXTINF:-1 ,US- Stadium3
+http://linux-app.tv:6204/95025267076109/65839594001441/20531
+#EXTINF:-1 ,Ca- CRIME & INVESTIGATION HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30712
+#EXTINF:-1 ,Ca- DISCOVERY CHANNEL HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30713
+#EXTINF:-1 ,Ca- DISCOVERY SCIENCE SD
+http://linux-app.tv:6204/95025267076109/65839594001441/30714
+#EXTINF:-1 ,Ca- H2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30715
+#EXTINF:-1 ,Ca- HISTORY CHANNEL HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30716
+#EXTINF:-1 ,Ca- NAT GEO WILD HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30717
+#EXTINF:-1 ,Ca- NATIONAL GEOGRAPHIC HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30718
+#EXTINF:-1 ,Ca- SPORTSNET ONE HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33313
+#EXTINF:-1 ,Ca- SPORTSNET EAST HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33314
+#EXTINF:-1 ,Ca- SPORTSNET ONTARIO HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33316
+#EXTINF:-1 ,Ca- SPORTSNET PACIFIC | HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33319
+#EXTINF:-1 ,Ca- SPORTSNET WEST HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33321
+#EXTINF:-1 ,Ca- FIGHT NETWORK HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33322
+#EXTINF:-1 ,Ca- BEIN SPORTS HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33323
+#EXTINF:-1 ,Ca- TVA SPORTS HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33325
+#EXTINF:-1 ,Ca- TVA SPORTS 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33327
+#EXTINF:-1 ,Ca- FOX SPORTS RACING HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33329
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 267*
+http://linux-app.tv:6204/95025267076109/65839594001441/33330
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 368
+http://linux-app.tv:6204/95025267076109/65839594001441/33331
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 422*
+http://linux-app.tv:6204/95025267076109/65839594001441/33332
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 432
+http://linux-app.tv:6204/95025267076109/65839594001441/33333
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 433*
+http://linux-app.tv:6204/95025267076109/65839594001441/33334
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 436
+http://linux-app.tv:6204/95025267076109/65839594001441/33335
+#EXTINF:-1 ,CA- Discovery Velocity
+http://linux-app.tv:6204/95025267076109/65839594001441/39997
+#EXTINF:-1 ,CA- BEIN SPORTS
+http://linux-app.tv:6204/95025267076109/65839594001441/39926
+#EXTINF:-1 ,CA- Metro Media FR
+http://linux-app.tv:6204/95025267076109/65839594001441/39927
+#EXTINF:-1 ,CA- HBO 2
+http://linux-app.tv:6204/95025267076109/65839594001441/39928
+#EXTINF:-1 ,CA- HBO 1
+http://linux-app.tv:6204/95025267076109/65839594001441/39929
+#EXTINF:-1 ,CA- Historia FR
+http://linux-app.tv:6204/95025267076109/65839594001441/39932
+#EXTINF:-1 ,Uk- Sky BT Sport 1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33630
+#EXTINF:-1 ,Uk- Sky BT Sport 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33631
+#EXTINF:-1 ,Uk- Sky BT Sport 3 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33577
+#EXTINF:-1 ,Uk- Sky Eir Sport 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33557
+#EXTINF:-1 ,Uk- Sky Eir Sport 2
+http://linux-app.tv:6204/95025267076109/65839594001441/33558
+#EXTINF:-1 ,Uk- Sky Eurosport 1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33633
+#EXTINF:-1 ,Uk- Sky Eurosport 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33634
+#EXTINF:-1 ,Uk- Sky Sports News HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33312
+#EXTINF:-1 ,Uk- Sky Sport Football
+http://linux-app.tv:6204/95025267076109/65839594001441/33638
+#EXTINF:-1 ,Uk- Sky Sports Action HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33641
+#EXTINF:-1 ,UK- Sky Sports Arena HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33599
+#EXTINF:-1 ,Uk- Sky BoxNation
+http://linux-app.tv:6204/95025267076109/65839594001441/33629
+#EXTINF:-1 ,Uk- Sky Sports Cricket HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33640
+#EXTINF:-1 ,Uk- Sky Sports F1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33644
+#EXTINF:-1 ,Uk- Sky Sports Main Event HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33639
+#EXTINF:-1 ,Uk- Sky Sports Mix HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33645
+#EXTINF:-1 ,Uk- Sky Sports Premier League HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33643
+#EXTINF:-1 ,Uk- Sky Liverpool FC TV HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33635
+#EXTINF:-1 ,Uk- FOX SPORTS NEWS
+http://linux-app.tv:6204/95025267076109/65839594001441/33278
+#EXTINF:-1 ,Uk- Sky Movies 24
+http://linux-app.tv:6204/95025267076109/65839594001441/8546
+#EXTINF:-1 ,Uk- Sky Movies Action HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8545
+#EXTINF:-1 ,Uk- Sky Movies Crime
+http://linux-app.tv:6204/95025267076109/65839594001441/8543
+#EXTINF:-1 ,Uk- Sky Movies Disney
+http://linux-app.tv:6204/95025267076109/65839594001441/8542
+#EXTINF:-1 ,Uk- Sky Movies Drama HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8541
+#EXTINF:-1 ,Uk- Sky Movies Comedy HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30818
+#EXTINF:-1 ,Uk- Sky Movies Family HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8540
+#EXTINF:-1 ,Uk- Sky Movies Greats
+http://linux-app.tv:6204/95025267076109/65839594001441/8539
+#EXTINF:-1 ,Uk- Sky Movies Premiere HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8538
+#EXTINF:-1 ,Uk- Sky Movies Select HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8537
+#EXTINF:-1 ,Uk- SKY CINEMA HITS HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30875
+#EXTINF:-1 ,Uk- SKY CINEMA THRILLER HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30876
+#EXTINF:-1 ,Uk- HORROR CHANNEL
+http://linux-app.tv:6204/95025267076109/65839594001441/30877
+#EXTINF:-1 ,Uk- SONY MOVIES CHRISTMAS
+http://linux-app.tv:6204/95025267076109/65839594001441/30881
+#EXTINF:-1 ,Uk- Sky Quest
+http://linux-app.tv:6204/95025267076109/65839594001441/8529
+#EXTINF:-1 ,Uk- Sky Chelsea TV HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33632
+#EXTINF:-1 ,Uk- Sky Comedy Central
+http://linux-app.tv:6204/95025267076109/65839594001441/8569
+#EXTINF:-1 ,Uk- Sky Animal Planet HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8593
+#EXTINF:-1 ,Uk- Sky Discovery
+http://linux-app.tv:6204/95025267076109/65839594001441/8568
+#EXTINF:-1 ,Uk- Sky Discovery History
+http://linux-app.tv:6204/95025267076109/65839594001441/8567
+#EXTINF:-1 ,Uk- Sky Discovery Science
+http://linux-app.tv:6204/95025267076109/65839594001441/8566
+#EXTINF:-1 ,Uk- Sky Discovery Shed
+http://linux-app.tv:6204/95025267076109/65839594001441/8565
+#EXTINF:-1 ,Uk- Sky Discovery Turbo
+http://linux-app.tv:6204/95025267076109/65839594001441/8564
+#EXTINF:-1 ,Uk- Sky Disney HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8563
+#EXTINF:-1 ,Uk- Sky Disney Junior HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8562
+#EXTINF:-1 ,Uk- Sky Disney XD HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8561
+#EXTINF:-1 ,Uk- Sky Food Network
+http://linux-app.tv:6204/95025267076109/65839594001441/8558
+#EXTINF:-1 ,Uk- Sky History HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8555
+#EXTINF:-1 ,Uk- Sky Nat Geo Wild HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8535
+#EXTINF:-1 ,Uk- Sky National Geographic HD
+http://linux-app.tv:6204/95025267076109/65839594001441/8534
+#EXTINF:-1 ,Uk- YESTERDAY
+http://linux-app.tv:6204/95025267076109/65839594001441/30828
+#EXTINF:-1 ,Uk- SPIKE
+http://linux-app.tv:6204/95025267076109/65839594001441/30833
+#EXTINF:-1 ,Uk- DRAMA
+http://linux-app.tv:6204/95025267076109/65839594001441/30838
+#EXTINF:-1 ,Uk- DMAX
+http://linux-app.tv:6204/95025267076109/65839594001441/30839
+#EXTINF:-1 ,Uk- MSNBC
+http://linux-app.tv:6204/95025267076109/65839594001441/30848
+#EXTINF:-1 ,Uk- POP MAX
+http://linux-app.tv:6204/95025267076109/65839594001441/30871
+#EXTINF:-1 ,Uk- EDEN
+http://linux-app.tv:6204/95025267076109/65839594001441/30872
+#EXTINF:-1 ,Uk- H2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/30873
+#EXTINF:-1 ,US- HBO
+http://linux-app.tv:6204/15020208413552/24021189856304/20563
+#EXTINF:-1 ,US- HBO2
+http://linux-app.tv:6204/15020208413552/24021189856304/20559
+#EXTINF:-1 ,US- HBO East
+http://linux-app.tv:6204/15020208413552/24021189856304/20562
+#EXTINF:-1 ,US- HBO Signature
+http://linux-app.tv:6204/15020208413552/24021189856304/20560
+#EXTINF:-1 ,US- ATT SportsNet Southwest
+http://linux-app.tv:6204/15020208413552/24021189856304/33434
+#EXTINF:-1 ,US- BeIN Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33435
+#EXTINF:-1 ,US- BeIN2 Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33436
+#EXTINF:-1 ,US- Destination America
+http://linux-app.tv:6204/15020208413552/24021189856304/20589
+#EXTINF:-1 ,US- Discovery Channel
+http://linux-app.tv:6204/15020208413552/24021189856304/20588
+#EXTINF:-1 ,US- Discovery ID
+http://linux-app.tv:6204/15020208413552/24021189856304/20587
+#EXTINF:-1 ,US- Cinemax More HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43533
+#EXTINF:-1 ,US- Cinemaxx More Maxx HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43534
+#EXTINF:-1 ,US- Cinemax Thriller Max HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43535
+#EXTINF:-1 ,US- Cinemax FHD
+http://linux-app.tv:6204/15020208413552/24021189856304/43537
+#EXTINF:-1 ,US- Cinemax Moviemax
+http://linux-app.tv:6204/15020208413552/24021189856304/43538
+#EXTINF:-1 ,US- Cinemax East
+http://linux-app.tv:6204/15020208413552/24021189856304/43540
+#EXTINF:-1 ,US- Cinemax Action 2 FHD
+http://linux-app.tv:6204/15020208413552/24021189856304/43542
+#EXTINF:-1 ,US- Cinemax HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43543
+#EXTINF:-1 ,US- Starz Encore East HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43545
+#EXTINF:-1 ,US- Starz Encore West HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43546
+#EXTINF:-1 ,US- Starz Encore Family HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43547
+#EXTINF:-1 ,US- Starz Encore Classic HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43548
+#EXTINF:-1 ,US- Starz Encore Black HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43549
+#EXTINF:-1 ,US- Starz Encore Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43550
+#EXTINF:-1 ,US- Starz Encore Suspense HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43551
+#EXTINF:-1 ,US- Starz Encore Westerns HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43552
+#EXTINF:-1 ,US- Starz Edge FHD
+http://linux-app.tv:6204/15020208413552/24021189856304/43553
+#EXTINF:-1 ,US- Starz East FHD
+http://linux-app.tv:6204/15020208413552/24021189856304/43554
+#EXTINF:-1 ,US- Starz In Black HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43556
+#EXTINF:-1 ,US- Starz Kids & Family HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43558
+#EXTINF:-1 ,US- Starz Cinema East FHD
+http://linux-app.tv:6204/15020208413552/24021189856304/43559
+#EXTINF:-1 ,US- Showtime 2
+http://linux-app.tv:6204/15020208413552/24021189856304/43561
+#EXTINF:-1 ,US- Showtime East HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43562
+#EXTINF:-1 ,US- Showtime West HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43563
+#EXTINF:-1 ,US- Showtime Next HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43564
+#EXTINF:-1 ,US- Showtime Extreme HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43565
+#EXTINF:-1 ,US- Showtime Women HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43566
+#EXTINF:-1 ,US- Showtime Beyond HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43567
+#EXTINF:-1 ,US- Showtime Showcase
+http://linux-app.tv:6204/15020208413552/24021189856304/43568
+#EXTINF:-1 ,US- ShowTime Family Zone HD
+http://linux-app.tv:6204/15020208413552/24021189856304/43569
+#EXTINF:-1 ,US- Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 ,US- Azteca America (WPSJ)
+https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 ,US- Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 ,Us- Destination America
+http://linux-app.tv:6204/15020208413552/24021189856304/20646
+#EXTINF:-1 ,Us- Animal Planet
+http://linux-app.tv:6204/15020208413552/24021189856304/20642
+#EXTINF:-1 ,Us- Discovery Science HD
+http://linux-app.tv:6204/15020208413552/24021189856304/20640
+#EXTINF:-1 ,Us- FOX Business Network
+http://linux-app.tv:6204/15020208413552/24021189856304/20638
+#EXTINF:-1 ,Us- Fox Deportes
+http://linux-app.tv:6204/15020208413552/24021189856304/20637
+#EXTINF:-1 ,Us- National Geographic
+http://linux-app.tv:6204/15020208413552/24021189856304/20632
+#EXTINF:-1 ,Us- NBA HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33433
+#EXTINF:-1 ,US- NBC Sports Northeast
+http://linux-app.tv:6204/15020208413552/24021189856304/33451
+#EXTINF:-1 ,US- NFL Network
+http://linux-app.tv:6204/15020208413552/24021189856304/20555
+#EXTINF:-1 ,US- ESPN 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33437
+#EXTINF:-1 ,US- ESPN 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33438
+#EXTINF:-1 ,US- ESPN Longhorn Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33440
+#EXTINF:-1 ,US- ESPN News
+http://linux-app.tv:6204/15020208413552/24021189856304/33441
+#EXTINF:-1 ,US- ESPN SEC Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33442
+#EXTINF:-1 ,US- ESPNU College Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33443
+#EXTINF:-1 ,US- Fight Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33444
+#EXTINF:-1 ,US- FNTSY Sports Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33445
+#EXTINF:-1 ,US- Fox College Sports Atlantic
+http://linux-app.tv:6204/15020208413552/24021189856304/33446
+#EXTINF:-1 ,US- Fox College Sports Central
+http://linux-app.tv:6204/15020208413552/24021189856304/33447
+#EXTINF:-1 ,US- Fox College Sports Pacific
+http://linux-app.tv:6204/15020208413552/24021189856304/33448
+#EXTINF:-1 ,US- Fox Sports 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33449
+#EXTINF:-1 ,US- Fox Sports 2
+http://linux-app.tv:6204/15020208413552/24021189856304/20567
+#EXTINF:-1 ,US- Sports man Channel
+http://linux-app.tv:6204/15020208413552/24021189856304/33452
+#EXTINF:-1 ,Ca- SPIKE TV / PARAMOUNT SD
+http://linux-app.tv:6204/15020208413552/24021189856304/30659
+#EXTINF:-1 ,Ca- ANIMAL PLANET HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30711
+#EXTINF:-1 ,Ca- CRIME & INVESTIGATION HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30712
+#EXTINF:-1 ,Ca- DISCOVERY CHANNEL HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30713
+#EXTINF:-1 ,Ca- DISCOVERY SCIENCE SD
+http://linux-app.tv:6204/15020208413552/24021189856304/30714
+#EXTINF:-1 ,Ca- H2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30715
+#EXTINF:-1 ,Ca- HISTORY CHANNEL HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30716
+#EXTINF:-1 ,Ca- NAT GEO WILD HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30717
+#EXTINF:-1 ,Ca- NATIONAL GEOGRAPHIC HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30718
+#EXTINF:-1 ,Ca- SPORTSNET ONE HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33313
+#EXTINF:-1 ,Ca- SPORTSNET EAST HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33314
+#EXTINF:-1 ,Ca- SPORTSNET ONTARIO HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33316
+#EXTINF:-1 ,Ca- SPORTSNET PACIFIC | HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33319
+#EXTINF:-1 ,Ca- FIGHT NETWORK HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33322
+#EXTINF:-1 ,Ca- BEIN SPORTS HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33323
+#EXTINF:-1 ,Ca- TVA SPORTS HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33325
+#EXTINF:-1 ,Ca- TVA SPORTS 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33327
+#EXTINF:-1 ,Ca- FOX SPORTS RACING HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33329
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 267*
+http://linux-app.tv:6204/15020208413552/24021189856304/33330
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 368
+http://linux-app.tv:6204/15020208413552/24021189856304/33331
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 422*
+http://linux-app.tv:6204/15020208413552/24021189856304/33332
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 433*
+http://linux-app.tv:6204/15020208413552/24021189856304/33334
+#EXTINF:-1 ,Ca- SUPER SPORTS CH 436
+http://linux-app.tv:6204/15020208413552/24021189856304/33335
+#EXTINF:-1 ,CA- CNN
+http://linux-app.tv:6204/15020208413552/24021189856304/39956
+#EXTINF:-1 ,CA- CNN INTERNATIONAL
+http://linux-app.tv:6204/15020208413552/24021189856304/39957
+#EXTINF:-1 ,CA- H2
+http://linux-app.tv:6204/15020208413552/24021189856304/39972
+#EXTINF:-1 ,CA- Discovery Velocity
+http://linux-app.tv:6204/15020208413552/24021189856304/39997
+#EXTINF:-1 ,CA- BEIN SPORTS
+http://linux-app.tv:6204/15020208413552/24021189856304/39926
+#EXTINF:-1 ,CA- Metro Media FR
+http://linux-app.tv:6204/15020208413552/24021189856304/39927
+#EXTINF:-1 ,CA- HBO 2
+http://linux-app.tv:6204/15020208413552/24021189856304/39928
+#EXTINF:-1 ,CA- HBO 1
+http://linux-app.tv:6204/15020208413552/24021189856304/39929
+#EXTINF:-1 ,CA- Historia FR
+http://linux-app.tv:6204/15020208413552/24021189856304/39932
+#EXTINF:-1 ,Uk- Sky BT Sport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33630
+#EXTINF:-1 ,Uk- Sky BT Sport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33631
+#EXTINF:-1 ,Uk- Sky BT Sport 3 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33577
+#EXTINF:-1 ,Uk- Sky Eir Sport 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33557
+#EXTINF:-1 ,Uk- Sky Eir Sport 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33558
+#EXTINF:-1 ,Uk- Sky Eurosport 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33633
+#EXTINF:-1 ,Uk- Sky Eurosport 2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33634
+#EXTINF:-1 ,Uk- Sky Sports News HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33312
+#EXTINF:-1 ,Uk- Sky Sport Football
+http://linux-app.tv:6204/15020208413552/24021189856304/33638
+#EXTINF:-1 ,Uk- Sky Sports Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33641
+#EXTINF:-1 ,UK- Sky Sports Arena HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33599
+#EXTINF:-1 ,Uk- Sky BoxNation
+http://linux-app.tv:6204/15020208413552/24021189856304/33629
+#EXTINF:-1 ,Uk- Sky Sports Cricket HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33640
+#EXTINF:-1 ,Uk- Sky Sports F1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33644
+#EXTINF:-1 ,Uk- Sky Sports Golf HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33642
+#EXTINF:-1 ,Uk- Sky Sports Main Event HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33639
+#EXTINF:-1 ,Uk- Sky Sports Mix HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33645
+#EXTINF:-1 ,Uk- Sky Sports Premier League HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33643
+#EXTINF:-1 ,Uk- FOX SPORTS NEWS
+http://linux-app.tv:6204/15020208413552/24021189856304/33278
+#EXTINF:-1 ,Uk- Sky More 4 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8547
+#EXTINF:-1 ,Uk- Sky Movies 24
+http://linux-app.tv:6204/15020208413552/24021189856304/8546
+#EXTINF:-1 ,Uk- Sky Movies Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8545
+#EXTINF:-1 ,Uk- Sky Movies Crime
+http://linux-app.tv:6204/15020208413552/24021189856304/8543
+#EXTINF:-1 ,Uk- Sky Movies Disney
+http://linux-app.tv:6204/15020208413552/24021189856304/8542
+#EXTINF:-1 ,Uk- Sky Movies Drama HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8541
+#EXTINF:-1 ,Uk- Sky Movies Comedy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30818
+#EXTINF:-1 ,Uk- Sky Movies Family HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8540
+#EXTINF:-1 ,Uk- Sky Movies Greats
+http://linux-app.tv:6204/15020208413552/24021189856304/8539
+#EXTINF:-1 ,Uk- Sky Movies Premiere HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8538
+#EXTINF:-1 ,Uk- Sky Movies Select HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8537
+#EXTINF:-1 ,Uk- SKY CINEMA HITS HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30875
+#EXTINF:-1 ,Uk- SKY CINEMA THRILLER HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30876
+#EXTINF:-1 ,Uk- Sky Chelsea TV HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33632
+#EXTINF:-1 ,Uk- Sky Animal Planet HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8593
+#EXTINF:-1 ,Uk- Sky Discovery
+http://linux-app.tv:6204/15020208413552/24021189856304/8568
+#EXTINF:-1 ,Uk- Sky Discovery History
+http://linux-app.tv:6204/15020208413552/24021189856304/8567
+#EXTINF:-1 ,Uk- Sky Discovery Science
+http://linux-app.tv:6204/15020208413552/24021189856304/8566
+#EXTINF:-1 ,Uk- Sky Discovery Shed
+http://linux-app.tv:6204/15020208413552/24021189856304/8565
+#EXTINF:-1 ,Uk- Sky Discovery Turbo
+http://linux-app.tv:6204/15020208413552/24021189856304/8564
+#EXTINF:-1 ,Uk- Sky History HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8555
+#EXTINF:-1 ,Uk- Sky Nat Geo Wild HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8535
+#EXTINF:-1 ,Uk- Sky National Geographic HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8534
+#EXTINF:-1 ,Uk- YESTERDAY
+http://linux-app.tv:6204/15020208413552/24021189856304/30828
+#EXTINF:-1 ,Uk- SPIKE
+http://linux-app.tv:6204/15020208413552/24021189856304/30833
+#EXTINF:-1 ,Uk- DRAMA
+http://linux-app.tv:6204/15020208413552/24021189856304/30838
+#EXTINF:-1 ,Uk- DMAX
+http://linux-app.tv:6204/15020208413552/24021189856304/30839
+#EXTINF:-1 ,Uk- EDEN
+http://linux-app.tv:6204/15020208413552/24021189856304/30872
+#EXTINF:-1 ,Uk- H2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/30873
+#EXTINF:-1 ,True Movies 1
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17775.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17791.m3u8
+#EXTINF:-1 ,SKY SPORTS ACTION
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17793.m3u8
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17795.m3u8
+#EXTINF:-1 ,PREMIERE SPORT HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17804.m3u8
+#EXTINF:-1 ,Eir Sports1
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17826.m3u8
+#EXTINF:-1 ,BT Sports 2 SD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17839.m3u8
+#EXTINF:-1 ,BT Sport Extra 4
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17843.m3u8
+#EXTINF:-1 ,BT Sport Extra 2
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17845.m3u8
+#EXTINF:-1 ,BT Sport Extra 1
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17846.m3u8
+#EXTINF:-1 ,BT Sport 3 SD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17847.m3u8
+#EXTINF:-1 ,Sky Sports Mix
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17858.m3u8
+#EXTINF:-1 ,Premier Sports HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17859.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17872.m3u8
+#EXTINF:-1 ,ITV ENCORE
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17873.m3u8
+#EXTINF:-1 ,BT Sport 3 HD 1080p
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17888.m3u8
+#EXTINF:-1 ,Sky Sports F1 HD 1080p
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17893.m3u8
+#EXTINF:-1 ,Sky Cinema Action HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17901.m3u8
+#EXTINF:-1 ,Sky Cinema Crime & Thriller HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17903.m3u8
+#EXTINF:-1 ,Sky Cinema Family HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17906.m3u8
+#EXTINF:-1 ,Sky Cinema Select HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17909.m3u8
+#EXTINF:-1 ,National Geographic
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17915.m3u8
+#EXTINF:-1 ,NATGEO WILD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17917.m3u8
+#EXTINF:-1 ,Yesterday
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17919.m3u8
+#EXTINF:-1 ,Sky Sport 1 SD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17921.m3u8
+#EXTINF:-1 ,Nat Geo Graphic
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17926.m3u8
+#EXTINF:-1 ,CNN
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17936.m3u8
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17942.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17944.m3u8
+#EXTINF:-1 ,SKY SPORTS GOLF HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17945.m3u8
+#EXTINF:-1 ,SKY SPORTS ACTION HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17946.m3u8
+#EXTINF:-1 ,Sky Movies Premiere
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17950.m3u8
+#EXTINF:-1 ,Sky Movies Greats
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17951.m3u8
+#EXTINF:-1 ,Sky Movies Comedy
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17954.m3u8
+#EXTINF:-1 ,DMax
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17969.m3u8
+#EXTINF:-1 ,Discovery Science
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17975.m3u8
+#EXTINF:-1 ,Discovery History
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17976.m3u8
+#EXTINF:-1 ,CBS Action
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17980.m3u8
+#EXTINF:-1 ,BT Sport ESPN
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17982.m3u8
+#EXTINF:-1 ,BT Sport 1 HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17984.m3u8
+#EXTINF:-1 ,Boxnation
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17985.m3u8
+#EXTINF:-1 ,SPIKE HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18395.m3u8
+#EXTINF:-1 ,National Geographic
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18397.m3u8
+#EXTINF:-1 ,DIY Network
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18404.m3u8
+#EXTINF:-1 ,Cinemax East
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18406.m3u8
+#EXTINF:-1 ,Cinemax ActionMax East
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18407.m3u8
+#EXTINF:-1 ,Cinemax 5 StarMax
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18408.m3u8
+#EXTINF:-1 ,Bein Sports USA HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18409.m3u8
+#EXTINF:-1 ,Cinemax MoreMax
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18437.m3u8
+#EXTINF:-1 ,HBO HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18503.m3u8
+#EXTINF:-1 ,HBO Comedy
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18505.m3u8
+#EXTINF:-1 ,FXX
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18506.m3u8
+#EXTINF:-1 ,Fight HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18507.m3u8
+#EXTINF:-1 ,DW
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18508.m3u8
+#EXTINF:-1 ,DISCOVERY HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18509.m3u8
+#EXTINF:-1 ,NFL Network 1080i
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18515.m3u8
+#EXTINF:-1 ,NFL REDZONE SD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18516.m3u8
+#EXTINF:-1 ,sportsnet 360 hd(1)
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21095.m3u8
+#EXTINF:-1 ,Sportnet Ontario HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21096.m3u8
+#EXTINF:-1 ,Sportnet Pacific HD
+http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21101.m3u8
 #EXTINF:-1 ,US:HBO
 http://m-iptv.net:6204/95025267076109/65839594001441/20563
 #EXTINF:-1 ,US:HBO2
