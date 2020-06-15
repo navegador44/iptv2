@@ -1,835 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,US- CNN International
-http://linux-app.tv:6204/95025267076109/65839594001441/20592
-#EXTINF:-1 ,US- HBO
-http://linux-app.tv:6204/95025267076109/65839594001441/20563
-#EXTINF:-1 ,US- HBO2
-http://linux-app.tv:6204/95025267076109/65839594001441/20559
-#EXTINF:-1 ,US- HBO East
-http://linux-app.tv:6204/95025267076109/65839594001441/20562
-#EXTINF:-1 ,US- HBO Signature
-http://linux-app.tv:6204/95025267076109/65839594001441/20560
-#EXTINF:-1 ,US- ATT SportsNet Southwest
-http://linux-app.tv:6204/95025267076109/65839594001441/33434
-#EXTINF:-1 ,US- BBC America
-http://linux-app.tv:6204/95025267076109/65839594001441/20611
-#EXTINF:-1 ,US- BeIN Sports
-http://linux-app.tv:6204/95025267076109/65839594001441/33435
-#EXTINF:-1 ,US- BeIN2 Sports
-http://linux-app.tv:6204/95025267076109/65839594001441/33436
-#EXTINF:-1 ,US- Destination America
-http://linux-app.tv:6204/95025267076109/65839594001441/20589
-#EXTINF:-1 ,US- Discovery Channel
-http://linux-app.tv:6204/95025267076109/65839594001441/20588
-#EXTINF:-1 ,US- Discovery ID
-http://linux-app.tv:6204/95025267076109/65839594001441/20587
 #EXTINF:-1 ,Us- Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 ,US- NASA TV Media
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 ,US- Cinemax More HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43533
-#EXTINF:-1 ,US- Cinemaxx More Maxx HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43534
-#EXTINF:-1 ,US- Cinemax Thriller Max HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43535
-#EXTINF:-1 ,US- Cinemax FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43537
-#EXTINF:-1 ,US- Cinemax Moviemax
-http://linux-app.tv:6204/95025267076109/65839594001441/43538
-#EXTINF:-1 ,US- Cinemax East
-http://linux-app.tv:6204/95025267076109/65839594001441/43540
-#EXTINF:-1 ,US- Cinemax Action 2 FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US- Cinemax HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43543
-#EXTINF:-1 ,US- Starz Encore East HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43545
-#EXTINF:-1 ,US- Starz Encore West HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43546
-#EXTINF:-1 ,US- Starz Encore Family HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43547
-#EXTINF:-1 ,US- Starz Encore Classic HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43548
-#EXTINF:-1 ,US- Starz Encore Black HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43549
-#EXTINF:-1 ,US- Starz Encore Suspense HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43551
-#EXTINF:-1 ,US- Starz Encore Westerns HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43552
-#EXTINF:-1 ,US- Starz Edge FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43553
-#EXTINF:-1 ,US- Starz East FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43554
-#EXTINF:-1 ,US- Starz West FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43555
-#EXTINF:-1 ,US- Starz In Black HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US- Starz Kids & Family HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43558
-#EXTINF:-1 ,US- Starz Cinema East FHD
-http://linux-app.tv:6204/95025267076109/65839594001441/43559
-#EXTINF:-1 ,US- Showtime 2
-http://linux-app.tv:6204/95025267076109/65839594001441/43561
-#EXTINF:-1 ,US- Showtime East HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43562
-#EXTINF:-1 ,US- Showtime West HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43563
-#EXTINF:-1 ,US- Showtime Next HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43564
-#EXTINF:-1 ,US- Showtime Extreme HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43565
-#EXTINF:-1 ,US- Showtime Women HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43566
-#EXTINF:-1 ,US- Showtime Beyond HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43567
-#EXTINF:-1 ,US- Showtime Showcase
-http://linux-app.tv:6204/95025267076109/65839594001441/43568
-#EXTINF:-1 ,US- ShowTime Family Zone HD
-http://linux-app.tv:6204/95025267076109/65839594001441/43569
-#EXTINF:-1 ,Us- Destination America
-http://linux-app.tv:6204/95025267076109/65839594001441/20646
-#EXTINF:-1 ,Us- Animal Planet
-http://linux-app.tv:6204/95025267076109/65839594001441/20642
-#EXTINF:-1 ,Us- Bloomberg
-http://linux-app.tv:6204/95025267076109/65839594001441/20641
-#EXTINF:-1 ,Us- Discovery Science HD
-http://linux-app.tv:6204/95025267076109/65839594001441/20640
-#EXTINF:-1 ,Us- E!
-http://linux-app.tv:6204/95025267076109/65839594001441/20639
-#EXTINF:-1 ,Us- FOX Business Network
-http://linux-app.tv:6204/95025267076109/65839594001441/20638
-#EXTINF:-1 ,Us- Fox Deportes
-http://linux-app.tv:6204/95025267076109/65839594001441/20637
-#EXTINF:-1 ,Us- HGTV
-http://linux-app.tv:6204/95025267076109/65839594001441/20634
-#EXTINF:-1 ,Us- National Geographic
-http://linux-app.tv:6204/95025267076109/65839594001441/20632
-#EXTINF:-1 ,Us- NBA HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33433
-#EXTINF:-1 ,Us- MSNBC
-http://linux-app.tv:6204/95025267076109/65839594001441/20630
-#EXTINF:-1 ,Us- ACC Network
-http://linux-app.tv:6204/95025267076109/65839594001441/20629
-#EXTINF:-1 ,US- NBC Golf Channel
-http://linux-app.tv:6204/95025267076109/65839594001441/33450
-#EXTINF:-1 ,US- NBC Sports Northeast
-http://linux-app.tv:6204/95025267076109/65839594001441/33451
-#EXTINF:-1 ,US- NFL Network
-http://linux-app.tv:6204/95025267076109/65839594001441/20555
-#EXTINF:-1 ,US- PAC12 Arizona
-http://linux-app.tv:6204/95025267076109/65839594001441/20554
-#EXTINF:-1 ,US- PAC12 BayArea
-http://linux-app.tv:6204/95025267076109/65839594001441/20553
-#EXTINF:-1 ,US- PAC12 LosAngeles
-http://linux-app.tv:6204/95025267076109/65839594001441/20552
-#EXTINF:-1 ,US- PAC12 Mountain
-http://linux-app.tv:6204/95025267076109/65839594001441/20551
-#EXTINF:-1 ,US- PAC12 Network
-http://linux-app.tv:6204/95025267076109/65839594001441/20550
-#EXTINF:-1 ,US- PAC12 Oregon
-http://linux-app.tv:6204/95025267076109/65839594001441/20549
-#EXTINF:-1 ,US- PAC12 Washington
-http://linux-app.tv:6204/95025267076109/65839594001441/20548
-#EXTINF:-1 ,US- ESPN 1
-http://linux-app.tv:6204/95025267076109/65839594001441/33437
-#EXTINF:-1 ,US- ESPN 2
-http://linux-app.tv:6204/95025267076109/65839594001441/33438
-#EXTINF:-1 ,US- ESPN Longhorn Network
-http://linux-app.tv:6204/95025267076109/65839594001441/33440
-#EXTINF:-1 ,US- ESPN News
-http://linux-app.tv:6204/95025267076109/65839594001441/33441
-#EXTINF:-1 ,US- ESPN SEC Network
-http://linux-app.tv:6204/95025267076109/65839594001441/33442
-#EXTINF:-1 ,US- ESPNU College Sports
-http://linux-app.tv:6204/95025267076109/65839594001441/33443
-#EXTINF:-1 ,US- Fight Network
-http://linux-app.tv:6204/95025267076109/65839594001441/33444
-#EXTINF:-1 ,US- FNTSY Sports Network
-http://linux-app.tv:6204/95025267076109/65839594001441/33445
-#EXTINF:-1 ,Us- Fox News
-http://linux-app.tv:6204/95025267076109/65839594001441/20622
-#EXTINF:-1 ,Us- American Heroes
-http://linux-app.tv:6204/95025267076109/65839594001441/20620
-#EXTINF:-1 ,US- Fox College Sports Atlantic
-http://linux-app.tv:6204/95025267076109/65839594001441/33446
-#EXTINF:-1 ,US- Fox College Sports Central
-http://linux-app.tv:6204/95025267076109/65839594001441/33447
-#EXTINF:-1 ,US- Fox College Sports Pacific
-http://linux-app.tv:6204/95025267076109/65839594001441/33448
-#EXTINF:-1 ,US- Fox Sports 1
-http://linux-app.tv:6204/95025267076109/65839594001441/33449
-#EXTINF:-1 ,US- Fox Sports 2
-http://linux-app.tv:6204/95025267076109/65839594001441/20567
-#EXTINF:-1 ,US- Sports man Channel
-http://linux-app.tv:6204/95025267076109/65839594001441/33452
-#EXTINF:-1 ,US- Stadium
-http://linux-app.tv:6204/95025267076109/65839594001441/20534
-#EXTINF:-1 ,US- Stadium1
-http://linux-app.tv:6204/95025267076109/65839594001441/20533
-#EXTINF:-1 ,US- Stadium2
-http://linux-app.tv:6204/95025267076109/65839594001441/20532
-#EXTINF:-1 ,US- Stadium3
-http://linux-app.tv:6204/95025267076109/65839594001441/20531
-#EXTINF:-1 ,Ca- CRIME & INVESTIGATION HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30712
-#EXTINF:-1 ,Ca- DISCOVERY CHANNEL HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30713
-#EXTINF:-1 ,Ca- DISCOVERY SCIENCE SD
-http://linux-app.tv:6204/95025267076109/65839594001441/30714
-#EXTINF:-1 ,Ca- H2 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30715
-#EXTINF:-1 ,Ca- HISTORY CHANNEL HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30716
-#EXTINF:-1 ,Ca- NAT GEO WILD HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30717
-#EXTINF:-1 ,Ca- NATIONAL GEOGRAPHIC HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30718
-#EXTINF:-1 ,Ca- SPORTSNET ONE HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33313
-#EXTINF:-1 ,Ca- SPORTSNET EAST HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33314
-#EXTINF:-1 ,Ca- SPORTSNET ONTARIO HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33316
-#EXTINF:-1 ,Ca- SPORTSNET PACIFIC | HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33319
-#EXTINF:-1 ,Ca- SPORTSNET WEST HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33321
-#EXTINF:-1 ,Ca- FIGHT NETWORK HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33322
-#EXTINF:-1 ,Ca- BEIN SPORTS HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33323
-#EXTINF:-1 ,Ca- TVA SPORTS HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33325
-#EXTINF:-1 ,Ca- TVA SPORTS 2 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33327
-#EXTINF:-1 ,Ca- FOX SPORTS RACING HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33329
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 267*
-http://linux-app.tv:6204/95025267076109/65839594001441/33330
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 368
-http://linux-app.tv:6204/95025267076109/65839594001441/33331
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 422*
-http://linux-app.tv:6204/95025267076109/65839594001441/33332
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 432
-http://linux-app.tv:6204/95025267076109/65839594001441/33333
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 433*
-http://linux-app.tv:6204/95025267076109/65839594001441/33334
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 436
-http://linux-app.tv:6204/95025267076109/65839594001441/33335
-#EXTINF:-1 ,CA- Discovery Velocity
-http://linux-app.tv:6204/95025267076109/65839594001441/39997
-#EXTINF:-1 ,CA- BEIN SPORTS
-http://linux-app.tv:6204/95025267076109/65839594001441/39926
-#EXTINF:-1 ,CA- Metro Media FR
-http://linux-app.tv:6204/95025267076109/65839594001441/39927
-#EXTINF:-1 ,CA- HBO 2
-http://linux-app.tv:6204/95025267076109/65839594001441/39928
-#EXTINF:-1 ,CA- HBO 1
-http://linux-app.tv:6204/95025267076109/65839594001441/39929
-#EXTINF:-1 ,CA- Historia FR
-http://linux-app.tv:6204/95025267076109/65839594001441/39932
-#EXTINF:-1 ,Uk- Sky BT Sport 1 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33630
-#EXTINF:-1 ,Uk- Sky BT Sport 2 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33631
-#EXTINF:-1 ,Uk- Sky BT Sport 3 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33577
-#EXTINF:-1 ,Uk- Sky Eir Sport 1
-http://linux-app.tv:6204/95025267076109/65839594001441/33557
-#EXTINF:-1 ,Uk- Sky Eir Sport 2
-http://linux-app.tv:6204/95025267076109/65839594001441/33558
-#EXTINF:-1 ,Uk- Sky Eurosport 1 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33633
-#EXTINF:-1 ,Uk- Sky Eurosport 2 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33634
-#EXTINF:-1 ,Uk- Sky Sports News HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33312
-#EXTINF:-1 ,Uk- Sky Sport Football
-http://linux-app.tv:6204/95025267076109/65839594001441/33638
-#EXTINF:-1 ,Uk- Sky Sports Action HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33641
-#EXTINF:-1 ,UK- Sky Sports Arena HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33599
-#EXTINF:-1 ,Uk- Sky BoxNation
-http://linux-app.tv:6204/95025267076109/65839594001441/33629
-#EXTINF:-1 ,Uk- Sky Sports Cricket HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33640
-#EXTINF:-1 ,Uk- Sky Sports F1 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33644
-#EXTINF:-1 ,Uk- Sky Sports Main Event HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33639
-#EXTINF:-1 ,Uk- Sky Sports Mix HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33645
-#EXTINF:-1 ,Uk- Sky Sports Premier League HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33643
-#EXTINF:-1 ,Uk- Sky Liverpool FC TV HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33635
-#EXTINF:-1 ,Uk- FOX SPORTS NEWS
-http://linux-app.tv:6204/95025267076109/65839594001441/33278
-#EXTINF:-1 ,Uk- Sky Movies 24
-http://linux-app.tv:6204/95025267076109/65839594001441/8546
-#EXTINF:-1 ,Uk- Sky Movies Action HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8545
-#EXTINF:-1 ,Uk- Sky Movies Crime
-http://linux-app.tv:6204/95025267076109/65839594001441/8543
-#EXTINF:-1 ,Uk- Sky Movies Disney
-http://linux-app.tv:6204/95025267076109/65839594001441/8542
-#EXTINF:-1 ,Uk- Sky Movies Drama HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8541
-#EXTINF:-1 ,Uk- Sky Movies Comedy HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30818
-#EXTINF:-1 ,Uk- Sky Movies Family HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8540
-#EXTINF:-1 ,Uk- Sky Movies Greats
-http://linux-app.tv:6204/95025267076109/65839594001441/8539
-#EXTINF:-1 ,Uk- Sky Movies Premiere HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8538
-#EXTINF:-1 ,Uk- Sky Movies Select HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8537
-#EXTINF:-1 ,Uk- SKY CINEMA HITS HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30875
-#EXTINF:-1 ,Uk- SKY CINEMA THRILLER HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30876
-#EXTINF:-1 ,Uk- HORROR CHANNEL
-http://linux-app.tv:6204/95025267076109/65839594001441/30877
-#EXTINF:-1 ,Uk- SONY MOVIES CHRISTMAS
-http://linux-app.tv:6204/95025267076109/65839594001441/30881
-#EXTINF:-1 ,Uk- Sky Quest
-http://linux-app.tv:6204/95025267076109/65839594001441/8529
-#EXTINF:-1 ,Uk- Sky Chelsea TV HD
-http://linux-app.tv:6204/95025267076109/65839594001441/33632
-#EXTINF:-1 ,Uk- Sky Comedy Central
-http://linux-app.tv:6204/95025267076109/65839594001441/8569
-#EXTINF:-1 ,Uk- Sky Animal Planet HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8593
-#EXTINF:-1 ,Uk- Sky Discovery
-http://linux-app.tv:6204/95025267076109/65839594001441/8568
-#EXTINF:-1 ,Uk- Sky Discovery History
-http://linux-app.tv:6204/95025267076109/65839594001441/8567
-#EXTINF:-1 ,Uk- Sky Discovery Science
-http://linux-app.tv:6204/95025267076109/65839594001441/8566
-#EXTINF:-1 ,Uk- Sky Discovery Shed
-http://linux-app.tv:6204/95025267076109/65839594001441/8565
-#EXTINF:-1 ,Uk- Sky Discovery Turbo
-http://linux-app.tv:6204/95025267076109/65839594001441/8564
-#EXTINF:-1 ,Uk- Sky Disney HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8563
-#EXTINF:-1 ,Uk- Sky Disney Junior HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8562
-#EXTINF:-1 ,Uk- Sky Disney XD HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8561
-#EXTINF:-1 ,Uk- Sky Food Network
-http://linux-app.tv:6204/95025267076109/65839594001441/8558
-#EXTINF:-1 ,Uk- Sky History HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8555
-#EXTINF:-1 ,Uk- Sky Nat Geo Wild HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8535
-#EXTINF:-1 ,Uk- Sky National Geographic HD
-http://linux-app.tv:6204/95025267076109/65839594001441/8534
-#EXTINF:-1 ,Uk- YESTERDAY
-http://linux-app.tv:6204/95025267076109/65839594001441/30828
-#EXTINF:-1 ,Uk- SPIKE
-http://linux-app.tv:6204/95025267076109/65839594001441/30833
-#EXTINF:-1 ,Uk- DRAMA
-http://linux-app.tv:6204/95025267076109/65839594001441/30838
-#EXTINF:-1 ,Uk- DMAX
-http://linux-app.tv:6204/95025267076109/65839594001441/30839
-#EXTINF:-1 ,Uk- MSNBC
-http://linux-app.tv:6204/95025267076109/65839594001441/30848
-#EXTINF:-1 ,Uk- POP MAX
-http://linux-app.tv:6204/95025267076109/65839594001441/30871
-#EXTINF:-1 ,Uk- EDEN
-http://linux-app.tv:6204/95025267076109/65839594001441/30872
-#EXTINF:-1 ,Uk- H2 HD
-http://linux-app.tv:6204/95025267076109/65839594001441/30873
-#EXTINF:-1 ,US- HBO
-http://linux-app.tv:6204/15020208413552/24021189856304/20563
-#EXTINF:-1 ,US- HBO2
-http://linux-app.tv:6204/15020208413552/24021189856304/20559
-#EXTINF:-1 ,US- HBO East
-http://linux-app.tv:6204/15020208413552/24021189856304/20562
-#EXTINF:-1 ,US- HBO Signature
-http://linux-app.tv:6204/15020208413552/24021189856304/20560
-#EXTINF:-1 ,US- ATT SportsNet Southwest
-http://linux-app.tv:6204/15020208413552/24021189856304/33434
-#EXTINF:-1 ,US- BeIN Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33435
-#EXTINF:-1 ,US- BeIN2 Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33436
-#EXTINF:-1 ,US- Destination America
-http://linux-app.tv:6204/15020208413552/24021189856304/20589
-#EXTINF:-1 ,US- Discovery Channel
-http://linux-app.tv:6204/15020208413552/24021189856304/20588
-#EXTINF:-1 ,US- Discovery ID
-http://linux-app.tv:6204/15020208413552/24021189856304/20587
-#EXTINF:-1 ,US- Cinemax More HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43533
-#EXTINF:-1 ,US- Cinemaxx More Maxx HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43534
-#EXTINF:-1 ,US- Cinemax Thriller Max HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43535
-#EXTINF:-1 ,US- Cinemax FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43537
-#EXTINF:-1 ,US- Cinemax Moviemax
-http://linux-app.tv:6204/15020208413552/24021189856304/43538
-#EXTINF:-1 ,US- Cinemax East
-http://linux-app.tv:6204/15020208413552/24021189856304/43540
-#EXTINF:-1 ,US- Cinemax Action 2 FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43542
-#EXTINF:-1 ,US- Cinemax HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43543
-#EXTINF:-1 ,US- Starz Encore East HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43545
-#EXTINF:-1 ,US- Starz Encore West HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43546
-#EXTINF:-1 ,US- Starz Encore Family HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43547
-#EXTINF:-1 ,US- Starz Encore Classic HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43548
-#EXTINF:-1 ,US- Starz Encore Black HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43549
-#EXTINF:-1 ,US- Starz Encore Action HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43550
-#EXTINF:-1 ,US- Starz Encore Suspense HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43551
-#EXTINF:-1 ,US- Starz Encore Westerns HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43552
-#EXTINF:-1 ,US- Starz Edge FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43553
-#EXTINF:-1 ,US- Starz East FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43554
-#EXTINF:-1 ,US- Starz In Black HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43556
-#EXTINF:-1 ,US- Starz Kids & Family HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43558
-#EXTINF:-1 ,US- Starz Cinema East FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43559
-#EXTINF:-1 ,US- Showtime 2
-http://linux-app.tv:6204/15020208413552/24021189856304/43561
-#EXTINF:-1 ,US- Showtime East HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43562
-#EXTINF:-1 ,US- Showtime West HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43563
-#EXTINF:-1 ,US- Showtime Next HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43564
-#EXTINF:-1 ,US- Showtime Extreme HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43565
-#EXTINF:-1 ,US- Showtime Women HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43566
-#EXTINF:-1 ,US- Showtime Beyond HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43567
-#EXTINF:-1 ,US- Showtime Showcase
-http://linux-app.tv:6204/15020208413552/24021189856304/43568
-#EXTINF:-1 ,US- ShowTime Family Zone HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43569
 #EXTINF:-1 ,US- Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 ,US- Azteca America (WPSJ)
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
 #EXTINF:-1 ,US- Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 ,Us- Destination America
-http://linux-app.tv:6204/15020208413552/24021189856304/20646
-#EXTINF:-1 ,Us- Animal Planet
-http://linux-app.tv:6204/15020208413552/24021189856304/20642
-#EXTINF:-1 ,Us- Discovery Science HD
-http://linux-app.tv:6204/15020208413552/24021189856304/20640
-#EXTINF:-1 ,Us- FOX Business Network
-http://linux-app.tv:6204/15020208413552/24021189856304/20638
-#EXTINF:-1 ,Us- Fox Deportes
-http://linux-app.tv:6204/15020208413552/24021189856304/20637
-#EXTINF:-1 ,Us- National Geographic
-http://linux-app.tv:6204/15020208413552/24021189856304/20632
-#EXTINF:-1 ,Us- NBA HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33433
-#EXTINF:-1 ,US- NBC Sports Northeast
-http://linux-app.tv:6204/15020208413552/24021189856304/33451
-#EXTINF:-1 ,US- NFL Network
-http://linux-app.tv:6204/15020208413552/24021189856304/20555
-#EXTINF:-1 ,US- ESPN 1
-http://linux-app.tv:6204/15020208413552/24021189856304/33437
-#EXTINF:-1 ,US- ESPN 2
-http://linux-app.tv:6204/15020208413552/24021189856304/33438
-#EXTINF:-1 ,US- ESPN Longhorn Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33440
-#EXTINF:-1 ,US- ESPN News
-http://linux-app.tv:6204/15020208413552/24021189856304/33441
-#EXTINF:-1 ,US- ESPN SEC Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33442
-#EXTINF:-1 ,US- ESPNU College Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33443
-#EXTINF:-1 ,US- Fight Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33444
-#EXTINF:-1 ,US- FNTSY Sports Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33445
-#EXTINF:-1 ,US- Fox College Sports Atlantic
-http://linux-app.tv:6204/15020208413552/24021189856304/33446
-#EXTINF:-1 ,US- Fox College Sports Central
-http://linux-app.tv:6204/15020208413552/24021189856304/33447
-#EXTINF:-1 ,US- Fox College Sports Pacific
-http://linux-app.tv:6204/15020208413552/24021189856304/33448
-#EXTINF:-1 ,US- Fox Sports 1
-http://linux-app.tv:6204/15020208413552/24021189856304/33449
-#EXTINF:-1 ,US- Fox Sports 2
-http://linux-app.tv:6204/15020208413552/24021189856304/20567
-#EXTINF:-1 ,US- Sports man Channel
-http://linux-app.tv:6204/15020208413552/24021189856304/33452
-#EXTINF:-1 ,Ca- SPIKE TV / PARAMOUNT SD
-http://linux-app.tv:6204/15020208413552/24021189856304/30659
-#EXTINF:-1 ,Ca- ANIMAL PLANET HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30711
-#EXTINF:-1 ,Ca- CRIME & INVESTIGATION HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30712
-#EXTINF:-1 ,Ca- DISCOVERY CHANNEL HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30713
-#EXTINF:-1 ,Ca- DISCOVERY SCIENCE SD
-http://linux-app.tv:6204/15020208413552/24021189856304/30714
-#EXTINF:-1 ,Ca- H2 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30715
-#EXTINF:-1 ,Ca- HISTORY CHANNEL HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30716
-#EXTINF:-1 ,Ca- NAT GEO WILD HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30717
-#EXTINF:-1 ,Ca- NATIONAL GEOGRAPHIC HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30718
-#EXTINF:-1 ,Ca- SPORTSNET ONE HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33313
-#EXTINF:-1 ,Ca- SPORTSNET EAST HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33314
-#EXTINF:-1 ,Ca- SPORTSNET ONTARIO HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33316
-#EXTINF:-1 ,Ca- SPORTSNET PACIFIC | HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33319
-#EXTINF:-1 ,Ca- FIGHT NETWORK HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33322
-#EXTINF:-1 ,Ca- BEIN SPORTS HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33323
-#EXTINF:-1 ,Ca- TVA SPORTS HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33325
-#EXTINF:-1 ,Ca- TVA SPORTS 2 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33327
-#EXTINF:-1 ,Ca- FOX SPORTS RACING HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33329
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 267*
-http://linux-app.tv:6204/15020208413552/24021189856304/33330
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 368
-http://linux-app.tv:6204/15020208413552/24021189856304/33331
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 422*
-http://linux-app.tv:6204/15020208413552/24021189856304/33332
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 433*
-http://linux-app.tv:6204/15020208413552/24021189856304/33334
-#EXTINF:-1 ,Ca- SUPER SPORTS CH 436
-http://linux-app.tv:6204/15020208413552/24021189856304/33335
-#EXTINF:-1 ,CA- CNN
-http://linux-app.tv:6204/15020208413552/24021189856304/39956
-#EXTINF:-1 ,CA- CNN INTERNATIONAL
-http://linux-app.tv:6204/15020208413552/24021189856304/39957
-#EXTINF:-1 ,CA- H2
-http://linux-app.tv:6204/15020208413552/24021189856304/39972
-#EXTINF:-1 ,CA- Discovery Velocity
-http://linux-app.tv:6204/15020208413552/24021189856304/39997
-#EXTINF:-1 ,CA- BEIN SPORTS
-http://linux-app.tv:6204/15020208413552/24021189856304/39926
-#EXTINF:-1 ,CA- Metro Media FR
-http://linux-app.tv:6204/15020208413552/24021189856304/39927
-#EXTINF:-1 ,CA- HBO 2
-http://linux-app.tv:6204/15020208413552/24021189856304/39928
-#EXTINF:-1 ,CA- HBO 1
-http://linux-app.tv:6204/15020208413552/24021189856304/39929
-#EXTINF:-1 ,CA- Historia FR
-http://linux-app.tv:6204/15020208413552/24021189856304/39932
-#EXTINF:-1 ,Uk- Sky BT Sport 1 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33630
-#EXTINF:-1 ,Uk- Sky BT Sport 2 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33631
-#EXTINF:-1 ,Uk- Sky BT Sport 3 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33577
-#EXTINF:-1 ,Uk- Sky Eir Sport 1
-http://linux-app.tv:6204/15020208413552/24021189856304/33557
-#EXTINF:-1 ,Uk- Sky Eir Sport 2
-http://linux-app.tv:6204/15020208413552/24021189856304/33558
-#EXTINF:-1 ,Uk- Sky Eurosport 1 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33633
-#EXTINF:-1 ,Uk- Sky Eurosport 2 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33634
-#EXTINF:-1 ,Uk- Sky Sports News HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33312
-#EXTINF:-1 ,Uk- Sky Sport Football
-http://linux-app.tv:6204/15020208413552/24021189856304/33638
-#EXTINF:-1 ,Uk- Sky Sports Action HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33641
-#EXTINF:-1 ,UK- Sky Sports Arena HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33599
-#EXTINF:-1 ,Uk- Sky BoxNation
-http://linux-app.tv:6204/15020208413552/24021189856304/33629
-#EXTINF:-1 ,Uk- Sky Sports Cricket HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33640
-#EXTINF:-1 ,Uk- Sky Sports F1 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33644
-#EXTINF:-1 ,Uk- Sky Sports Golf HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33642
-#EXTINF:-1 ,Uk- Sky Sports Main Event HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33639
-#EXTINF:-1 ,Uk- Sky Sports Mix HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33645
-#EXTINF:-1 ,Uk- Sky Sports Premier League HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33643
-#EXTINF:-1 ,Uk- FOX SPORTS NEWS
-http://linux-app.tv:6204/15020208413552/24021189856304/33278
-#EXTINF:-1 ,Uk- Sky More 4 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8547
-#EXTINF:-1 ,Uk- Sky Movies 24
-http://linux-app.tv:6204/15020208413552/24021189856304/8546
-#EXTINF:-1 ,Uk- Sky Movies Action HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8545
-#EXTINF:-1 ,Uk- Sky Movies Crime
-http://linux-app.tv:6204/15020208413552/24021189856304/8543
-#EXTINF:-1 ,Uk- Sky Movies Disney
-http://linux-app.tv:6204/15020208413552/24021189856304/8542
-#EXTINF:-1 ,Uk- Sky Movies Drama HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8541
-#EXTINF:-1 ,Uk- Sky Movies Comedy HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30818
-#EXTINF:-1 ,Uk- Sky Movies Family HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8540
-#EXTINF:-1 ,Uk- Sky Movies Greats
-http://linux-app.tv:6204/15020208413552/24021189856304/8539
-#EXTINF:-1 ,Uk- Sky Movies Premiere HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8538
-#EXTINF:-1 ,Uk- Sky Movies Select HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8537
-#EXTINF:-1 ,Uk- SKY CINEMA HITS HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30875
-#EXTINF:-1 ,Uk- SKY CINEMA THRILLER HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30876
-#EXTINF:-1 ,Uk- Sky Chelsea TV HD
-http://linux-app.tv:6204/15020208413552/24021189856304/33632
-#EXTINF:-1 ,Uk- Sky Animal Planet HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8593
-#EXTINF:-1 ,Uk- Sky Discovery
-http://linux-app.tv:6204/15020208413552/24021189856304/8568
-#EXTINF:-1 ,Uk- Sky Discovery History
-http://linux-app.tv:6204/15020208413552/24021189856304/8567
-#EXTINF:-1 ,Uk- Sky Discovery Science
-http://linux-app.tv:6204/15020208413552/24021189856304/8566
-#EXTINF:-1 ,Uk- Sky Discovery Shed
-http://linux-app.tv:6204/15020208413552/24021189856304/8565
-#EXTINF:-1 ,Uk- Sky Discovery Turbo
-http://linux-app.tv:6204/15020208413552/24021189856304/8564
-#EXTINF:-1 ,Uk- Sky History HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8555
-#EXTINF:-1 ,Uk- Sky Nat Geo Wild HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8535
-#EXTINF:-1 ,Uk- Sky National Geographic HD
-http://linux-app.tv:6204/15020208413552/24021189856304/8534
-#EXTINF:-1 ,Uk- YESTERDAY
-http://linux-app.tv:6204/15020208413552/24021189856304/30828
-#EXTINF:-1 ,Uk- SPIKE
-http://linux-app.tv:6204/15020208413552/24021189856304/30833
-#EXTINF:-1 ,Uk- DRAMA
-http://linux-app.tv:6204/15020208413552/24021189856304/30838
-#EXTINF:-1 ,Uk- DMAX
-http://linux-app.tv:6204/15020208413552/24021189856304/30839
-#EXTINF:-1 ,Uk- EDEN
-http://linux-app.tv:6204/15020208413552/24021189856304/30872
-#EXTINF:-1 ,Uk- H2 HD
-http://linux-app.tv:6204/15020208413552/24021189856304/30873
-#EXTINF:-1 ,True Movies 1
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17775.m3u8
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17791.m3u8
-#EXTINF:-1 ,SKY SPORTS ACTION
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17793.m3u8
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17795.m3u8
-#EXTINF:-1 ,PREMIERE SPORT HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17804.m3u8
-#EXTINF:-1 ,Eir Sports1
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17826.m3u8
-#EXTINF:-1 ,BT Sports 2 SD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17839.m3u8
-#EXTINF:-1 ,BT Sport Extra 4
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17843.m3u8
-#EXTINF:-1 ,BT Sport Extra 2
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17845.m3u8
-#EXTINF:-1 ,BT Sport Extra 1
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17846.m3u8
-#EXTINF:-1 ,BT Sport 3 SD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17847.m3u8
-#EXTINF:-1 ,Sky Sports Mix
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17858.m3u8
-#EXTINF:-1 ,Premier Sports HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17859.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17872.m3u8
-#EXTINF:-1 ,ITV ENCORE
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17873.m3u8
-#EXTINF:-1 ,BT Sport 3 HD 1080p
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17888.m3u8
-#EXTINF:-1 ,Sky Sports F1 HD 1080p
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17893.m3u8
-#EXTINF:-1 ,Sky Cinema Action HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17901.m3u8
-#EXTINF:-1 ,Sky Cinema Crime & Thriller HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17903.m3u8
-#EXTINF:-1 ,Sky Cinema Family HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17906.m3u8
-#EXTINF:-1 ,Sky Cinema Select HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17909.m3u8
-#EXTINF:-1 ,National Geographic
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17915.m3u8
-#EXTINF:-1 ,NATGEO WILD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17917.m3u8
-#EXTINF:-1 ,Yesterday
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17919.m3u8
-#EXTINF:-1 ,Sky Sport 1 SD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17921.m3u8
-#EXTINF:-1 ,Nat Geo Graphic
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17926.m3u8
-#EXTINF:-1 ,CNN
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17936.m3u8
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17942.m3u8
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17944.m3u8
-#EXTINF:-1 ,SKY SPORTS GOLF HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17945.m3u8
-#EXTINF:-1 ,SKY SPORTS ACTION HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17946.m3u8
-#EXTINF:-1 ,Sky Movies Premiere
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17950.m3u8
-#EXTINF:-1 ,Sky Movies Greats
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17951.m3u8
-#EXTINF:-1 ,Sky Movies Comedy
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17954.m3u8
-#EXTINF:-1 ,DMax
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17969.m3u8
-#EXTINF:-1 ,Discovery Science
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17975.m3u8
-#EXTINF:-1 ,Discovery History
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17976.m3u8
-#EXTINF:-1 ,CBS Action
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17980.m3u8
-#EXTINF:-1 ,BT Sport ESPN
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17982.m3u8
-#EXTINF:-1 ,BT Sport 1 HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17984.m3u8
-#EXTINF:-1 ,Boxnation
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/17985.m3u8
-#EXTINF:-1 ,SPIKE HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18395.m3u8
-#EXTINF:-1 ,National Geographic
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18397.m3u8
-#EXTINF:-1 ,DIY Network
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18404.m3u8
-#EXTINF:-1 ,Cinemax East
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18406.m3u8
-#EXTINF:-1 ,Cinemax ActionMax East
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18407.m3u8
-#EXTINF:-1 ,Cinemax 5 StarMax
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18408.m3u8
-#EXTINF:-1 ,Bein Sports USA HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18409.m3u8
-#EXTINF:-1 ,Cinemax MoreMax
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18437.m3u8
-#EXTINF:-1 ,HBO HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18503.m3u8
-#EXTINF:-1 ,HBO Comedy
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18505.m3u8
-#EXTINF:-1 ,FXX
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18506.m3u8
-#EXTINF:-1 ,Fight HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18507.m3u8
-#EXTINF:-1 ,DW
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18508.m3u8
-#EXTINF:-1 ,DISCOVERY HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18509.m3u8
-#EXTINF:-1 ,NFL Network 1080i
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18515.m3u8
-#EXTINF:-1 ,NFL REDZONE SD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/18516.m3u8
-#EXTINF:-1 ,sportsnet 360 hd(1)
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21095.m3u8
-#EXTINF:-1 ,Sportnet Ontario HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21096.m3u8
-#EXTINF:-1 ,Sportnet Pacific HD
-http://hostiptv.com:8089/live/Gillesdevendeville/jennah2015/21101.m3u8
-#EXTINF:-1 ,US:HBO
-http://m-iptv.net:6204/95025267076109/65839594001441/20563
-#EXTINF:-1 ,US:HBO2
-http://m-iptv.net:6204/95025267076109/65839594001441/20559
-#EXTINF:-1 ,US:HBO East
-http://m-iptv.net:6204/95025267076109/65839594001441/20562
-#EXTINF:-1 ,US:HBO Signature
-http://m-iptv.net:6204/95025267076109/65839594001441/20560
-#EXTINF:-1 ,US:ATT SportsNet Southwest
-http://m-iptv.net:6204/95025267076109/65839594001441/33434
-#EXTINF:-1 ,US:BeIN Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33435
-#EXTINF:-1 ,US:BeIN2 Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33436
-#EXTINF:-1 ,US:Destination America
-http://m-iptv.net:6204/95025267076109/65839594001441/20589
-#EXTINF:-1 ,US:Discovery Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/20588
-#EXTINF:-1 ,US:Discovery ID
-http://m-iptv.net:6204/95025267076109/65839594001441/20587
-#EXTINF:-1 ,US:DIY Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20584
-#EXTINF:-1 ,US:Cinemax More HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43533
-#EXTINF:-1 ,US:Cinemaxx More Maxx HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43534
-#EXTINF:-1 ,US:Cinemax Thriller Max HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43535
-#EXTINF:-1 ,US:Cinemax FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43537
-#EXTINF:-1 ,US:Cinemax East
-http://m-iptv.net:6204/95025267076109/65839594001441/43540
-#EXTINF:-1 ,US:Cinemax Action 2 FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43542
-#EXTINF:-1 ,US:Starz Encore East HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43545
-#EXTINF:-1 ,US:Starz Encore West HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43546
-#EXTINF:-1 ,US:Starz Encore Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43547
-#EXTINF:-1 ,US:Starz Encore Classic HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43548
-#EXTINF:-1 ,US:Starz Encore Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43549
-#EXTINF:-1 ,US:Starz Encore Suspense HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43551
-#EXTINF:-1 ,US:Starz Edge FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43553
-#EXTINF:-1 ,US:Starz East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43554
-#EXTINF:-1 ,US:Starz West FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43555
-#EXTINF:-1 ,US:Starz In Black HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43556
-#EXTINF:-1 ,US:Starz Cinema East FHD
-http://m-iptv.net:6204/95025267076109/65839594001441/43559
-#EXTINF:-1 ,US:Showtime 2
-http://m-iptv.net:6204/95025267076109/65839594001441/43561
-#EXTINF:-1 ,US:Showtime East HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43562
-#EXTINF:-1 ,US:Showtime West HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43563
-#EXTINF:-1 ,US:Showtime Next HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43564
-#EXTINF:-1 ,US:Showtime Extreme HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43565
-#EXTINF:-1 ,US:Showtime Women HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43566
-#EXTINF:-1 ,US:Showtime Beyond HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43567
-#EXTINF:-1 ,US:Showtime Showcase
-http://m-iptv.net:6204/95025267076109/65839594001441/43568
-#EXTINF:-1 ,US:ShowTime Family Zone HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43569
-#EXTINF:-1 ,US:Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 ,US:Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
@@ -863,76 +41,6 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTR
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 #EXTINF:-1 ,US:News 12 Westchester
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
-#EXTINF:-1 ,US:TNT HD
-http://m-iptv.net:6204/95025267076109/65839594001441/20522
-#EXTINF:-1 ,US:TRU TV HD
-http://m-iptv.net:6204/95025267076109/65839594001441/20521
-#EXTINF:-1 ,US:Turner Classic Movies
-http://m-iptv.net:6204/95025267076109/65839594001441/20520
-#EXTINF:-1 ,US:TyC Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33454
-#EXTINF:-1 ,US:Universal Kids
-http://m-iptv.net:6204/95025267076109/65839594001441/20518
-#EXTINF:-1 ,US:USA Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20517
-#EXTINF:-1 ,US:VICELAND
-http://m-iptv.net:6204/95025267076109/65839594001441/20516
-#EXTINF:-1 ,US:NBC Golf Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/33450
-#EXTINF:-1 ,US:NBC Sports Northeast
-http://m-iptv.net:6204/95025267076109/65839594001441/33451
-#EXTINF:-1 ,US:NFL Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20555
-#EXTINF:-1 ,US:PAC12 Arizona
-http://m-iptv.net:6204/95025267076109/65839594001441/20554
-#EXTINF:-1 ,US:PAC12 BayArea
-http://m-iptv.net:6204/95025267076109/65839594001441/20553
-#EXTINF:-1 ,US:PAC12 LosAngeles
-http://m-iptv.net:6204/95025267076109/65839594001441/20552
-#EXTINF:-1 ,US:PAC12 Mountain
-http://m-iptv.net:6204/95025267076109/65839594001441/20551
-#EXTINF:-1 ,US:PAC12 Network
-http://m-iptv.net:6204/95025267076109/65839594001441/20550
-#EXTINF:-1 ,US:PAC12 Oregon
-http://m-iptv.net:6204/95025267076109/65839594001441/20549
-#EXTINF:-1 ,US:PAC12 Washington
-http://m-iptv.net:6204/95025267076109/65839594001441/20548
-#EXTINF:-1 ,US:ESPN 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33437
-#EXTINF:-1 ,US:ESPN 2
-http://m-iptv.net:6204/95025267076109/65839594001441/33438
-#EXTINF:-1 ,US:ESPN Longhorn Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33440
-#EXTINF:-1 ,US:ESPN News
-http://m-iptv.net:6204/95025267076109/65839594001441/33441
-#EXTINF:-1 ,US:ESPN SEC Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33442
-#EXTINF:-1 ,US:ESPNU College Sports
-http://m-iptv.net:6204/95025267076109/65839594001441/33443
-#EXTINF:-1 ,US:Fight Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33444
-#EXTINF:-1 ,US:FNTSY Sports Network
-http://m-iptv.net:6204/95025267076109/65839594001441/33445
-#EXTINF:-1 ,US:Fox College Sports Atlantic
-http://m-iptv.net:6204/95025267076109/65839594001441/33446
-#EXTINF:-1 ,US:Fox College Sports Central
-http://m-iptv.net:6204/95025267076109/65839594001441/33447
-#EXTINF:-1 ,US:Fox College Sports Pacific
-http://m-iptv.net:6204/95025267076109/65839594001441/33448
-#EXTINF:-1 ,US:Fox Sports 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33449
-#EXTINF:-1 ,US:Fox Sports 2
-http://m-iptv.net:6204/95025267076109/65839594001441/20567
-#EXTINF:-1 ,US:Sports man Channel
-http://m-iptv.net:6204/95025267076109/65839594001441/33452
-#EXTINF:-1 ,US:Stadium
-http://m-iptv.net:6204/95025267076109/65839594001441/20534
-#EXTINF:-1 ,US:Stadium1
-http://m-iptv.net:6204/95025267076109/65839594001441/20533
-#EXTINF:-1 ,US:Stadium2
-http://m-iptv.net:6204/95025267076109/65839594001441/20532
-#EXTINF:-1 ,US:Stadium3
-http://m-iptv.net:6204/95025267076109/65839594001441/20531
 #EXTINF:-1 ,US | Unimas
 http://plus-tv.us:8080/live/1899/1899/14576.ts
 #EXTINF:-1 ,US | Galavision
@@ -1005,44 +113,6 @@ http://plus-tv.us:8080/live/1899/1899/14652.ts
 http://plus-tv.us:8080/live/1899/1899/14653.ts
 #EXTINF:-1 ,US | Fox Sports 2
 http://plus-tv.us:8080/live/1899/1899/14654.ts
-#EXTINF:-1 ,US | Fox Soccer Plus
-http://plus-tv.us:8080/live/1899/1899/14655.ts
-#EXTINF:-1 ,US | GINX eSports
-http://plus-tv.us:8080/live/1899/1899/14656.ts
-#EXTINF:-1 ,US | Golf Channel
-http://plus-tv.us:8080/live/1899/1899/14657.ts
-#EXTINF:-1 ,US | LongHorn Network
-http://plus-tv.us:8080/live/1899/1899/14658.ts
-#EXTINF:-1 ,US | MLB Network
-http://plus-tv.us:8080/live/1899/1899/14659.ts
-#EXTINF:-1 ,US | NFL Network
-http://plus-tv.us:8080/live/1899/1899/14663.ts
-#EXTINF:-1 ,US | NHL Network
-http://plus-tv.us:8080/live/1899/1899/14664.ts
-#EXTINF:-1 ,US | GOLTV ENG
-http://plus-tv.us:8080/live/1899/1899/14669.ts
-#EXTINF:-1 ,US | NBCSN
-http://plus-tv.us:8080/live/1899/1899/14671.ts
-#EXTINF:-1 ,US | BEIN SPORTS Ñ
-http://plus-tv.us:8080/live/1899/1899/14675.ts
-#EXTINF:-1 ,US | Showtime
-http://plus-tv.us:8080/live/1899/1899/14679.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14681.ts
-#EXTINF:-1 ,US | Showtime West
-http://plus-tv.us:8080/live/1899/1899/14683.ts
-#EXTINF:-1 ,US | Showtime HD
-http://plus-tv.us:8080/live/1899/1899/14684.ts
-#EXTINF:-1 ,US | Destination America
-http://plus-tv.us:8080/live/1899/1899/14555.ts
-#EXTINF:-1 ,US | Discovery Family
-http://plus-tv.us:8080/live/1899/1899/14556.ts
-#EXTINF:-1 ,US | Discovery Life
-http://plus-tv.us:8080/live/1899/1899/14557.ts
-#EXTINF:-1 ,US | Discovery Science
-http://plus-tv.us:8080/live/1899/1899/14558.ts
-#EXTINF:-1 ,US | History Channel
-http://plus-tv.us:8080/live/1899/1899/14564.ts
 #EXTINF:-1 ,Nba Tv
 http://cdn.miip.tv:8080/canada/123456/518
 #EXTINF:-1 ,NFL
@@ -1227,8 +297,6 @@ http://plus-tv.us:8080/live/1899/1899/5271.m3u8
 http://plus-tv.us:8080/live/1899/1899/5274.m3u8
 #EXTINF:-1 ,ULTRA-MEX-HD
 http://plus-tv.us:8080/live/1899/1899/5275.m3u8
-#EXTINF:-1 ,WIN SPORT. COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4234.m3u8
 #EXTINF:-1 ,WIN SPORTS PLUS HD
 http://plus-tv.us:8080/live/1899/1899/10172.m3u8
 #EXTINF:-1 ,CINE Y SERIE |  HBO FAMILY HD
@@ -1269,16 +337,6 @@ http://plus-tv.us:8080/live/1899/1899/14598.m3u8
 http://plus-tv.us:8080/live/1899/1899/14600.m3u8
 #EXTINF:-1 ,US | Starz Encore Western
 http://plus-tv.us:8080/live/1899/1899/14601.m3u8
-#EXTINF:-1 ,US | Starz
-http://plus-tv.us:8080/live/1899/1899/14602.m3u8
-#EXTINF:-1 ,US | Starz Black
-http://plus-tv.us:8080/live/1899/1899/14603.m3u8
-#EXTINF:-1 ,US | HBO ESP
-http://plus-tv.us:8080/live/1899/1899/14604.m3u8
-#EXTINF:-1 ,US | HBO ZONE
-http://plus-tv.us:8080/live/1899/1899/14605.m3u8
-#EXTINF:-1 ,US | STARZ ESP
-http://plus-tv.us:8080/live/1899/1899/14606.m3u8
 #EXTINF:-1 ,US | STARZ EDGE
 http://plus-tv.us:8080/live/1899/1899/14607.m3u8
 #EXTINF:-1 ,US | HBO Signature ESP
@@ -1293,22 +351,6 @@ http://plus-tv.us:8080/live/1899/1899/14611.m3u8
 http://plus-tv.us:8080/live/1899/1899/14612.m3u8
 #EXTINF:-1 ,US | HBO Family
 http://plus-tv.us:8080/live/1899/1899/14618.m3u8
-#EXTINF:-1 ,US | Hbo Siganture
-http://plus-tv.us:8080/live/1899/1899/14619.m3u8
-#EXTINF:-1 ,US | HBO Comedy
-http://plus-tv.us:8080/live/1899/1899/14624.m3u8
-#EXTINF:-1 ,US | DIY Premium
-http://plus-tv.us:8080/live/1899/1899/14630.m3u8
-#EXTINF:-1 ,US | Discovery Velocity
-http://plus-tv.us:8080/live/1899/1899/14631.m3u8
-#EXTINF:-1 ,US | Own Channel
-http://plus-tv.us:8080/live/1899/1899/14632.m3u8
-#EXTINF:-1 ,US | ESPN DEPORTES HD
-http://plus-tv.us:8080/live/1899/1899/14643.m3u8
-#EXTINF:-1 ,US | BEIN SPORTS LA LIGA
-http://plus-tv.us:8080/live/1899/1899/14644.m3u8
-#EXTINF:-1 ,US | UFC TV
-http://plus-tv.us:8080/live/1899/1899/14646.m3u8
 #EXTINF:-1 ,US | FIGHTING SPORTS
 http://plus-tv.us:8080/live/1899/1899/14647.m3u8
 #EXTINF:-1 ,US | Eleven Sports
@@ -1321,72 +363,14 @@ http://plus-tv.us:8080/live/1899/1899/14650.m3u8
 http://plus-tv.us:8080/live/1899/1899/14679.m3u8
 #EXTINF:-1 ,US | Showtime Extreme
 http://plus-tv.us:8080/live/1899/1899/14681.m3u8
-#EXTINF:-1 ,US | Discovery ID
-http://plus-tv.us:8080/live/1899/1899/14552.m3u8
-#EXTINF:-1 ,US | Destination America
-http://plus-tv.us:8080/live/1899/1899/14555.m3u8
-#EXTINF:-1 ,US | Discovery Life
-http://plus-tv.us:8080/live/1899/1899/14557.m3u8
-#EXTINF:-1 ,US | Discovery Science
-http://plus-tv.us:8080/live/1899/1899/14558.m3u8
-#EXTINF:-1 ,US | History Channel
-http://plus-tv.us:8080/live/1899/1899/14564.m3u8
-#EXTINF:-1 ,US | Lifetime
-http://plus-tv.us:8080/live/1899/1899/14565.m3u8
-#EXTINF:-1 ,DEPORTE | FUTV CR HD
-http://plus-tv.us:8080/live/1899/1899/14866.m3u8
-#EXTINF:-1 ,ECUADOR | ECUADOR TV HD
-http://plus-tv.us:8080/live/1899/1899/14867.m3u8
-#EXTINF:-1 ,RD: RTVD
-http://plus-tv.us:8080/live/1899/1899/15227.m3u8
-#EXTINF:-1 ,RD: TELESISTEMA
-http://plus-tv.us:8080/live/1899/1899/15231.m3u8
 #EXTINF:-1 ,RD: TELEIMPACTO
 http://plus-tv.us:8080/live/1899/1899/15232.m3u8
 #EXTINF:-1 ,RD: CANAL 25
 http://plus-tv.us:8080/live/1899/1899/15233.m3u8
 #EXTINF:-1 ,RD: ANTENA LATINA
 http://plus-tv.us:8080/live/1899/1899/15237.m3u8
-#EXTINF:-1 ,RD | CANAL 4
-http://plus-tv.us:8080/live/1899/1899/15275.m3u8
-#EXTINF:-1 ,DEPORTE | VTV
-http://plus-tv.us:8080/live/1899/1899/15280.m3u8
-#EXTINF:-1 ,DEPORTE | OLYMPIC CHANNEL
-http://plus-tv.us:8080/live/1899/1899/15286.m3u8
-#EXTINF:-1 ,Latino | AZ Mundo
-http://plus-tv.us:8080/live/1899/1899/15298.m3u8
-#EXTINF:-1 ,Latino | beIN Sports
-http://plus-tv.us:8080/live/1899/1899/15302.m3u8
-#EXTINF:-1 ,Latino | beIN Sports Opcion 2
-http://plus-tv.us:8080/live/1899/1899/15304.m3u8
-#EXTINF:-1 ,Latino | Discovery Channel
-http://plus-tv.us:8080/live/1899/1899/15318.m3u8
-#EXTINF:-1 ,Latino | Discovery Civilization
-http://plus-tv.us:8080/live/1899/1899/15319.m3u8
-#EXTINF:-1 ,Latino | Discovery en Espanol
-http://plus-tv.us:8080/live/1899/1899/15320.m3u8
-#EXTINF:-1 ,Latino | Nat Geo Wild
-http://plus-tv.us:8080/live/1899/1899/15384.m3u8
-#EXTINF:-1 ,Latino | Pasiones
-http://plus-tv.us:8080/live/1899/1899/15389.m3u8
-#EXTINF:-1 ,Latino | Starz
-http://plus-tv.us:8080/live/1899/1899/15396.m3u8
 #EXTINF:-1 ,Latino | Starz Encore
 http://plus-tv.us:8080/live/1899/1899/15397.m3u8
-#EXTINF:-1 ,Toy Story 4 (2019)
-http://plus-tv.us:8080/movie/1899/1899/10245.mkv
-#EXTINF:-1 ,El estafador (2019)
-http://plus-tv.us:8080/movie/1899/1899/10256.mkv
-#EXTINF:-1 ,Abomimable (2019)
-http://plus-tv.us:8080/movie/1899/1899/10257.mkv
-#EXTINF:-1 ,Una noche dura (2019)
-http://plus-tv.us:8080/movie/1899/1899/10259.mkv
-#EXTINF:-1 ,Rambo 5 (2019)
-http://plus-tv.us:8080/movie/1899/1899/10260.mkv
-#EXTINF:-1 ,Rambo (2019)
-http://plus-tv.us:8080/movie/1899/1899/11467.mp4
-#EXTINF:-1 ,Pedro Infante Las Mujeres de Mi General.
-http://plus-tv.us:8080/movie/1899/1899/14774.mp4
 #EXTINF:-1 ,La delgada linea Roja
 http://plus-tv.us:8080/movie/1899/1899/14791.mp4
 #EXTINF:-1 ,Persecucion Extrema
@@ -1403,8 +387,6 @@ http://plus-tv.us:8080/movie/1899/1899/14800.mp4
 http://plus-tv.us:8080/movie/1899/1899/14802.mp4
 #EXTINF:-1 ,El dia despues
 http://plus-tv.us:8080/movie/1899/1899/14803.mp4
-#EXTINF:-1 ,Billy Lynns Long Halftime Walk
-http://plus-tv.us:8080/movie/1899/1899/14805.mp4
 #EXTINF:-1 ,Solo en berlin
 http://plus-tv.us:8080/movie/1899/1899/14809.mp4
 #EXTINF:-1 ,Gernika (2016)
@@ -1447,8 +429,6 @@ http://plus-tv.us:8080/movie/1899/1899/15010.mp4
 http://plus-tv.us:8080/movie/1899/1899/15027.mp4
 #EXTINF:-1 ,El viaje de Marta (Estreno 2020)
 http://plus-tv.us:8080/movie/1899/1899/15032.mp4
-#EXTINF:-1 ,US:BBC America
-http://m-iptv.net:6204/95025267076109/65839594001441/20611
 #EXTINF:-1 ,SkySp F'ball
 http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
 #EXTINF:-1 ,US | Nat Geo
@@ -1961,272 +941,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 ,Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,US:Hallmark Movies
-http://m-iptv.net:6204/95025267076109/65839594001441/20564
-#EXTINF:-1 ,US:Lifetime HD
-http://m-iptv.net:6204/95025267076109/65839594001441/43570
-#EXTINF:-1 ,US | Showtime Extreme
-http://69.64.33.127:25461/LifeUsu04/C0251/18900
-#EXTINF:-1 ,US | Showtime West
-http://69.64.33.127:25461/LifeUsu04/C0251/18904
-#EXTINF:-1 ,US | Showtime HD
-http://69.64.33.127:25461/LifeUsu04/C0251/18905
-#EXTINF:-1 ,US | Showtime Latino
-http://69.64.33.127:25461/LifeUsu04/C0251/18910
-#EXTINF:-1 ,US | Bein Sports Ñ HD
-http://69.64.33.127:25461/LifeUsu04/C0251/1226
-#EXTINF:-1 ,US | Bein Sports USA HD
-http://69.64.33.127:25461/LifeUsu04/C0251/1227
-#EXTINF:-1 ,US | ESPN DEPORTES HD
-http://69.64.33.127:25461/LifeUsu04/C0251/1252
-#EXTINF:-1 ,US | UFC TV
-http://69.64.33.127:25461/LifeUsu04/C0251/1262
-#EXTINF:-1 ,US | FIGHTING SPORTS
-http://69.64.33.127:25461/LifeUsu04/C0251/1263
-#EXTINF:-1 ,US | ESPN
-http://69.64.33.127:25461/LifeUsu04/C0251/1269
-#EXTINF:-1 ,US | ESPN News
-http://69.64.33.127:25461/LifeUsu04/C0251/1270
-#EXTINF:-1 ,US | ESPN U
-http://69.64.33.127:25461/LifeUsu04/C0251/1271
-#EXTINF:-1 ,US | Fight Network
-http://69.64.33.127:25461/LifeUsu04/C0251/1272
-#EXTINF:-1 ,US | Fox Sports 1
-http://69.64.33.127:25461/LifeUsu04/C0251/1274
-#EXTINF:-1 ,US | Fox Sports 2
-http://69.64.33.127:25461/LifeUsu04/C0251/1275
-#EXTINF:-1 ,US | Fox Soccer Plus
-http://69.64.33.127:25461/LifeUsu04/C0251/1276
-#EXTINF:-1 ,US | GINX eSports
-http://69.64.33.127:25461/LifeUsu04/C0251/1277
-#EXTINF:-1 ,US | MSNBC
-http://69.64.33.127:25461/LifeUsu04/C0251/1283
-#EXTINF:-1 ,US | NBA TV
-http://69.64.33.127:25461/LifeUsu04/C0251/1284
-#EXTINF:-1 ,US | NFL Network
-http://69.64.33.127:25461/LifeUsu04/C0251/1286
-#EXTINF:-1 ,US | NHL Network
-http://69.64.33.127:25461/LifeUsu04/C0251/1287
-#EXTINF:-1 ,US | Fox Deportes
-http://69.64.33.127:25461/LifeUsu04/C0251/9632
-#EXTINF:-1 ,US | BEIN SPORTS Ñ
-http://69.64.33.127:25461/LifeUsu04/C0251/40963
-#EXTINF:-1 ,US | AMC
-http://69.64.33.127:25461/LifeUsu04/C0251/244
-#EXTINF:-1 ,US | Discovery ID
-http://69.64.33.127:25461/LifeUsu04/C0251/245
-#EXTINF:-1 ,US | CNBC
-http://69.64.33.127:25461/LifeUsu04/C0251/252
-#EXTINF:-1 ,US | Destination America
-http://69.64.33.127:25461/LifeUsu04/C0251/257
-#EXTINF:-1 ,US | Discovery Family
-http://69.64.33.127:25461/LifeUsu04/C0251/258
-#EXTINF:-1 ,US | Discovery Life
-http://69.64.33.127:25461/LifeUsu04/C0251/259
-#EXTINF:-1 ,US | Discovery Science
-http://69.64.33.127:25461/LifeUsu04/C0251/260
-#EXTINF:-1 ,US | Food Network
-http://69.64.33.127:25461/LifeUsu04/C0251/262
-#EXTINF:-1 ,US | FX
-http://69.64.33.127:25461/LifeUsu04/C0251/266
-#EXTINF:-1 ,US | History Channel
-http://69.64.33.127:25461/LifeUsu04/C0251/273
-#EXTINF:-1 ,US | Lifetime
-http://69.64.33.127:25461/LifeUsu04/C0251/275
-#EXTINF:-1 ,US | Nat Geo Wild
-http://69.64.33.127:25461/LifeUsu04/C0251/278
-#EXTINF:-1 ,US | PBS KIDS
-http://69.64.33.127:25461/LifeUsu04/C0251/281
-#EXTINF:-1 ,US | SyFy
-http://69.64.33.127:25461/LifeUsu04/C0251/285
-#EXTINF:-1 ,US | TBS
-http://69.64.33.127:25461/LifeUsu04/C0251/286
-#EXTINF:-1 ,US | TCM
-http://69.64.33.127:25461/LifeUsu04/C0251/287
-#EXTINF:-1 ,US | Unimas
-http://69.64.33.127:25461/LifeUsu04/C0251/296
-#EXTINF:-1 ,US | Telemundo Chicago
-http://69.64.33.127:25461/LifeUsu04/C0251/299
-#EXTINF:-1 ,US | Telemundo LA
-http://69.64.33.127:25461/LifeUsu04/C0251/300
-#EXTINF:-1 ,US | Telemundo Miami
-http://69.64.33.127:25461/LifeUsu04/C0251/301
-#EXTINF:-1 ,US | Telemundo Texas
-http://69.64.33.127:25461/LifeUsu04/C0251/302
-#EXTINF:-1 ,US | Univision
-http://69.64.33.127:25461/LifeUsu04/C0251/303
-#EXTINF:-1 ,US | NBC Universo
-http://69.64.33.127:25461/LifeUsu04/C0251/304
-#EXTINF:-1 ,US | Discovery Familia
-http://69.64.33.127:25461/LifeUsu04/C0251/311
-#EXTINF:-1 ,US | Discovery
-http://69.64.33.127:25461/LifeUsu04/C0251/312
-#EXTINF:-1 ,US | Cinemax East
-http://69.64.33.127:25461/LifeUsu04/C0251/325
-#EXTINF:-1 ,US | EPIX
-http://69.64.33.127:25461/LifeUsu04/C0251/326
-#EXTINF:-1 ,US | Showtime 2
-http://69.64.33.127:25461/LifeUsu04/C0251/332
-#EXTINF:-1 ,US | Starz Encore Western
-http://69.64.33.127:25461/LifeUsu04/C0251/335
-#EXTINF:-1 ,US | Starz Black
-http://69.64.33.127:25461/LifeUsu04/C0251/337
-#EXTINF:-1 ,US | HBO ESP
-http://69.64.33.127:25461/LifeUsu04/C0251/338
-#EXTINF:-1 ,US | HBO ZONE
-http://69.64.33.127:25461/LifeUsu04/C0251/339
-#EXTINF:-1 ,US | STARZ ESP
-http://69.64.33.127:25461/LifeUsu04/C0251/340
-#EXTINF:-1 ,US | STARZ EDGE
-http://69.64.33.127:25461/LifeUsu04/C0251/341
-#EXTINF:-1 ,US | HBO Signature ESP
-http://69.64.33.127:25461/LifeUsu04/C0251/342
-#EXTINF:-1 ,US | SHOWTIME ESP
-http://69.64.33.127:25461/LifeUsu04/C0251/343
-#EXTINF:-1 ,US | HBO
-http://69.64.33.127:25461/LifeUsu04/C0251/344
-#EXTINF:-1 ,US | HBO Latino
-http://69.64.33.127:25461/LifeUsu04/C0251/345
-#EXTINF:-1 ,US | Sundance
-http://69.64.33.127:25461/LifeUsu04/C0251/1470
-#EXTINF:-1 ,US | HBO Family
-http://69.64.33.127:25461/LifeUsu04/C0251/9630
-#EXTINF:-1 ,US | Fox News
-http://69.64.33.127:25461/LifeUsu04/C0251/20705
-#EXTINF:-1 ,US | CBS
-http://69.64.33.127:25461/LifeUsu04/C0251/20732
-#EXTINF:-1 ,US | HBO Comedy
-http://69.64.33.127:25461/LifeUsu04/C0251/20733
-#EXTINF:-1 ,US | BBC America
-http://69.64.33.127:25461/LifeUsu04/C0251/20743
-#EXTINF:-1 ,US | Boomerang
-http://69.64.33.127:25461/LifeUsu04/C0251/20744
-#EXTINF:-1 ,US | Bravo TV
-http://69.64.33.127:25461/LifeUsu04/C0251/20745
-#EXTINF:-1 ,US | Tru TV
-http://69.64.33.127:25461/LifeUsu04/C0251/22662
-#EXTINF:-1 ,US | Discovery Velocity
-http://69.64.33.127:25461/LifeUsu04/C0251/22665
-#EXTINF:-1 ,US | CBS MIAMI
-http://69.64.33.127:25461/LifeUsu04/C0251/22670
-#EXTINF:-1 ,US | CNN
-http://69.64.33.127:25461/LifeUsu04/C0251/23012
-#EXTINF:-1 ,US | MTV
-http://69.64.33.127:25461/LifeUsu04/C0251/351
-#EXTINF:-1 ,US | MTV 2
-http://69.64.33.127:25461/LifeUsu04/C0251/352
-#EXTINF:-1 ,US | VH1
-http://69.64.33.127:25461/LifeUsu04/C0251/353
-#EXTINF:-1 ,US | Mtv Live
-http://69.64.33.127:25461/LifeUsu04/C0251/355
-#EXTINF:-1 ,US:HBO
-http://linux-app.tv:6204/15020208413552/24021189856304/20563
-#EXTINF:-1 ,US:HBO2
-http://linux-app.tv:6204/15020208413552/24021189856304/20559
-#EXTINF:-1 ,US:HBO East
-http://linux-app.tv:6204/15020208413552/24021189856304/20562
-#EXTINF:-1 ,US:HBO Signature
-http://linux-app.tv:6204/15020208413552/24021189856304/20560
-#EXTINF:-1 ,US:BBC America
-http://linux-app.tv:6204/15020208413552/24021189856304/20611
-#EXTINF:-1 ,US:BeIN Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33435
-#EXTINF:-1 ,US:BeIN2 Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33436
-#EXTINF:-1 ,US:Destination America
-http://linux-app.tv:6204/15020208413552/24021189856304/20589
-#EXTINF:-1 ,US:Discovery ID
-http://linux-app.tv:6204/15020208413552/24021189856304/20587
-#EXTINF:-1 ,US:Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1576655910_b2592000.m3u8
-#EXTINF:-1 ,US:Cinemaxx More Maxx HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43534
-#EXTINF:-1 ,US:Cinemax Thriller Max HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43535
-#EXTINF:-1 ,US:Cinemax FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43537
-#EXTINF:-1 ,US:Cinemax East
-http://linux-app.tv:6204/15020208413552/24021189856304/43540
-#EXTINF:-1 ,US:Cinemax Action 2 FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43542
-#EXTINF:-1 ,US:Starz Encore West HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43546
-#EXTINF:-1 ,US:Starz Encore Classic HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43548
-#EXTINF:-1 ,US:Starz Encore Suspense HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43551
-#EXTINF:-1 ,US:Starz Edge FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43553
-#EXTINF:-1 ,US:Starz East FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43554
-#EXTINF:-1 ,US:Starz In Black HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43556
-#EXTINF:-1 ,US:Starz Cinema East FHD
-http://linux-app.tv:6204/15020208413552/24021189856304/43559
-#EXTINF:-1 ,US:Showtime 2
-http://linux-app.tv:6204/15020208413552/24021189856304/43561
-#EXTINF:-1 ,US:Showtime West HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43563
-#EXTINF:-1 ,US:Showtime Extreme HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43565
-#EXTINF:-1 ,US:Showtime Beyond HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43567
-#EXTINF:-1 ,US:ShowTime Family Zone HD
-http://linux-app.tv:6204/15020208413552/24021189856304/43569
-#EXTINF:-1 ,US:NBC Sports Northeast
-http://linux-app.tv:6204/15020208413552/24021189856304/33451
-#EXTINF:-1 ,US:NFL Network
-http://linux-app.tv:6204/15020208413552/24021189856304/20555
-#EXTINF:-1 ,US:PAC12 Arizona
-http://linux-app.tv:6204/15020208413552/24021189856304/20554
-#EXTINF:-1 ,US:PAC12 BayArea
-http://linux-app.tv:6204/15020208413552/24021189856304/20553
-#EXTINF:-1 ,US:PAC12 LosAngeles
-http://linux-app.tv:6204/15020208413552/24021189856304/20552
-#EXTINF:-1 ,US:PAC12 Mountain
-http://linux-app.tv:6204/15020208413552/24021189856304/20551
-#EXTINF:-1 ,US:PAC12 Network
-http://linux-app.tv:6204/15020208413552/24021189856304/20550
-#EXTINF:-1 ,US:PAC12 Oregon
-http://linux-app.tv:6204/15020208413552/24021189856304/20549
-#EXTINF:-1 ,US:PAC12 Washington
-http://linux-app.tv:6204/15020208413552/24021189856304/20548
-#EXTINF:-1 ,US:ESPN 1
-http://linux-app.tv:6204/15020208413552/24021189856304/33437
-#EXTINF:-1 ,US:ESPN 2
-http://linux-app.tv:6204/15020208413552/24021189856304/33438
-#EXTINF:-1 ,US:ESPN Longhorn Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33440
-#EXTINF:-1 ,US:ESPN News
-http://linux-app.tv:6204/15020208413552/24021189856304/33441
-#EXTINF:-1 ,US:ESPN SEC Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33442
-#EXTINF:-1 ,US:ESPNU College Sports
-http://linux-app.tv:6204/15020208413552/24021189856304/33443
-#EXTINF:-1 ,US:Fight Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33444
-#EXTINF:-1 ,US:FNTSY Sports Network
-http://linux-app.tv:6204/15020208413552/24021189856304/33445
-#EXTINF:-1 ,US:Fox College Sports Atlantic
-http://linux-app.tv:6204/15020208413552/24021189856304/33446
-#EXTINF:-1 ,US:Fox College Sports Central
-http://linux-app.tv:6204/15020208413552/24021189856304/33447
-#EXTINF:-1 ,US:Fox College Sports Pacific
-http://linux-app.tv:6204/15020208413552/24021189856304/33448
-#EXTINF:-1 ,US:Fox Sports 1
-http://linux-app.tv:6204/15020208413552/24021189856304/33449
-#EXTINF:-1 ,US:Fox Sports 2
-http://linux-app.tv:6204/15020208413552/24021189856304/20567
-#EXTINF:-1 ,US:Sports man Channel
-http://linux-app.tv:6204/15020208413552/24021189856304/33452
-#EXTINF:-1 ,US:Stadium
-http://linux-app.tv:6204/15020208413552/24021189856304/20534
-#EXTINF:-1 ,US:Stadium1
-http://linux-app.tv:6204/15020208413552/24021189856304/20533
-#EXTINF:-1 ,US:Stadium2
-http://linux-app.tv:6204/15020208413552/24021189856304/20532
-#EXTINF:-1 ,US:Stadium3
-http://linux-app.tv:6204/15020208413552/24021189856304/20531
 #EXTINF:-1 ,ESP| GOLTV HD
 http://doubleagechanmain.com:80/123456/123456/13632
 #EXTINF:-1 ,ESP| HISTORIA HD
@@ -2441,8 +1155,6 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 ,United States: NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 ,United States: NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 group-title="Channels",HONDURAS:Teleceiba Canal 7 | SD
 http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1 group-title="Channels",HONDURAS:TEN Honduras | HD
@@ -2451,186 +1163,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 ,Uk:Sky ITV 1
-http://linux-app.tv:6204/60400655844704/32991126026152/8552
-#EXTINF:-1 ,Uk:Sky ITV 2
-http://linux-app.tv:6204/60400655844704/32991126026152/8551
-#EXTINF:-1 ,Uk:Sky ITV 4
-http://linux-app.tv:6204/60400655844704/32991126026152/8549
-#EXTINF:-1 ,Uk:ITV BE
-http://linux-app.tv:6204/60400655844704/32991126026152/30823
-#EXTINF:-1 ,Uk:Sky True Movies 1
-http://linux-app.tv:6204/60400655844704/32991126026152/8510
-#EXTINF:-1 ,Uk:FOX News
-http://linux-app.tv:6204/60400655844704/32991126026152/8509
-#EXTINF:-1 ,Uk:Sky BT Sport 1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33630
-#EXTINF:-1 ,Uk:Sky BT Sport 2 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33631
-#EXTINF:-1 ,Uk:Sky BT Sport 3 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33577
-#EXTINF:-1 ,Uk:Sky Eir Sport 1
-http://linux-app.tv:6204/60400655844704/32991126026152/33557
-#EXTINF:-1 ,Uk:Sky Eir Sport 2
-http://linux-app.tv:6204/60400655844704/32991126026152/33558
-#EXTINF:-1 ,Uk:Sky Eurosport 1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33633
-#EXTINF:-1 ,Uk:Sky Eurosport 2 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33634
-#EXTINF:-1 ,Uk:Sky Sports News HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33312
-#EXTINF:-1 ,Uk:Sky Sport Football
-http://linux-app.tv:6204/60400655844704/32991126026152/33638
-#EXTINF:-1 ,Uk:Sky Sports Action HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33641
-#EXTINF:-1 ,Uk:Sky BoxNation
-http://linux-app.tv:6204/60400655844704/32991126026152/33629
-#EXTINF:-1 ,Uk:Sky Sports Cricket HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33640
-#EXTINF:-1 ,Uk:Sky Sports Golf HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33642
-#EXTINF:-1 ,Uk:Sky Sports Main Event HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33639
-#EXTINF:-1 ,Uk:Sky Sports Mix HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33645
-#EXTINF:-1 ,Uk:Sky Sports Premier League HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33643
-#EXTINF:-1 ,Uk:Sky Liverpool FC TV HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33635
-#EXTINF:-1 ,Uk:FOX SPORTS NEWS
-http://linux-app.tv:6204/60400655844704/32991126026152/33278
-#EXTINF:-1 ,Uk:Sky Movies 24
-http://linux-app.tv:6204/60400655844704/32991126026152/8546
-#EXTINF:-1 ,Uk:Sky Movies Action HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8545
-#EXTINF:-1 ,Uk:Sky Movies Disney
-http://linux-app.tv:6204/60400655844704/32991126026152/8542
-#EXTINF:-1 ,Uk:Sky Movies Drama HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8541
-#EXTINF:-1 ,Uk:Sky Movies Greats
-http://linux-app.tv:6204/60400655844704/32991126026152/8539
-#EXTINF:-1 ,Uk:Sky Movies Premiere HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8538
-#EXTINF:-1 ,Uk:Sky Good Food HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8556
-#EXTINF:-1 ,Uk:Sky Home & Health
-http://linux-app.tv:6204/60400655844704/32991126026152/8554
-#EXTINF:-1 ,Uk:MTV OMG (VIVA)
-http://linux-app.tv:6204/60400655844704/32991126026152/30858
-#EXTINF:-1 ,Uk:MTV ROCKS
-http://linux-app.tv:6204/60400655844704/32991126026152/30860
-#EXTINF:-1 ,Uk:MTV CLASSIC
-http://linux-app.tv:6204/60400655844704/32991126026152/30864
-#EXTINF:-1 ,Uk:Sky Chelsea TV HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33632
-#EXTINF:-1 ,Uk:Sky Comedy Central
-http://linux-app.tv:6204/60400655844704/32991126026152/8569
-#EXTINF:-1 ,Uk:Sky Animal Planet HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8593
-#EXTINF:-1 ,Uk:Sky Bloomberg HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8584
-#EXTINF:-1 ,Uk:Sky Discovery
-http://linux-app.tv:6204/60400655844704/32991126026152/8568
-#EXTINF:-1 ,Uk:Sky Discovery Science
-http://linux-app.tv:6204/60400655844704/32991126026152/8566
-#EXTINF:-1 ,Uk:Sky Discovery Shed
-http://linux-app.tv:6204/60400655844704/32991126026152/8565
-#EXTINF:-1 ,Uk:Sky Discovery Turbo
-http://linux-app.tv:6204/60400655844704/32991126026152/8564
-#EXTINF:-1 ,Uk:Sky History HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8555
-#EXTINF:-1 ,Uk:Sky Nat Geo Wild HD
-http://linux-app.tv:6204/60400655844704/32991126026152/8535
-#EXTINF:-1 ,Uk:YESTERDAY
-http://linux-app.tv:6204/60400655844704/32991126026152/30828
-#EXTINF:-1 ,Uk:SPIKE
-http://linux-app.tv:6204/60400655844704/32991126026152/30833
-#EXTINF:-1 ,Uk:SONY CHANNEL HD
-http://linux-app.tv:6204/60400655844704/32991126026152/30834
-#EXTINF:-1 ,Uk:FOX
-http://linux-app.tv:6204/60400655844704/32991126026152/30835
-#EXTINF:-1 ,Uk:DMAX
-http://linux-app.tv:6204/60400655844704/32991126026152/30839
-#EXTINF:-1 ,Uk:EDEN
-http://linux-app.tv:6204/60400655844704/32991126026152/30872
-#EXTINF:-1 ,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 ,Uk:Sky True Movies 1
-http://m-iptv.net:6204/95025267076109/65839594001441/8510
-#EXTINF:-1 ,Uk:FOX News
-http://m-iptv.net:6204/95025267076109/65839594001441/8509
-#EXTINF:-1 ,Uk:Sky BT Sport 1 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33630
-#EXTINF:-1 ,Uk:Sky BT Sport 2 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33631
-#EXTINF:-1 ,Uk:Sky BT Sport 3 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33577
-#EXTINF:-1 ,Uk:Sky Eir Sport 1
-http://m-iptv.net:6204/95025267076109/65839594001441/33557
-#EXTINF:-1 ,Uk:Sky Eir Sport 2
-http://m-iptv.net:6204/95025267076109/65839594001441/33558
-#EXTINF:-1 ,Uk:Sky Eurosport 1 HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33633
-#EXTINF:-1 ,Uk:Sky Sports News HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33312
-#EXTINF:-1 ,Uk:Sky Sport Football
-http://m-iptv.net:6204/95025267076109/65839594001441/33638
-#EXTINF:-1 ,Uk:Sky Sports Action HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33641
-#EXTINF:-1 ,Uk:Sky BoxNation
-http://m-iptv.net:6204/95025267076109/65839594001441/33629
-#EXTINF:-1 ,Uk:Sky Sports Cricket HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33640
-#EXTINF:-1 ,Uk:Sky Sports Golf HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33642
-#EXTINF:-1 ,Uk:Sky Sports Main Event HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33639
-#EXTINF:-1 ,Uk:Sky Sports Mix HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33645
-#EXTINF:-1 ,Uk:Sky Sports Premier League HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33643
-#EXTINF:-1 ,Uk:Sky Liverpool FC TV HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33635
-#EXTINF:-1 ,Uk:Sky Movies Action HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8545
-#EXTINF:-1 ,Uk:Sky Movies Comedy HD
-http://m-iptv.net:6204/95025267076109/65839594001441/30818
-#EXTINF:-1 ,Uk:Sky Movies Family HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8540
-#EXTINF:-1 ,Uk:HORROR CHANNEL
-http://m-iptv.net:6204/95025267076109/65839594001441/30877
-#EXTINF:-1 ,Uk:Filmon TV
-http://m-iptv.net:6204/95025267076109/65839594001441/30879
-#EXTINF:-1 ,Uk:SONY MOVIES CHRISTMAS
-http://m-iptv.net:6204/95025267076109/65839594001441/30881
-#EXTINF:-1 ,Uk:Sky Quest
-http://m-iptv.net:6204/95025267076109/65839594001441/8529
-#EXTINF:-1 ,Uk:Sky Animal Planet HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8593
-#EXTINF:-1 ,Uk:Sky Discovery
-http://m-iptv.net:6204/95025267076109/65839594001441/8568
-#EXTINF:-1 ,Uk:Sky Discovery History
-http://m-iptv.net:6204/95025267076109/65839594001441/8567
-#EXTINF:-1 ,Uk:Sky Discovery Science
-http://m-iptv.net:6204/95025267076109/65839594001441/8566
-#EXTINF:-1 ,Uk:Sky Discovery Shed
-http://m-iptv.net:6204/95025267076109/65839594001441/8565
-#EXTINF:-1 ,Uk:Sky Discovery Turbo
-http://m-iptv.net:6204/95025267076109/65839594001441/8564
-#EXTINF:-1 ,Uk:Sky History HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8555
-#EXTINF:-1 ,Uk:Sky Nat Geo Wild HD
-http://m-iptv.net:6204/95025267076109/65839594001441/8535
-#EXTINF:-1 ,Uk:YESTERDAY
-http://m-iptv.net:6204/95025267076109/65839594001441/30828
-#EXTINF:-1 ,Uk:SPIKE
-http://m-iptv.net:6204/95025267076109/65839594001441/30833
-#EXTINF:-1 ,Uk:FOX
-http://m-iptv.net:6204/95025267076109/65839594001441/30835
-#EXTINF:-1 ,Uk:DMAX
-http://m-iptv.net:6204/95025267076109/65839594001441/30839
-#EXTINF:-1 ,Uk:EDEN
-http://m-iptv.net:6204/95025267076109/65839594001441/30872
 #EXTINF:-1 group-title="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg",24/7 Retro TV
@@ -2869,8 +1401,6 @@ http://51.52.156.22:8888/http/003
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 group-title="English",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="English",CBN News
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 #EXTINF:-1 group-title="English",CBN News
@@ -2959,18 +1489,12 @@ https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg",Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/cigpFzt.png",CSat TV
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png",CSUDH TV (Dominguez Hills)
 http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/He6Ugfn.jpg",CT-N Court Feed
 http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/He6Ugfn.jpg",CT-N Live Stream 2
 http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png",CTN
-http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png",CTN
-http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png",CTN
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://pmcvariety.files.wordpress.com/2019/06/dabl-herologo1-e1560713804358.jpg",Dabl
@@ -3109,8 +1633,6 @@ https://v-pi.mybtv.net/event/41.2/640x480?start_time=2019-12-20T23%3A45%3A00.000
 http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/GgmXZRU.png",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/GgmXZRU.png",iFILM English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",Imam Hussein TV 3 English
@@ -3585,10 +2107,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="English",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="English",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 ,BBC Four HD
 http://81.24.248.26:9981/stream/channelid/387056080?ticket=EDD93B5718C2FA2E471B9542CCD08D1B5203FE1F&profile=pass
 #EXTINF:-1 ,BBC NEWS
@@ -3601,6 +2119,190 @@ http://81.24.248.26:9981/stream/channelid/188614926?ticket=34EDFA674145E1CDEBA23
 http://81.24.248.26:9981/stream/channelid/1337507486?ticket=DF1B17F898312993B034E19A06F6592C71DD40D8&profile=pass
 #EXTINF:-1 ,ESP| ATRES SERIES HD
 http://doubleagechanmain.com:80/123456/123456/13598
+#EXTINF:-1 ,Us- Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 ,US- NASA TV Media
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 ,US- Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,US- Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 ,US- Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,US- The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 ,US- The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 ,US- The Titanic Channel
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 ,US- Azteca America (WPSJ)
+https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1 ,US- Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 ,Nba Tv
+http://cdn.miip.tv:8080/canada/123456/518
+#EXTINF:-1 ,NFL
+http://cdn.miip.tv:8080/canada/123456/519
+#EXTINF:-1 ,Fox Deportes
+http://cdn.miip.tv:8080/canada/123456/531
+#EXTINF:-1 ,History Usa
+http://cdn.miip.tv:8080/canada/123456/532
+#EXTINF:-1 ,Lifetime Usa
+http://cdn.miip.tv:8080/canada/123456/535
+#EXTINF:-1 ,Lifetime Movie
+http://cdn.miip.tv:8080/canada/123456/536
+#EXTINF:-1 ,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/canada/123456/537
+#EXTINF:-1 ,Fox Sport Usa 2
+http://cdn.miip.tv:8080/canada/123456/538
+#EXTINF:-1 ,LA SEXTA ES
+http://cdn.miip.tv:8080/canada/123456/539
+#EXTINF:-1 ,MOVISTAR ACCION ES
+http://cdn.miip.tv:8080/canada/123456/540
+#EXTINF:-1 ,ESPN USA
+http://cdn.miip.tv:8080/canada/123456/541
+#EXTINF:-1 ,TVO Canal 23 | ESA
+http://cdn.miip.tv:8080/canada/123456/1317
+#EXTINF:-1 ,SPECTRUM HOUSTON
+http://cdn.miip.tv:8080/canada/123456/1320
+#EXTINF:-1 ,PRIME TICKET LOS ANGELES
+http://cdn.miip.tv:8080/canada/123456/1321
+#EXTINF:-1 ,SHOWTIME NEXT
+http://cdn.miip.tv:8080/canada/123456/1375
+#EXTINF:-1 ,SHOWTIME WOMEN
+http://cdn.miip.tv:8080/canada/123456/1422
+#EXTINF:-1 ,SPECTRUM LAKERS
+http://cdn.miip.tv:8080/canada/123456/1485
+#EXTINF:-1 ,FOX SPORT WEST
+http://cdn.miip.tv:8080/canada/123456/2082
+#EXTINF:-1 ,MEGA TV MIAMI
+http://cdn.miip.tv:8080/canada/123456/2645
+#EXTINF:-1 ,MILITARY CHANNEL
+http://cdn.miip.tv:8080/canada/123456/2648
+#EXTINF:-1 ,UNIVISION ORLANDO
+http://cdn.miip.tv:8080/canada/123456/2649
+#EXTINF:-1 ,FOX SPORT FLORIDA
+http://cdn.miip.tv:8080/canada/123456/2650
+#EXTINF:-1 ,TELEMUNDO ORLANDO
+http://cdn.miip.tv:8080/canada/123456/2651
+#EXTINF:-1 ,SUN SPORT CHANNEL
+http://cdn.miip.tv:8080/canada/123456/2652
+#EXTINF:-1 ,HBO EAST
+http://cdn.miip.tv:8080/canada/123456/2659
+#EXTINF:-1 ,HBO SIGNATURE ESPANOL
+http://cdn.miip.tv:8080/canada/123456/2660
+#EXTINF:-1 ,HBO SIGNATURE INGLES
+http://cdn.miip.tv:8080/canada/123456/3508
+#EXTINF:-1 ,HBO COMEDY INGLES
+http://cdn.miip.tv:8080/canada/123456/3509
+#EXTINF:-1 ,SHOWTIME INGLES
+http://cdn.miip.tv:8080/canada/123456/3510
+#EXTINF:-1 ,SHOWTIME 2
+http://cdn.miip.tv:8080/canada/123456/3511
+#EXTINF:-1 ,SHOWTIME BEYOND
+http://cdn.miip.tv:8080/canada/123456/3512
+#EXTINF:-1 ,SHOWTIMECASE
+http://cdn.miip.tv:8080/canada/123456/3513
+#EXTINF:-1 ,SHOWTIME EXTREME
+http://cdn.miip.tv:8080/canada/123456/3514
+#EXTINF:-1 ,THE MOVIE CHANNEL
+http://cdn.miip.tv:8080/canada/123456/3515
+#EXTINF:-1 ,SHOWTIME ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3516
+#EXTINF:-1 ,HBO COMEDY ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3518
+#EXTINF:-1 ,HBO LATINO USA
+http://cdn.miip.tv:8080/canada/123456/3519
+#EXTINF:-1 ,HBO FAMILY
+http://cdn.miip.tv:8080/canada/123456/3520
+#EXTINF:-1 ,HBO 2
+http://cdn.miip.tv:8080/canada/123456/3521
+#EXTINF:-1 ,STARZ EAST
+http://cdn.miip.tv:8080/canada/123456/3522
+#EXTINF:-1 ,STARZ KIDS FAMILY
+http://cdn.miip.tv:8080/canada/123456/3523
+#EXTINF:-1 ,STARZ CINEMA
+http://cdn.miip.tv:8080/canada/123456/3524
+#EXTINF:-1 ,ENCORE EAST
+http://cdn.miip.tv:8080/canada/123456/3525
+#EXTINF:-1 ,ENCORE FAMILY
+http://cdn.miip.tv:8080/canada/123456/3526
+#EXTINF:-1 ,CINEMAX EAST
+http://cdn.miip.tv:8080/canada/123456/3527
+#EXTINF:-1 ,DISCOVERY THEATHER
+http://cdn.miip.tv:8080/canada/123456/3529
+#EXTINF:-1 ,DISCOVERY WORLD
+http://cdn.miip.tv:8080/canada/123456/3530
+#EXTINF:-1 ,DISCOVERY SCIENCIA
+http://cdn.miip.tv:8080/canada/123456/3531
+#EXTINF:-1 ,HBO WEST
+http://cdn.miip.tv:8080/canada/123456/3533
+#EXTINF:-1 ,HBO SIGNATURE LATINO
+http://cdn.miip.tv:8080/canada/123456/3534
+#EXTINF:-1 ,HBO 2 LATINO
+http://cdn.miip.tv:8080/canada/123456/3535
+#EXTINF:-1 ,HBO PLUS ESTE
+http://cdn.miip.tv:8080/canada/123456/3536
+#EXTINF:-1 ,AMC USA
+http://cdn.miip.tv:8080/canada/123456/3551
+#EXTINF:-1 ,Unicable | MX
+http://cdn.miip.tv:8080/canada/123456/103
+#EXTINF:-1 ,STARZ BLACK
+http://cdn.miip.tv:8080/canada/123456/104
+#EXTINF:-1 ,DISNEY CHANNEL
+http://cdn.miip.tv:8080/canada/123456/105
+#EXTINF:-1 ,AT&T SPORNET COLORADO
+http://cdn.miip.tv:8080/canada/123456/106
+#EXTINF:-1 ,BT Sport Extra 1
+http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
+#EXTINF:-1 ,Discovery
+http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
+#EXTINF:-1 ,SkySp F'ball
+http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
+#EXTINF:-1 ,SkySp PL
+http://81.24.248.26:9981/stream/channelid/1337507486?ticket=DF1B17F898312993B034E19A06F6592C71DD40D8&profile=pass
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 ,Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 ,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 ,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 ,FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 ,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 ,NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 ,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 ,Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 ,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 ,Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:-1 ,Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 ,Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 ,Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 ,Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
 
