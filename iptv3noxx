@@ -1,4 +1,314 @@
 #EXTM3U
+#EXTINF:-1 ,US: CINEMAX 5 STARMAX
+http://thenew.tv:8000/live/Dante/Dante1/224.m3u8
+#EXTINF:-1 ,US: CINEMAX ACTIONMAX
+http://thenew.tv:8000/live/Dante/Dante1/225.m3u8
+#EXTINF:-1 ,US: CINEMAX EAST
+http://thenew.tv:8000/live/Dante/Dante1/226.m3u8
+#EXTINF:-1 ,US: CInemax Outermax
+http://thenew.tv:8000/live/Dante/Dante1/96072.m3u8
+#EXTINF:-1 ,US: Cinemax ThrillerMax
+http://thenew.tv:8000/live/Dante/Dante1/93551.m3u8
+#EXTINF:-1 ,US: CINEMAX WEST
+http://thenew.tv:8000/live/Dante/Dante1/2065.m3u8
+#EXTINF:-1 ,History Usa
+http://cdn.miip.tv:8080/canada/123456/532
+#EXTINF:-1 ,HBO EAST
+http://cdn.miip.tv:8080/canada/123456/2659
+#EXTINF:-1 ,HBO SIGNATURE ESPANOL
+http://cdn.miip.tv:8080/canada/123456/2660
+#EXTINF:-1 ,HBO SIGNATURE INGLES
+http://cdn.miip.tv:8080/canada/123456/3508
+#EXTINF:-1 ,HBO COMEDY INGLES
+http://cdn.miip.tv:8080/canada/123456/3509
+#EXTINF:-1 ,HBO COMEDY ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3518
+#EXTINF:-1 ,HBO LATINO USA
+http://cdn.miip.tv:8080/canada/123456/3519
+#EXTINF:-1 ,HBO FAMILY
+http://cdn.miip.tv:8080/canada/123456/3520
+#EXTINF:-1 ,HBO 2
+http://cdn.miip.tv:8080/canada/123456/3521
+#EXTINF:-1 ,HBO WEST
+http://cdn.miip.tv:8080/canada/123456/3533
+#EXTINF:-1 ,HBO SIGNATURE LATINO
+http://cdn.miip.tv:8080/canada/123456/3534
+#EXTINF:-1 ,HBO 2 LATINO
+http://cdn.miip.tv:8080/canada/123456/3535
+#EXTINF:-1 ,HBO PLUS ESTE
+http://cdn.miip.tv:8080/canada/123456/3536
+#EXTINF:-1 ,US | HBO ESP
+http://plus-tv.us:8080/live/10099/10099/14604.ts
+#EXTINF:-1 ,US | HBO ZONE
+http://plus-tv.us:8080/live/10099/10099/14605.ts
+#EXTINF:-1 ,US | HBO Signature ESP
+http://plus-tv.us:8080/live/10099/10099/14608.ts
+#EXTINF:-1 ,US | HBO
+http://plus-tv.us:8080/live/10099/10099/14610.ts
+#EXTINF:-1 ,US | HBO Latino
+http://plus-tv.us:8080/live/10099/10099/14611.ts
+#EXTINF:-1 ,US | HBO Family
+http://plus-tv.us:8080/live/10099/10099/14618.ts
+#EXTINF:-1 ,US | Hbo Siganture
+http://plus-tv.us:8080/live/10099/10099/14619.ts
+#EXTINF:-1 ,US | HBO Comedy
+http://plus-tv.us:8080/live/10099/10099/14624.ts
+#EXTINF:-1 ,US | HBO West
+http://plus-tv.us:8080/live/10099/10099/14635.ts
+#EXTINF:-1 ,US: HBO
+http://thenew.tv:8000/live/Dante/Dante1/70.m3u8
+#EXTINF:-1 ,US: HBO 2
+http://thenew.tv:8000/live/Dante/Dante1/93549.m3u8
+#EXTINF:-1 ,US: HBO Comedy
+http://thenew.tv:8000/live/Dante/Dante1/72.m3u8
+#EXTINF:-1 ,US: HBO East SD
+http://thenew.tv:8000/live/Dante/Dante1/2068.m3u8
+#EXTINF:-1 ,US: HBO Family East
+http://thenew.tv:8000/live/Dante/Dante1/74.m3u8
+#EXTINF:-1 ,US: HBO Signature
+http://thenew.tv:8000/live/Dante/Dante1/93550.m3u8
+#EXTINF:-1 ,US: HBO West SD
+http://thenew.tv:8000/live/Dante/Dante1/2069.m3u8
+#EXTINF:-1 ,US: HBO Zone
+http://thenew.tv:8000/live/Dante/Dante1/75.m3u8
+#EXTINF:-1 ,US | Cinemax East
+http://plus-tv.us:8080/live/10099/10099/14595.ts
+#EXTINF:-1 ,Lifetime Movie
+http://cdn.miip.tv:8080/canada/123456/536
+#EXTINF:-1 ,THE MOVIE CHANNEL
+http://cdn.miip.tv:8080/canada/123456/3515
+#EXTINF:-1 ,US | Showtime 2
+http://plus-tv.us:8080/live/10099/10099/14598.ts
+#EXTINF:-1 ,US | Showtime Extreme
+http://plus-tv.us:8080/live/10099/10099/14600.ts
+#EXTINF:-1 ,US | SHOWTIME ESP
+http://plus-tv.us:8080/live/10099/10099/14609.ts
+#EXTINF:-1 ,US | Showtime 2
+http://plus-tv.us:8080/live/10099/10099/14680.ts
+#EXTINF:-1 ,US | Showtime Extreme
+http://plus-tv.us:8080/live/10099/10099/14681.ts
+#EXTINF:-1 ,US | Showtime West
+http://plus-tv.us:8080/live/10099/10099/14683.ts
+#EXTINF:-1 ,US | Showtime HD
+http://plus-tv.us:8080/live/10099/10099/14684.ts
+#EXTINF:-1 ,US | Showtime 2 *
+http://plus-tv.us:8080/live/10099/10099/14685.ts
+#EXTINF:-1 ,US | Showtime Extreme *
+http://plus-tv.us:8080/live/10099/10099/14686.ts
+#EXTINF:-1 ,US | Showtime Latino
+http://plus-tv.us:8080/live/10099/10099/14687.ts
+#EXTINF:-1 ,US: Game Show Network
+http://thenew.tv:8000/live/Dante/Dante1/104532.m3u8
+#EXTINF:-1 ,US: Showtime
+http://thenew.tv:8000/live/Dante/Dante1/76.m3u8
+#EXTINF:-1 ,US: Showtime 2
+http://thenew.tv:8000/live/Dante/Dante1/77.m3u8
+#EXTINF:-1 ,US: Showtime Beyond
+http://thenew.tv:8000/live/Dante/Dante1/96106.m3u8
+#EXTINF:-1 ,US: Showtime East SD
+http://thenew.tv:8000/live/Dante/Dante1/2070.m3u8
+#EXTINF:-1 ,US: Showtime Extreme
+http://thenew.tv:8000/live/Dante/Dante1/96071.m3u8
+#EXTINF:-1 ,US: Showtime Family Zone
+http://thenew.tv:8000/live/Dante/Dante1/96109.m3u8
+#EXTINF:-1 ,US: Showtime Next
+http://thenew.tv:8000/live/Dante/Dante1/96107.m3u8
+#EXTINF:-1 ,US: Showtime Showcase
+http://thenew.tv:8000/live/Dante/Dante1/96108.m3u8
+#EXTINF:-1 ,US: Showtime West
+http://thenew.tv:8000/live/Dante/Dante1/78.m3u8
+#EXTINF:-1 ,US: Showtime Women
+http://thenew.tv:8000/live/Dante/Dante1/96110.m3u8
+#EXTINF:-1 ,SHOWTIME NEXT
+http://cdn.miip.tv:8080/canada/123456/1375
+#EXTINF:-1 ,SHOWTIME WOMEN
+http://cdn.miip.tv:8080/canada/123456/1422
+#EXTINF:-1 ,SHOWTIME INGLES
+http://cdn.miip.tv:8080/canada/123456/3510
+#EXTINF:-1 ,SHOWTIME 2
+http://cdn.miip.tv:8080/canada/123456/3511
+#EXTINF:-1 ,SHOWTIME BEYOND
+http://cdn.miip.tv:8080/canada/123456/3512
+#EXTINF:-1 ,SHOWTIMECASE
+http://cdn.miip.tv:8080/canada/123456/3513
+#EXTINF:-1 ,SHOWTIME EXTREME
+http://cdn.miip.tv:8080/canada/123456/3514
+#EXTINF:-1 ,SHOWTIME ESPANOL
+http://cdn.miip.tv:8080/canada/123456/3516
+#EXTINF:-1 ,US: Starz Cinema
+http://thenew.tv:8000/live/Dante/Dante1/93370.m3u8
+#EXTINF:-1 ,US: Starz Comedy
+http://thenew.tv:8000/live/Dante/Dante1/79.m3u8
+#EXTINF:-1 ,US: STARZ EAST
+http://thenew.tv:8000/live/Dante/Dante1/111513.m3u8
+#EXTINF:-1 ,US: Starz Edge
+http://thenew.tv:8000/live/Dante/Dante1/80.m3u8
+#EXTINF:-1 ,US: Starz Encore
+http://thenew.tv:8000/live/Dante/Dante1/81.m3u8
+#EXTINF:-1 ,US: Starz Encore Action
+http://thenew.tv:8000/live/Dante/Dante1/93547.m3u8
+#EXTINF:-1 ,US: Starz Encore Black
+http://thenew.tv:8000/live/Dante/Dante1/93548.m3u8
+#EXTINF:-1 ,US: Starz Encore Classic
+http://thenew.tv:8000/live/Dante/Dante1/93394.m3u8
+#EXTINF:-1 ,US: Starz Encore Westerns
+http://thenew.tv:8000/live/Dante/Dante1/93545.m3u8
+#EXTINF:-1 ,US: Starz In Black
+http://thenew.tv:8000/live/Dante/Dante1/93397.m3u8
+#EXTINF:-1 ,US: Starz Kids & Family
+http://thenew.tv:8000/live/Dante/Dante1/82.m3u8
+#EXTINF:-1 ,US: STARZ WEST
+http://thenew.tv:8000/live/Dante/Dante1/100461.m3u8
+#EXTINF:-1 ,STARZ CINEMA
+http://cdn.miip.tv:8080/canada/123456/3524
+#EXTINF:-1 ,CINEMAX EAST
+http://cdn.miip.tv:8080/canada/123456/3527
+#EXTINF:-1 ,US: History Channel
+http://thenew.tv:8000/live/Dante/Dante1/104606.m3u8
+#EXTINF:-1 ,US: Military History
+http://thenew.tv:8000/live/Dante/Dante1/104634.m3u8
+#EXTINF:-1 ,US: Discovery Channel
+http://thenew.tv:8000/live/Dante/Dante1/104600.m3u8
+#EXTINF:-1 ,US: Discovery en Español
+http://thenew.tv:8000/live/Dante/Dante1/175156.m3u8
+#EXTINF:-1 ,US: Discovery Family
+http://thenew.tv:8000/live/Dante/Dante1/104666.m3u8
+#EXTINF:-1 ,US: Discovery Life
+http://thenew.tv:8000/live/Dante/Dante1/104602.m3u8
+#EXTINF:-1 ,US: Discovery Science
+http://thenew.tv:8000/live/Dante/Dante1/104603.m3u8
+#EXTINF:-1 ,US: Investigation Discovery
+http://thenew.tv:8000/live/Dante/Dante1/104607.m3u8
+#EXTINF:-1 ,US: Investigation Discovery West
+http://thenew.tv:8000/live/Dante/Dante1/104629.m3u8
+#EXTINF:-1 ,US: Nat Geo Mundo
+http://thenew.tv:8000/live/Dante/Dante1/104636.m3u8
+#EXTINF:-1 ,US: Nat Geo Wild
+http://thenew.tv:8000/live/Dante/Dante1/104609.m3u8
+#EXTINF:-1 ,US | Nat Geo
+http://plus-tv.us:8080/live/10099/10099/14566.ts
+#EXTINF:-1 ,US | Nat Geo Wild
+http://plus-tv.us:8080/live/10099/10099/14567.ts
+#EXTINF:-1 ,US | Destination America
+http://plus-tv.us:8080/live/10099/10099/14555.ts
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XgejLKw.png",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/zXWgbVk.png",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:-1 ,Discovery
+http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
+#EXTINF:-1 ,US | Discovery Familia
+http://plus-tv.us:8080/live/10099/10099/14585.ts
+#EXTINF:-1 ,US | Discovery
+http://plus-tv.us:8080/live/10099/10099/14586.ts
+#EXTINF:-1 ,US | Discovery Velocity
+http://plus-tv.us:8080/live/10099/10099/14631.ts
+#EXTINF:-1 ,US | Discovery ID
+http://plus-tv.us:8080/live/10099/10099/14552.ts
+#EXTINF:-1 ,US | Discovery Family
+http://plus-tv.us:8080/live/10099/10099/14556.ts
+#EXTINF:-1 ,US | Discovery Life
+http://plus-tv.us:8080/live/10099/10099/14557.ts
+#EXTINF:-1 ,US | Discovery Science
+http://plus-tv.us:8080/live/10099/10099/14558.ts
+#EXTINF:-1 ,DISCOVERY THEATHER
+http://cdn.miip.tv:8080/canada/123456/3529
+#EXTINF:-1 ,DISCOVERY WORLD
+http://cdn.miip.tv:8080/canada/123456/3530
+#EXTINF:-1 ,DISCOVERY SCIENCIA
+http://cdn.miip.tv:8080/canada/123456/3531
+#EXTINF:-1 ,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 ,BT Sport Extra 1
+http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
+#EXTINF:-1 ,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/canada/123456/537
+#EXTINF:-1 ,Fox Sport Usa 2
+http://cdn.miip.tv:8080/canada/123456/538
+#EXTINF:-1 ,FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 ,MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 ,Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 ,Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 ,Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 ,Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 ,Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 ,Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 ,FOX SPORT WEST
+http://cdn.miip.tv:8080/canada/123456/2082
+#EXTINF:-1 ,FOX SPORT FLORIDA
+http://cdn.miip.tv:8080/canada/123456/2650
+#EXTINF:-1 ,SUN SPORT CHANNEL
+http://cdn.miip.tv:8080/canada/123456/2652
+#EXTINF:-1 group-title="Sport",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 ,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/MaQSYGw.jpg",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg",Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="English",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/jt6g1Jt.png",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042838.png",MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 ,US | FIGHTING SPORTS
+http://plus-tv.us:8080/live/10099/10099/14647.ts
+#EXTINF:-1 ,US | Eleven Sports
+http://plus-tv.us:8080/live/10099/10099/14648.ts
+#EXTINF:-1 ,US | Fox Sports 1
+http://plus-tv.us:8080/live/10099/10099/14653.ts
+#EXTINF:-1 ,US | Fox Sports 2
+http://plus-tv.us:8080/live/10099/10099/14654.ts
+#EXTINF:-1 ,US | GINX eSports
+http://plus-tv.us:8080/live/10099/10099/14656.ts
+#EXTINF:-1 ,US | BEIN SPORTS Ñ
+http://plus-tv.us:8080/live/10099/10099/14675.ts
+#EXTINF:-1 group-title="Undefined",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Us- Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 ,US- NASA TV Media
@@ -559,10 +869,6 @@ http://plus-tv.us:8080/live/1899/1899/4641.m3u8
 http://plus-tv.us:8080/live/1899/1899/12479.m3u8
 #EXTINF:-1 ,BRASIL | ESPN
 http://plus-tv.us:8080/live/1899/1899/11482.m3u8
-#EXTINF:-1 ,BRASIL | HBO 2
-http://plus-tv.us:8080/live/1899/1899/11468.m3u8
-#EXTINF:-1 ,CARACOL FHD COLOMBIA
-http://plus-tv.us:8080/live/1899/1899/4224.m3u8
 #EXTINF:-1 ,CARACOL INTERNACIONAL COLOMBIA
 http://plus-tv.us:8080/live/1899/1899/4225.m3u8
 #EXTINF:-1 ,CHILE | 24HORAS
@@ -1193,8 +1499,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ-HD)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://gray.tv/uploads/redesign/COMPANIES/logos/WWSB.png",ABC 7 Sarasota FL (WWSB)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 group-title="English",ABC 9 Chattanooga TN (WTVC)
@@ -1285,8 +1589,6 @@ https://www.ast.tv/stream/2/ultra.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/O9nTX0F.png",Aviation TV
-http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png",BBC News
@@ -2119,190 +2421,14 @@ http://81.24.248.26:9981/stream/channelid/188614926?ticket=34EDFA674145E1CDEBA23
 http://81.24.248.26:9981/stream/channelid/1337507486?ticket=DF1B17F898312993B034E19A06F6592C71DD40D8&profile=pass
 #EXTINF:-1 ,ESP| ATRES SERIES HD
 http://doubleagechanmain.com:80/123456/123456/13598
-#EXTINF:-1 ,Us- Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 ,US- NASA TV Media
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 ,US- Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,US- Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:-1 ,US- Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,US- The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 ,US- The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
-#EXTINF:-1 ,US- The Titanic Channel
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-#EXTINF:-1 ,US- Azteca America (WPSJ)
-https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 ,US- Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 ,Nba Tv
-http://cdn.miip.tv:8080/canada/123456/518
-#EXTINF:-1 ,NFL
-http://cdn.miip.tv:8080/canada/123456/519
-#EXTINF:-1 ,Fox Deportes
-http://cdn.miip.tv:8080/canada/123456/531
-#EXTINF:-1 ,History Usa
-http://cdn.miip.tv:8080/canada/123456/532
-#EXTINF:-1 ,Lifetime Usa
-http://cdn.miip.tv:8080/canada/123456/535
-#EXTINF:-1 ,Lifetime Movie
-http://cdn.miip.tv:8080/canada/123456/536
-#EXTINF:-1 ,Fox Sport 1 Usa
-http://cdn.miip.tv:8080/canada/123456/537
-#EXTINF:-1 ,Fox Sport Usa 2
-http://cdn.miip.tv:8080/canada/123456/538
 #EXTINF:-1 ,LA SEXTA ES
 http://cdn.miip.tv:8080/canada/123456/539
 #EXTINF:-1 ,MOVISTAR ACCION ES
 http://cdn.miip.tv:8080/canada/123456/540
-#EXTINF:-1 ,ESPN USA
-http://cdn.miip.tv:8080/canada/123456/541
-#EXTINF:-1 ,TVO Canal 23 | ESA
-http://cdn.miip.tv:8080/canada/123456/1317
-#EXTINF:-1 ,SPECTRUM HOUSTON
-http://cdn.miip.tv:8080/canada/123456/1320
-#EXTINF:-1 ,PRIME TICKET LOS ANGELES
-http://cdn.miip.tv:8080/canada/123456/1321
-#EXTINF:-1 ,SHOWTIME NEXT
-http://cdn.miip.tv:8080/canada/123456/1375
-#EXTINF:-1 ,SHOWTIME WOMEN
-http://cdn.miip.tv:8080/canada/123456/1422
-#EXTINF:-1 ,SPECTRUM LAKERS
-http://cdn.miip.tv:8080/canada/123456/1485
-#EXTINF:-1 ,FOX SPORT WEST
-http://cdn.miip.tv:8080/canada/123456/2082
-#EXTINF:-1 ,MEGA TV MIAMI
-http://cdn.miip.tv:8080/canada/123456/2645
-#EXTINF:-1 ,MILITARY CHANNEL
-http://cdn.miip.tv:8080/canada/123456/2648
-#EXTINF:-1 ,UNIVISION ORLANDO
-http://cdn.miip.tv:8080/canada/123456/2649
-#EXTINF:-1 ,FOX SPORT FLORIDA
-http://cdn.miip.tv:8080/canada/123456/2650
-#EXTINF:-1 ,TELEMUNDO ORLANDO
-http://cdn.miip.tv:8080/canada/123456/2651
-#EXTINF:-1 ,SUN SPORT CHANNEL
-http://cdn.miip.tv:8080/canada/123456/2652
-#EXTINF:-1 ,HBO EAST
-http://cdn.miip.tv:8080/canada/123456/2659
-#EXTINF:-1 ,HBO SIGNATURE ESPANOL
-http://cdn.miip.tv:8080/canada/123456/2660
-#EXTINF:-1 ,HBO SIGNATURE INGLES
-http://cdn.miip.tv:8080/canada/123456/3508
-#EXTINF:-1 ,HBO COMEDY INGLES
-http://cdn.miip.tv:8080/canada/123456/3509
-#EXTINF:-1 ,SHOWTIME INGLES
-http://cdn.miip.tv:8080/canada/123456/3510
-#EXTINF:-1 ,SHOWTIME 2
-http://cdn.miip.tv:8080/canada/123456/3511
-#EXTINF:-1 ,SHOWTIME BEYOND
-http://cdn.miip.tv:8080/canada/123456/3512
-#EXTINF:-1 ,SHOWTIMECASE
-http://cdn.miip.tv:8080/canada/123456/3513
-#EXTINF:-1 ,SHOWTIME EXTREME
-http://cdn.miip.tv:8080/canada/123456/3514
-#EXTINF:-1 ,THE MOVIE CHANNEL
-http://cdn.miip.tv:8080/canada/123456/3515
-#EXTINF:-1 ,SHOWTIME ESPANOL
-http://cdn.miip.tv:8080/canada/123456/3516
-#EXTINF:-1 ,HBO COMEDY ESPANOL
-http://cdn.miip.tv:8080/canada/123456/3518
-#EXTINF:-1 ,HBO LATINO USA
-http://cdn.miip.tv:8080/canada/123456/3519
-#EXTINF:-1 ,HBO FAMILY
-http://cdn.miip.tv:8080/canada/123456/3520
-#EXTINF:-1 ,HBO 2
-http://cdn.miip.tv:8080/canada/123456/3521
-#EXTINF:-1 ,STARZ EAST
-http://cdn.miip.tv:8080/canada/123456/3522
-#EXTINF:-1 ,STARZ KIDS FAMILY
-http://cdn.miip.tv:8080/canada/123456/3523
-#EXTINF:-1 ,STARZ CINEMA
-http://cdn.miip.tv:8080/canada/123456/3524
-#EXTINF:-1 ,ENCORE EAST
-http://cdn.miip.tv:8080/canada/123456/3525
-#EXTINF:-1 ,ENCORE FAMILY
-http://cdn.miip.tv:8080/canada/123456/3526
-#EXTINF:-1 ,CINEMAX EAST
-http://cdn.miip.tv:8080/canada/123456/3527
-#EXTINF:-1 ,DISCOVERY THEATHER
-http://cdn.miip.tv:8080/canada/123456/3529
-#EXTINF:-1 ,DISCOVERY WORLD
-http://cdn.miip.tv:8080/canada/123456/3530
-#EXTINF:-1 ,DISCOVERY SCIENCIA
-http://cdn.miip.tv:8080/canada/123456/3531
-#EXTINF:-1 ,HBO WEST
-http://cdn.miip.tv:8080/canada/123456/3533
-#EXTINF:-1 ,HBO SIGNATURE LATINO
-http://cdn.miip.tv:8080/canada/123456/3534
-#EXTINF:-1 ,HBO 2 LATINO
-http://cdn.miip.tv:8080/canada/123456/3535
-#EXTINF:-1 ,HBO PLUS ESTE
-http://cdn.miip.tv:8080/canada/123456/3536
-#EXTINF:-1 ,AMC USA
-http://cdn.miip.tv:8080/canada/123456/3551
 #EXTINF:-1 ,Unicable | MX
 http://cdn.miip.tv:8080/canada/123456/103
-#EXTINF:-1 ,STARZ BLACK
-http://cdn.miip.tv:8080/canada/123456/104
-#EXTINF:-1 ,DISNEY CHANNEL
-http://cdn.miip.tv:8080/canada/123456/105
-#EXTINF:-1 ,AT&T SPORNET COLORADO
-http://cdn.miip.tv:8080/canada/123456/106
-#EXTINF:-1 ,BT Sport Extra 1
-http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
-#EXTINF:-1 ,Discovery
-http://81.24.248.26:9981/stream/channelid/772325611?ticket=22E20C32FEC97160A609AF7716BD753C57D8511A&profile=pass
-#EXTINF:-1 ,SkySp F'ball
-http://81.24.248.26:9981/stream/channelid/1991408775?ticket=314DAE30F3E1E378BDE44F1D985FB63E3F553051&profile=pass
-#EXTINF:-1 ,SkySp PL
-http://81.24.248.26:9981/stream/channelid/1337507486?ticket=DF1B17F898312993B034E19A06F6592C71DD40D8&profile=pass
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 ,Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 ,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 ,FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,FOX 28 Savannah GA (WTGS)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 ,NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 ,Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 ,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1 ,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
-#EXTINF:-1 ,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 ,Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1 ,Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 ,Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 ,Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 ,Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
 
